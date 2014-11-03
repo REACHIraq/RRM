@@ -1,0 +1,262 @@
+governorate	district	geo	gaps	diseases	
+Dahuk	Dahuk	36.68553041,43.62390289	Medical_Assistance	flu	
+Dahuk	Zakho	36.86798395,42.96852205	Household_Items	diarrhea	
+Ninewa	Sinjar	36.86821475,42.9687036	Food	diarrhea	
+Ninewa	Sinjar	36.86852106,42.96865297	Clothing	diarrhea	
+Dahuk	Zakho	37.08490119,42.42833463	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.08819268,42.43266614	Water	chronic diarrhea	
+Dahuk	Dahuk	36.64495785,43.41156003	Water	flu other_disease	
+Dahuk	Dahuk	36.63952399,43.52394241	Water	chronic flu	
+Dahuk	Zakho	37.0933053,42.4321584	Water	chronic diarrhea	
+Dahuk	Zakho	37.0849003,42.4035074	Food	chronic diarrhea	
+Dahuk	Zakho	37.0597859,42.4423284	Food	chronic diarrhea	
+Dahuk	Zakho	37.0849003,42.4035074	Food	chronic diarrhea	
+Kirkuk	Daquq	35.14503334,44.4513093	Medical_Assistance	chronic diarrhea	
+Kirkuk	Daquq	35.14492408,44.45127301	Water	chronic diarrhea	
+Kirkuk	Daquq	35.14498937,44.45130738	Medical_Assistance	chronic	
+Dahuk	Dahuk	36.73190945,43.86932133	Food	flu	
+Dahuk	Dahuk	36.72426595,43.87392039	Medical_Assistance	chronic	
+Dahuk	Dahuk	36.73113337,43.88195436	Rental_Support	chronic	
+Kirkuk	Daquq	35.16134515,44.43922218	Medical_Assistance	chronic	
+Kirkuk	Daquq	35.16122038,44.43916644	Food	chronic	
+Kirkuk	Daquq	35.16135873,44.43913962	Food	chronic	
+Kirkuk	Daquq	35.12745129,44.44881401	Clothing	chronic	
+Kirkuk	Daquq	35.12749383,44.448826	Food	chronic	
+Kirkuk	Daquq	35.12754588,44.44891535	Food	chronic	
+Kirkuk	Daquq	35.12768317,44.44888366	Food	chronic	
+Dahuk	Zakho	37.13449473,42.69515097	Food	chronic diarrhea flu	
+Dahuk	Zakho	37.13437693,42.69504343	Food	chronic diarrhea flu	
+Dahuk	Zakho	37.13435979,42.69502264	Food	chronic diarrhea flu	
+Dahuk	Zakho	37.13442776,42.69503647	Food	chronic diarrhea flu	
+Dahuk	Zakho	37.0849003,42.4035074	Food	chronic diarrhea	
+Dahuk	Zakho	37.0849003,42.4035074	Rental_Support	chronic diarrhea	
+Dahuk	Zakho	37.0372761,42.3893446	Rental_Support	chronic diarrhea	
+Kirkuk	Kirkuk	35.38634359,44.39665862	Rental_Support	chronic diarrhea flu	
+Kirkuk	Kirkuk	35.42336881,44.34206452	Rental_Support	chronic diarrhea flu	
+Dahuk	Dahuk	36.85455195,43.02929688	Clothing	chronic	
+Dahuk	Dahuk	36.8657578,42.99227066	Clothing	chronic	
+Dahuk	Dahuk	36.84468134,43.01337931	Clothing	chronic	
+Dahuk	Dahuk	36.86705075,42.94913974	Clothing	chronic	
+Dahuk	Dahuk	36.86764038,42.9342264	Household_Items	chronic	
+Kirkuk	Kirkuk	35.38642574,44.39666349	Clothing	chronic diarrhea flu	
+Dahuk	Zakho	37.14907677,42.92597878	Rental_Support	chronic diarrhea flu	
+Dahuk	Zakho	37.13277498,42.89528836	Rental_Support	chronic diarrhea flu	
+Kirkuk	Daquq	35.13249292,44.45092038	Rental_Support	chronic diarrhea	
+Kirkuk	Daquq	35.13241036,44.45099465	Rental_Support	chronic diarrhea	
+Kirkuk	Daquq	35.13243685,44.45099993	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.1775227,43.0150205	Clothing	chronic diarrhea	
+Dahuk	Dahuk	36.86097207,42.94589309	Registration	chronic	
+Dahuk	Dahuk	36.85682785,42.970714	Food	chronic flu	
+Dahuk	Dahuk	36.8702579,42.9907521	Clothing	chronic	
+Kirkuk	Daquq	35.13804237,44.44552319	Food	chronic diarrhea	
+Kirkuk	Daquq	35.13798126,44.44558698	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13807577,44.44551825	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13803503,44.44558153	Food	chronic diarrhea	
+Kirkuk	Daquq	35.13803407,44.44556233	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13251027,44.45089901	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13244397,44.45110286	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13242612,44.45097671	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13238383,44.45086062	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13245797,44.45098191	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13245763,44.45094771	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13243638,44.45091762	Food	chronic diarrhea	
+Kirkuk	Daquq	35.13244238,44.45107168	Medical_Assistance	chronic diarrhea	
+Kirkuk	Daquq	35.13239573,44.45092868	Shelter_Improvement	chronic diarrhea	
+Dahuk	Zakho	37.0933053,42.4321584	Food	chronic diarrhea	
+Dahuk	Zakho	37.0848941,42.4034293	Food	chronic diarrhea	
+Kirkuk	Daquq	35.15496912,44.43747195	Food	chronic	
+Kirkuk	Kirkuk	35.46842351,44.37983338	Household_Items	chronic	
+Kirkuk	Kirkuk	35.41739796,44.3305234	Food	chronic diarrhea	
+Kirkuk	Kirkuk	35.41051503,44.31286826	Sanitation	chronic	
+Kirkuk	Kirkuk	35.47540789,44.37843645	Food	chronic	
+Kirkuk	Kirkuk	35.48060836,44.38643463	Food	chronic	
+Kirkuk	Kirkuk	35.41045234,44.3132296	Water	chronic	
+Kirkuk	Kirkuk	35.49037885,44.38014175	Clothing	chronic	
+Kirkuk	Kirkuk	35.41742461,44.33059615	Food	chronic diarrhea	
+Kirkuk	Kirkuk	35.46837179,44.3797991	Food	chronic	
+Kirkuk	Kirkuk	35.46835662,44.37979256	Sanitation	chronic	
+Kirkuk	Daquq	35.15145731,44.44043244	Food	chronic diarrhea	
+Kirkuk	Daquq	35.15142856,44.44037436	Medical_Assistance	chronic diarrhea	
+Kirkuk	Daquq	35.15146888,44.44043462	Food	chronic diarrhea	
+Kirkuk	Daquq	35.15153262,44.44052104	Food	chronic diarrhea	
+Kirkuk	Daquq	35.15146875,44.44054862	Food	chronic diarrhea	
+Kirkuk	Daquq	35.15149335,44.44040051	Medical_Assistance	chronic diarrhea	
+Kirkuk	Daquq	35.15041364,44.44071324	Clothing	chronic diarrhea	
+Kirkuk	Kirkuk	35.41645395,44.33819124	Food	chronic	
+Kirkuk	Kirkuk	35.41647126,44.33822243	Clothing	chronic	
+Kirkuk	Kirkuk	35.47903776,44.38362527	Household_Items	chronic	
+Kirkuk	Daquq	35.14604243,44.44971138	Clothing	chronic diarrhea	
+Kirkuk	Kirkuk	35.39111629,44.39814926	Clothing	chronic diarrhea	
+Kirkuk	Kirkuk	35.46837284,44.37974017	Clothing	chronic	
+Dahuk	Zakho	36.8703215,42.99108907	Medical_Assistance	chronic diarrhea flu	
+Dahuk	Zakho	36.8701828,42.9909094	Clothing	chronic diarrhea flu other_disease	
+Dahuk	Dahuk	36.87028793,42.9911241	Food	chronic flu	
+Dahuk	Zakho	37.14032556,42.61832555	Food	chronic diarrhea	
+Dahuk	Zakho	37.0597859,42.4423284	Food	chronic diarrhea	
+Dahuk	Zakho	36.9172286,42.6006183	Food	chronic diarrhea	
+Dahuk	Zakho	36.9172286,42.6006183	Food	chronic diarrhea	
+Dahuk	Zakho	36.9794604,42.6498888	Food	chronic diarrhea	
+Kirkuk	Kirkuk	35.3900678,44.37089307	Food	chronic flu	
+Kirkuk	Kirkuk	35.38963127,44.37255956	Food	chronic flu	
+Dahuk	Dahuk	36.78432619,42.97387146	Food	flu	
+Dahuk	Dahuk	36.87281524,42.96676093	Food	chronic	
+Dahuk	Dahuk	36.87237816,42.96617336	Household_Items	chronic	
+Dahuk	Dahuk	36.87034098,42.99108471	Rental_Support	chronic	
+Dahuk	Dahuk	36.87033956,42.99127322	Food	chronic	
+Sulaymaniyah	Dokan	35.9326066,44.96698595	Food	chronic diarrhea	
+Sulaymaniyah	Dokan	35.93274792,44.96693691	Food	chronic diarrhea	
+Sulaymaniyah	Dokan	35.93260325,44.96686969	Shelter_Improvement	diarrhea	
+Sulaymaniyah	Dokan	35.93266435,44.9667883	Water	diarrhea	
+Sulaymaniyah	Sulaymaniya	35.59672111,45.13373461	Sanitation	chronic	
+Sulaymaniyah	Sulaymaniya	35.59681708,45.13355942	Food	chronic	
+Sulaymaniyah	Halabja	35.29848419,46.03505599	Water	chronic	
+Sulaymaniyah	Halabja	35.298696,46.03522078	Water	chronic	
+Sulaymaniyah	Sharbazher	35.71554774,45.57430412	Water	chronic flu	
+Sulaymaniyah	Sharbazher	35.71558718,45.5743094	Sanitation	chronic	
+Sulaymaniyah	Halabja	35.56386644,45.42742501	Household_Items	chronic diarrhea flu	
+Dahuk	Zakho	36.9172286,42.6006183	Food	chronic diarrhea	
+Sulaymaniyah	Halabja	35.56368245,45.42747178	Food	chronic diarrhea flu	
+Dahuk	Zakho	36.9794604,42.6498888	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13244481,44.45126949	Water	chronic diarrhea	
+Kirkuk	Daquq	35.13244611,44.45120386	Food	chronic diarrhea	
+Kirkuk	Daquq	35.1324845,44.45120009	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13243676,44.45118785	Food	chronic diarrhea	
+Kirkuk	Daquq	35.13246874,44.45125834	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13237868,44.45119397	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.1323897,44.45118533	Sanitation	chronic diarrhea	
+Kirkuk	Daquq	35.13255285,44.45119455	Food	chronic diarrhea	
+Kirkuk	Daquq	35.13236593,44.45121065	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.1323148,44.45114879	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.1323029,44.45125918	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13237465,44.45124401	Medical_Assistance	chronic diarrhea	
+Kirkuk	Daquq	35.13234255,44.45121408	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13230554,44.45117838	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13233664,44.4512031	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13233551,44.45117192	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13234921,44.45122842	Household_Items	chronic diarrhea	
+Dahuk	Zakho	37.14064236,42.61065158	Food	chronic flu	
+Kirkuk	Kirkuk	35.38643014,44.39648302	Clothing	chronic flu	
+Kirkuk	Kirkuk	35.39546922,44.38128982	Clothing	chronic flu	
+Kirkuk	Kirkuk	35.39526395,44.38119946	Clothing	chronic diarrhea flu	
+Kirkuk	Daquq	35.13240784,44.45095961	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13244435,44.4510249	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13242775,44.45104117	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13242662,44.45099951	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13251647,44.45150091	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.1323881,44.45102474	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13236912,44.45099004	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13230517,44.45105223	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13239116,44.4510301	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13249929,44.4510353	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13244238,44.45091317	Clothing	chronic diarrhea	
+Kirkuk	Kirkuk	35.38646417,44.39652946	Clothing	chronic diarrhea flu	
+Kirkuk	Daquq	35.13240382,44.45094603	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13237528,44.45094335	Clothing	chronic diarrhea	
+Diyala	Muqdadiya	35.13242134,44.45088769	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.1744288,43.0023061	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.1744288,43.0023061	Food	chronic diarrhea	
+Dahuk	Zakho	37.1711267,43.0139047	Sanitation	chronic diarrhea	
+Dahuk	Zakho	37.1775227,43.0150205	Food	chronic diarrhea	
+Dahuk	Zakho	37.1744288,43.0023061	Food	chronic diarrhea	
+Dahuk	Zakho	37.1775227,43.0150205	Rental_Support	chronic diarrhea	
+Dahuk	Zakho	37.1775227,43.0150205	Food	chronic diarrhea	
+Dahuk	Zakho	37.1744288,43.0023061	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.1209541,43.1633595	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.1292799,43.1695741	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.0964714,43.0851146	Clothing	chronic	
+Dahuk	Zakho	37.0964714,43.0851146	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.1743352,43.0023331	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.1743352,43.0023331	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.1721218,42.931244	Medical_Assistance	chronic diarrhea	
+Kirkuk	Kirkuk	35.38381062,44.27632039	Medical_Assistance	chronic diarrhea flu	
+Kirkuk	Hawiga	35.56874613,45.38310033	Medical_Assistance	chronic diarrhea flu	
+Dahuk	Zakho	37.1560988,42.9317604	Sanitation	chronic diarrhea	
+Dahuk	Zakho	37.1734737,42.883089	Food	chronic diarrhea	
+Dahuk	Zakho	37.1560988,42.9317604	Food	chronic diarrhea	
+Dahuk	Zakho	37.0467827,42.8142971	Food	chronic diarrhea	
+Dahuk	Zakho	37.0467827,42.8142971	Sanitation	chronic diarrhea	
+Kirkuk	Kirkuk	35.38207,44.37757798	Food	chronic diarrhea	
+Kirkuk	Kirkuk	35.41491302,44.41199474	Food	chronic	
+Kirkuk	Kirkuk	35.41490614,44.4120763	Food	chronic flu	
+Kirkuk	Kirkuk	35.41494566,44.41204336	Water	chronic flu	
+Kirkuk	Kirkuk	35.41490091,44.41207102	Food	chronic diarrhea flu	
+Kirkuk	Kirkuk	35.47196637,44.36686129	Food	chronic diarrhea flu	
+Kirkuk	Kirkuk	35.46544709,44.37896208	Water	chronic	
+Dahuk	Zakho	37.1743352,43.0023331	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.1721218,42.931244	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.1721218,42.931244	Food	chronic diarrhea	
+Dahuk	Zakho	37.1734737,42.883089	Medical_Assistance	chronic diarrhea	
+Kirkuk	Kirkuk	35.41210353,44.31605531	Clothing	chronic diarrhea flu	
+Dahuk	Zakho	37.1633644,42.71189609	Clothing	chronic	
+Dahuk	Zakho	37.13869587,42.71672046	Clothing	chronic	
+Dahuk	Dahuk	36.86555131,42.98712367	Medical_Assistance	flu	
+Dahuk	Zakho	37.1654706,42.9541646	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.2224098,43.0998217	Clothing	chronic diarrhea	
+Dahuk	Zakho	37.2310346,43.150292	Medical_Assistance	chronic diarrhea	
+Kirkuk	Daquq	35.13240743,44.45102314	Water	chronic diarrhea	
+Kirkuk	Daquq	35.13241476,44.45097202	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.14165413,44.44913722	Clothing	chronic diarrhea	
+Kirkuk	Daquq	35.13239804,44.45100244	Clothing	chronic diarrhea	
+Kirkuk	Kirkuk	35.40981678,44.31106498	Household_Items	chronic flu	
+Kirkuk	Kirkuk	35.42959304,44.39927629	Medical_Assistance	chronic diarrhea flu	
+Kirkuk	Kirkuk	35.40589002,44.35403095	Medical_Assistance	chronic diarrhea flu	
+Dahuk	Zakho	37.2286284,43.120153	Household_Items	chronic diarrhea	
+Dahuk	Dahuk	36.87090634,42.97313897	Medical_Assistance	diarrhea flu	
+Dahuk	Dahuk	36.8737168,42.98128081	Food	other_disease	
+Dahuk	Dahuk	36.87086603,42.97333737	Medical_Assistance	diarrhea flu	
+Dahuk	Dahuk	36.85488584,42.96570967	Food	flu	
+Dahuk	Dahuk	36.84359307,42.97713965	Water	diarrhea flu	
+Dahuk	Zakho	37.0930774,42.4320897	Food	chronic diarrhea	
+Kirkuk	Kirkuk	35.38516988,44.37366597	Clothing	chronic diarrhea flu	
+Kirkuk	Kirkuk	35.43633859,44.39761944	Rental_Support	chronic diarrhea flu	
+Kirkuk	Kirkuk	35.3901162,44.38405325	Food	chronic diarrhea flu	
+Dahuk	Zakho	37.0930774,42.4320897	Food	chronic diarrhea	
+Kirkuk	Daquq	35.14103739,44.44961364	Food	chronic diarrhea	
+Kirkuk	Kirkuk	35.41205341,44.31565792	Food	chronic	
+Kirkuk	Kirkuk	35.44878395,44.37339298	Food	chronic diarrhea flu	
+Kirkuk	Kirkuk	35.77170251,44.11933263	Food	chronic diarrhea flu	
+Dahuk	Zakho	36.8549239,42.94268743	Food	chronic diarrhea	
+Dahuk	Zakho	37.0934714,42.4322712	Food	diarrhea other_disease	
+Dahuk	Zakho	37.1383475,42.6710038	Food	chronic diarrhea	
+Dahuk	Zakho	37.1405526,42.690525	Food	chronic diarrhea	
+Dahuk	Zakho	37.1393291,42.6850949	Food	chronic diarrhea	
+Dahuk	Zakho	37.1417701,42.6873265	Food	chronic diarrhea	
+Dahuk	Zakho	37.161456,42.6741698	Clothing	chronic diarrhea	
+Erbil	Erbil	36.23458134,43.99349728	Food	flu	
+Dahuk	Zakho	36.97366969,42.65526225	Food	chronic diarrhea flu	
+Dahuk	Zakho	37.08550042,42.42239219	Food	chronic diarrhea	
+Dahuk	Dahuk	36.8704527,42.9907506	Food	chronic	
+Dahuk	Zakho	36.8704531,42.9907508	Food	chronic	
+Dahuk	Dahuk	36.870178,42.99110206	Food	chronic	
+Dahuk	Zakho	36.87019128,42.99120457	Food	chronic	
+Dahuk	Sumel	36.87012947,42.99110164	Water	chronic	
+Dahuk	Sumel	36.87023638,42.99141211	Food	chronic	
+Dahuk	Sumel	36.87028466,42.99104095	Food	other_disease	
+Dahuk	Dahuk	36.87015998,42.99108412	Food	chronic diarrhea	
+Dahuk	Dahuk	36.87027431,42.99110139	Food	flu	
+Dahuk	Dahuk	36.87040804,42.99098714	Food	chronic	
+Dahuk	Sumel	36.87039287,42.99125989	Food	chronic	
+Dahuk	Sumel	36.87022913,42.99111119	Food	other_disease	
+Dahuk	Dahuk	36.87034526,42.99101899	Food	chronic	
+Dahuk	Sumel	36.87047577,42.99108261	Food	chronic	
+Dahuk	Sumel	36.8822442,42.9443247	Food	chronic	
+Dahuk	Sumel	36.8698274,42.9901556	Food	chronic	
+Dahuk	Sumel	36.9686465,42.7165722	Food	chronic diarrhea	
+Dahuk	Sumel	36.9686465,42.7165722	Food	chronic diarrhea	
+Dahuk	Sumel	36.8674442,42.8366321	Food	chronic diarrhea	
+Dahuk	Sumel	36.9206797,42.7241923	Food	chronic diarrhea	
+Dahuk	Sumel	36.9686465,42.7165722	Clothing	chronic diarrhea	
+Dahuk	Sumel	36.9686465,42.7165722	Food	chronic diarrhea	
+Dahuk	Sumel	36.80975433,43.04342349	Household_Items	chronic	
+Dahuk	Amedi	36.87029032,42.99107339	Clothing	chronic diarrhea	
+Dahuk	Sumel	36.80638782,43.02056378	Food	chronic	
+Dahuk	Sumel	36.80848744,43.04019134	Water	chronic	
+Dahuk	Sumel	36.81571009,42.98045587	Water	chronic	
+Dahuk	Sumel	36.77121697,42.98288704	Food	chronic	
+Dahuk	Zakho	37.0848941,42.4034293	Water	chronic diarrhea	
+Dahuk	Zakho	37.0848941,42.4034293	Water	chronic diarrhea	
+Dahuk	Zakho	37.0848941,42.4034293	Water	chronic diarrhea	
+Ninewa	Mosul	36.85114617,43.01767185	Shelter_Improvement	chronic diarrhea	
+Dahuk	Amedi	36.87035519,42.99103199	Food	chronic	
+Dahuk	Amedi	36.8631319,42.9677408	Rental_Support	chronic	
+					
