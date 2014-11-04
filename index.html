@@ -1,89 +1,534 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" name="viewport">
+    <meta name="author" content="REACH">
+    <title>RRM - CCCM Cluster Iraq</title>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon" />
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Rapid Response Mechanism (RRM) Iraq : ">
+    <meta itemprop="name" content="Site Assessment - CCCM Cluster Iraq"/>
+    <meta itemprop="description" content="Site Assessment - CCCM Cluster Iraq"/>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <meta property="og:title" content="RRM - CCCM Cluster Iraq">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="RRM - CCCM Cluster Iraq">
+    <meta property="og:description" content="RRM - CCCM Cluster Iraq">
 
-    <title>Rapid Response Mechanism (RRM) Iraq</title>
-  </head>
+    <link type="text/css" href="css/leaflet.css" rel="stylesheet"/>
+    <link type="text/css" href="css/leaflet.markercluster.css" rel="stylesheet"/>
 
-  <body>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/dc.css">
+    <!-- Add IntroJs styles  -->
+    <link rel="stylesheet" type="text/css" href="css/introjs.css">
+    <link rel="stylesheet" type="text/css" href="css/dashboard.css">
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/REACHIraq/RRM">View on GitHub</a>
+    <script type="text/javascript" src="js/intro.js"></script>
+    <script type="text/javascript" src="js/d3_002.js"></script>
+    <script type="text/javascript" src="js/d3.js"></script>
+    <script type="text/javascript" src="js/crossfilter.js"></script>
+    <script type="text/javascript" src="js/dc.js"></script>
 
-          <h1 id="project_title">Rapid Response Mechanism (RRM) Iraq</h1>
-          <h2 id="project_tagline"></h2>
+    <script type="text/javascript" src="js/jquery.js"></script>
 
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/REACHIraq/RRM/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/REACHIraq/RRM/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
+
+<!--maps-->
+    <script type="text/javascript" src="js/leaflet.js"></script>
+    <script type="text/javascript" src="js/leaflet.markercluster.js"></script>
+    <script type="text/javascript" src="js/dc.leaflet.js"></script>
+
+</head>
+
+<body>
+
+    <div style="display: none;" class="col-sm-4 col-md-offset4" id="loading">
+        <h1>Patience: We are wrapping up the data... </h1><small>This webpage does not work on IE8 or older... Upgrade your browser if needed</small>
+    </div>
+    
+    <div style="display: block;" class="container" id="dashboard">
+
+        <div class="col-xs-12">
+            <a href="https://www.humanitarianresponse.info/operations/iraq/camp-coordination-management" target="_blank">
+               <img src="images/ccccm-siteasessment2.png" style="width: 100%"></a>
+         </div>
+
+        <div class="col-xs-12">The Rapid Response Mechanism (RRM) was developed to provide essential humanitarian assistance to the ongoing displacements of families in Iraq by providing of essential, water, hygiene, food and nutrition, basic items and shelter assistance to girls, boys, families and vulnerable individuals. All data displayed on this page is from a complimentary assessment the partners conducted in tandem to aid distribution.</div>
+
+            <div class="socialmedia" data-step="6" data-intro="Feel Free to share if you like it!" data-position="left">
+                <table>
+                  <tbody><tr>
+                    <td valign="middle"><a href="https://twitter.com/UNICEFiraq" target="_blank"><img src="images/Twitter.png" style="height: 25px; width: 25px"></a></td>
+                </tr>
+                </tbody></table>
+           </div>
+
+
+            <div class="row" >
+                <div class="col-md-8" data-step="5" data-intro="Here's the number of activities you filtered. Use the reset button to delete all your filters" data-position="right">
+                    <div class="dc-chart" id="count-info">
+					<p></p><strong><span class="filter-count" ></span></strong> Total number of children
+					</div>
+                   
+                </div>
+                    <div class="col-md-1">
+                       <a class="reset btn btn-primary btn-sm" id="reset" href="#">Reset All</a>     
+                    </div>
+                <div class="col-md-4">
+                    <a class="btn btn btn-success" href="javascript:void(0);" onclick="javascript:introJs().start();">More info</a>
+                </div>
+            </div>
+            <!--
+             -->
+            <div  class="row" id="cccm"  data-step="2" data-intro="Here's the number of activities you filtered. Use the reset button to delete all your filters" data-position="right">
+                <h4>Filter on condition within the sites</h4>
+                <p><small><i>Based on site observation by enumerators</i></small></p>
+                    <div class="col-md-2" >
+                        <div class="waterp" id="cccm"  class="dc-chart" >
+                          <p><small>Illness</small></p>
+                        </div>
+                    </div>
+                    <div class="col-md-2" >
+                        <div class="openelementp" id="cccm" class="dc-chart" >
+                          <p><small>Gaps</small></p>
+                        </div>
+                    </div>
+                    <div class="col-md-2" >
+                        <div class="hazardsp" id="cccm" class="dc-chart" >
+                          <p><small>Protection</small></p>
+                        </div>
+                    </div>
+                    <div class="col-md-2" >
+                        <div class="waterqp" id="cccm" class="dc-chart" >
+                          <p><small>Shelter Type</small></p>
+                        </div>
+                    </div>
+                    <div class="col-md-2" >
+                        <div class="electricp" id="cccm" class="dc-chart" >
+                          <p><small>New Population vs Total</small></p>
+                        </div>
+                    </div>
+                    <div class="col-md-2" >
+                        <div class="minesp" id="cccm" class="dc-chart" >
+                          <p><small>Coping abilites</small></p>
+                        </div>
+                    </div>
+
+                    
+                    <!--
+                    <div class="col-md-1" >
+                        <div class="environmentp" id="cccm" class="dc-chart" >
+                          <h4>Site type</h4>
+                          <p><small></small></p>
+                        </div>
+                    </div>
+                        -->
+            </div>
+             
+            <div class="row" id="cccm">
+                <div  class="col-md-4">
+                    <div class="districtp" class="dc-chart" >
+                        <h4>Districts</h4>
+                        <p><small><i>Assessed population</i></small></p>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="governoratep" class="col-xs-6 dc-chart" data-step="1" data-intro="Click on this pie chart to filter by sector." data-position="right">
+                      <h4>Governorates</h4>
+                      <p><small><i>Assessed population</i></small></p>
+                    </div>
+
+
+                </div>
+
+
+
+                <div  class="col-md-6">
+                    <h4>Map</h4>
+                      <p><small><i>Location of the sites. click on the map for more information</i></small></p>
+                    <div  class="map"  > </div>
+                </div>
+				                       <div class="orgap" class="col-xs-4 dc-chart" data-step="1" data-intro="Click on this pie chart to filter by sector." data-position="right">
+                      <p><small>Number of sites assessed per organisation</small></p>
+                    </div>
+            </div>
+
+            <div class="row" ></div>
+
+            <div class="row" id="cccm">
+                    <h4>Participating Organisations</h4>
+                    <div  class="col-xs-8">
+                      <p> The UNCEF RRM coordinates work on the ground from various organisations. </br>The assessment has been made possible through the contribution of the following partners:</p>
+
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td valign="middle">
+                                        <a href="http://drc.dk/relief-work/where-we-work/middle-east/iraq/" target="_blank">
+                                        <img src="images/partner/drc.jpg" ></a>
+                                    </td>
+                                    <td valign="middle">
+                                        <a href="http://www.nrc.no/" target="_blank">
+                                        <img src="images/partner/nrc.jpg" >
+                                    </td>
+									</tr>
+
+                                <tr>
+                                    <td valign="middle">
+                                        <a href="http://www.mercycorps.org/iraq" target="_blank">
+                                        <img src="images/partner/mc.jpg" ></a>
+                                    </td>
+									     <td valign="middle">
+                                        <a href="http://www.savethechildren.org/site/c.8rKLIXMGIpI4E/b.6153129/k.C257/Iraq.htm" target="_blank">
+                                        <img src="images/partner/sci.jpg" ></a>
+                                    </td>
+                                </tr>
+																	<tr>
+									     <td valign="middle">
+                                        <a href="http://www.insightonconflict.org/conflicts/iraq/peacebuilding-organisations/nihr/" target="_blank">
+                                        <img src="images/partner/nihr.gif" >
+                                    </td>
+                                    <td valign="middle">
+                                        <a href="http://www.acted.org/en/iraq" target="_blank">
+                                        <img src="images/partner/acted.jpg" ></a>								
+                                    </td>
+                                </tr>
+
+                            </tbody>
+                        </table>
+</br>
+                    </div>
+
+            </div>
+
     </div>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
-
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Rapid Response Mechanism (RRM) Iraq maintained by <a href="https://github.com/REACHIraq">REACHIraq</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-              <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-56348018-1 ");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
+   
 
 
-  </body>
+
+	
+	
+<script type="text/javascript">
+
+/*     Markers      */
+var numberFormat = d3.format(",f");
+
+
+
+
+d3.tsv("data/dataviz.tsv", function(data) {
+  drawMarkerSelect(data);
+ /* drawMarkerArea(data); */
+});
+
+function drawMarkerSelect(data) {
+  var xf = crossfilter(data);
+  var groupname = "marker-select";
+  
+ 
+		
+  var all = xf.groupAll();
+  dc.dataCount("#count-info",groupname)
+        .dimension(xf)
+        .group(all);
+
+  var byIndividual = xf.dimension(function(d) { return d.individual; });
+  var byIndividualGroup = byIndividual.groupAll().reduceSum(function (d) { return d.individual; });
+
+   dc.numberDisplay("#totalind",groupname)
+       .valueAccessor(function(d){return +d})
+        .group(byIndividualGroup);
+		
+		
+		
+  
+  
+    var facilities = xf.dimension(function(d) { return d.geo; });
+    var facilitiesGroup = facilities.group().reduceCount();
+	
+        var defaultStyle = {
+            color: "#2262CC",
+            weight: 2,
+            opacity: 0.6,
+            fillOpacity: 0.1,
+            fillColor: "#2262CC"
+        };
+		
+  dc.leafletMarkerChart("#cccm .map",groupname)
+      .dimension(facilities)
+      .group(facilitiesGroup)
+      .width(600)
+      .height(410)
+      .center([34.7503,44.5385])
+      .zoom(6)
+      .cluster(true);
+		
+		
+//water_access  water_quality   electric    openelement damage  hazards mines   fighting
+// water_access is ID for dataviz.tsv file , must be the same as the file
+  var waters = xf.dimension(function(d) { return d.diseases; });
+  var watersGroup = waters.group().reduceCount();
+  // waterp is the ID name for HTML class
+  dc.pieChart("#cccm .waterp",groupname)
+        .dimension(waters)
+        .group(watersGroup)
+        .width(120)
+        .height(120)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#cb181d', /* maj */
+                        '#fb6a4a', /* mod */
+                        '#fcae91', /* min */
+                        '#fee5d9' /* no */
+                        ])
+         .colorDomain([0,4]);
+    //   .ordering(function (p) { return -p.value; });
+
+
+  var waterqs = xf.dimension(function(d) { return d.ShelterType; });
+  var waterqsGroup = waterqs.group().reduceCount();
+  dc.pieChart("#cccm .waterqp",groupname)
+        .dimension(waterqs)
+        .group(waterqsGroup)
+        .width(120)
+        .height(120)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#cb181d', /* maj */
+                        '#fb6a4a', /* mod */
+                        '#fcae91', /* min */
+                        '#fee5d9' /* no */ 
+                        ])
+         .colorDomain([0,4]);
+    //   .ordering(function (p) { return -p.value; });
+
+
+  var electrics = xf.dimension(function(d) { return d.population; });
+  var electricsGroup = electrics.group().reduceCount();
+  dc.pieChart("#cccm .electricp",groupname)
+        .dimension(electrics)
+        .group(electricsGroup)
+        .width(120)
+        .height(120)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#cb181d', /* maj */
+                        '#fb6a4a', /* mod */
+                        '#fcae91', /* min */
+                        '#fee5d9' /* no */
+                        ])
+         .colorDomain([0,4]);
+     //  .ordering(function (p) { return -p.value; });
+
+
+  var openelements = xf.dimension(function(d) { return d.gaps; });
+  var openelementsGroup = openelements.group().reduceCount();
+  dc.pieChart("#cccm .openelementp",groupname)
+        .dimension(openelements)
+        .group(openelementsGroup)
+        .width(120)
+        .height(120)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#cb181d', /* maj */
+                        '#fb6a4a', /* mod */
+                        '#fcae91', /* min */
+                        '#fee5d9' /* no */
+                        ])
+         .colorDomain([0,4]);
+     //   .ordering(function (p) { return -p.value; });
+       
+  var damages = xf.dimension(function(d) { return d.damage; });
+  var damagesGroup = damages.group().reduceCount();
+  dc.pieChart("#cccm .damagep",groupname)
+        .dimension(damages)
+        .group(damagesGroup)
+        .width(75)
+        .height(75)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#cb181d', /* maj */
+                        '#fb6a4a', /* mod */
+                        '#fcae91', /* min */
+                        '#fee5d9' /* no */
+                        ])
+         .colorDomain([0,4]);
+     //   .ordering(function (p) { return -p.value; });
+       
+  var hazardss = xf.dimension(function(d) { return d.protection; });
+  var hazardssGroup = hazardss.group().reduceCount();
+  dc.pieChart("#cccm .hazardsp",groupname)
+        .dimension(hazardss)
+        .group(hazardssGroup)
+        .width(120)
+        .height(120)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#cb181d', /* maj */
+                        '#fb6a4a', /* mod */
+                        '#fcae91', /* min */
+                        '#fee5d9' /* no */
+                        ])
+         .colorDomain([0,4]);
+    //    .ordering(function (p) { return -p.value; });
+       
+  var miness = xf.dimension(function(d) { return d.mines; });
+  var minessGroup = miness.group().reduceCount();
+  dc.pieChart("#cccm .minesp",groupname)
+        .dimension(miness)
+        .group(minessGroup)
+        .width(120)
+        .height(120)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#cb181d', /* maj */
+                        '#fb6a4a', /* mod */
+                        '#fcae91', /* min */
+                        '#fee5d9' /* no */
+                        ])
+         .colorDomain([0,4]);
+    //    .ordering(function (p) { return -p.value; });
+       
+  var fightings = xf.dimension(function(d) { return d.fighting; });
+  var fightingsGroup = fightings.group().reduceCount();
+  dc.pieChart("#cccm .fightingp",groupname)
+        .dimension(fightings)
+        .group(fightingsGroup)
+        .width(75)
+        .height(75)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#cb181d', /* maj */
+                        '#fb6a4a', /* mod */
+                        '#fcae91', /* min */
+                        '#fee5d9' /* no */
+                        ])
+         .colorDomain([0,4]);
+    //    .ordering(function (p) { return -p.value; });
+
+
+  var environments = xf.dimension(function(d) { return d.environment; });
+  var environmentsGroup = environments.group().reduceCount();
+  dc.pieChart("#cccm .environmentp",groupname)
+        .dimension(environments)
+        .group(environmentsGroup)
+        .width(75)
+        .height(75)
+        .renderLabel(true)
+        .renderTitle(true)
+        .ordering(function (p) { return -p.value; });
+
+
+  var classs = xf.dimension(function(d) { return d.class; });
+  var classsGroup = classs.group().reduceCount();
+  dc.rowChart("#cccm .classp",groupname)
+        .dimension(classs)
+        .group(classsGroup)
+        .width(200)
+        .height(200)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#3182bd'])
+        .colorDomain([0,0])
+        .colorAccessor(function(d, i){return 1;})
+        .xAxis().ticks(4).tickFormat(d3.format("s"));
+       // .ordering(function (p) { return -p.value;});
+
+
+  var types = xf.dimension(function(d) { return d.organisat; });
+  var typesGroup = types.group().reduceCount();
+  dc.rowChart("#cccm .orgap",groupname)
+        .dimension(types)
+        .group(typesGroup)
+        .width(350)
+        .height(200)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#3182bd'])
+        .colorDomain([0,0])
+        .colorAccessor(function(d, i){return 1;})
+        .xAxis().ticks(4).tickFormat(d3.format("s"));
+       // .ordering(function (p) { return -p.value;});
+
+
+  var districts = xf.dimension(function(d) { return d.district; });
+  var districtsByIndividual = districts.group().reduceSum(function (d) { return d.individual; });
+  var districtsByMen = districts.group().reduceSum(function (d) { return d.men; });
+  var districtsByWomen  = districts.group().reduceSum(function (d) { return d.women; });
+  var districtsByBoy =  districts.group().reduceSum(function (d) { return d.boys; });
+  var districtsByGirl = districts.group().reduceSum(function (d) { return d.girls; });
+  //var districtsGroup = types.group().reduceCount();
+  
+  dc.rowChart("#cccm .districtp",groupname)
+        .dimension(districts)
+        .group(districtsByIndividual)
+       // .group(districtsByMen)
+       // .stack(districtsByWomen)
+       // .stack(districtsByBoy)
+       // .stack(districtsByGirl)
+       // .elasticX(true)
+      //  .data(function(group) { return group.top(10); })
+        .width(350)
+        .height(400)
+        .renderLabel(true)
+        .ordering(function (p) { return -p.value;})
+        .colors(['#3182bd'])
+        .colorDomain([0,0])
+        .colorAccessor(function(d, i){return 1;})
+        .xAxis().ticks(4).tickFormat(d3.format("s"));
+
+  var governorates = xf.dimension(function(d) { return d.governorate; });
+  var governoratesByIndividual = governorates.group().reduceSum(function (d) { return d.individual; });
+  var governoratesByHousehold = governorates.group().reduceSum(function (d) { return d.household; });
+  //var governoratesGroup = types.group().reduceCount();
+  
+  dc.rowChart("#cccm .governoratep",groupname)
+        .dimension(governorates)
+        .group(governoratesByIndividual)
+        //.stack(governoratesByHousehold)
+       // .elasticX(true)
+        .width(200)
+        .height(150)
+        .renderLabel(true)
+        .ordering(function (p) { return -p.value;})
+        .colors(['#3182bd'])
+        .colorDomain([0,0])
+        .colorAccessor(function(d, i){return 1;})
+        .xAxis().ticks(4).tickFormat(d3.format("s"));
+
+  dc.dataCount("#count-info")
+$('#reset').on('click', function (){
+  dc.filterAll(groupname);
+  dc.redrawAll(groupname);
+  return false;
+})
+
+  dc.renderAll(groupname);
+}
+
+
+</script>
+
+
+
+    <script src="js/bootstrap.js"></script>
+
+
+<script>
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+
+<div class="d3-tip n" style="position: absolute; display: none; box-sizing: border-box; top: 186.9px; left: 727.5px;"></div><div class="d3-tip" style="position: absolute; display: none; box-sizing: border-box;"></div>
+
+<div class="footer">
+    <img src="images/footer.png"  alt="" />
+    <p id="copyright">Technical support by REACH ©2014</p>
+</div>
+
+</body>
 </html>
