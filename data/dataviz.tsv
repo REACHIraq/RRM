@@ -1,261 +1,261 @@
-organisat	governorate	district	photo	environment	phone	household	men	women	boys	girls	individual	water_access	water_quality	electric	openelement	damage	hazards	mines	fighting	gaps	diseases	geo	ShelterType	population	protection	Tent	Individual_mud_building	Individual_mix_building	Individual_concrete_building	Shop	Apartment_block	Under_construction	class
-ACTED	Dahuk	Dahuk	1413200582513.jpg	city_suburb	7503168436	14	17	15	26	20	78	no	no	no	no	no	no	no	no	Medical_Assistance	flu	36.68553041,43.62390289	School	1400	no	0	0	1	0	0	0	0	b. 50-99
-DRC	Dahuk	Zakho	1413203722351.jpg	city_suburb	7504250981	38	56	52	33	31	172	no	no	no	no	no	no	no	no	Household_Items	diarrhea	36.86798395,42.96852205	School	1353	no	0	0	1	0	0	0	0	c. 100-249
-DRC	Ninewa	Sinjar	1413271601449.jpg	city_suburb	7707417324	5	5	7	1	0	13	no	no	no	no	no	no	no	no	Food	diarrhea	36.86821475,42.9687036	School other	1353	no	0	0	0	0	0	1	0	a. 0-49
-DRC	Ninewa	Sinjar	1413282734359.jpg	town	7700443635	13	18	19	16	16	69	min	no	no	no	no	no	no	no	Clothing	diarrhea	36.86852106,42.96865297	Friends_Family_Host other	115	no	0	0	0	0	0	1	0	b. 50-99
-NRC	Dahuk	Zakho	1413284411992.jpg	town	7503195657	9	8	12	11	11	42	no	no	no	no	no	no	no	no	Clothing	diarrhea	37.08490119,42.42833463	Hotel	480	no	0	0	1	0	1	0	0	a. 0-49
-NRC	Dahuk	Zakho	1413285666062.jpg	town	7507985129	6	6	9	11	5	31	no	no	no	min	no	no	no	no	Water	diarrhea	37.08819268,42.43266614	None_Open_Air	775	no	0	0	0	0	0	0	1	a. 0-49
-ACTED	Dahuk	Dahuk	1413209510742.jpg	city_centre	7707464083	230	258	380	209	310	1157	mod	maj	maj	mod	no	no	no	no	Water	flu other_disease	36.64495785,43.41156003	other	101	no	0	0	0	0	0	0	0	f. >1000
-ACTED	Dahuk	Dahuk	1413288156746.jpg	isolated	7501127555	11	13	14	12	13	52	no	no	no	min	no	no	no	no	Water	chronic flu	36.63952399,43.52394241	other	775	no	0	0	0	0	0	0	0	b. 50-99
-NRC	Dahuk	Zakho	1413183979305.jpg	city_suburb	7507726211	97	57	54	53	36	200	min	min	min	no	no	no	no	no	Water	diarrhea	37.0933053,42.4321584	other	270	no	0	0	0	0	0	0	1	c. 100-249
-NRC	Dahuk	Zakho	1413290325020.jpg	isolated	7501127555	7	7	5	8	10	30	maj	maj	no	no	no	no	no	no	Food	diarrhea	37.0849003,42.4035074	other	700	no	0	0	0	0	0	1	0	a. 0-49
-NRC	Dahuk	Zakho	1413186559734.jpg	city_suburb	7701662998	236	281	257	167	133	838	maj	no	no	no	no	no	no	no	Food	diarrhea	37.0597859,42.4423284	other	600	no	0	0	0	0	0	0	1	e. 500-2000
-NRC	Dahuk	Zakho	1413211364096.jpg	city_centre	7504408425	120	52	69	128	118	367	mod	maj	min	min	min	no	no	no	Food	diarrhea	37.0849003,42.4035074	other	600	no	0	0	0	0	0	0	0	d. 250-499
-Mercy Corps	Kirkuk	Daquq	1413291747230.jpg	town	7800195803	12	12	15	12	13	52	maj	no	no	min	no	min	no	no	Medical_Assistance	diarrhea	35.14503334,44.4513093	other	150	no	0	0	0	0	0	1	0	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413215646427.jpg	city_suburb	7702060725	203	253	242	145	103	743	mod	maj	maj	maj	no	no	no	no	Water	diarrhea	35.14492408,44.45127301	School	750	no	0	0	0	0	0	0	0	e. 500-2000
-Mercy Corps	Kirkuk	Daquq	1413188869390.jpg	city_suburb	7510618114	60	71	61	39	49	220	mod	mod	min	no	no	no	no	no	Medical_Assistance	chronic	35.14498937,44.45130738	School	800	no	0	0	0	0	1	0	0	c. 100-249
-ACTED	Dahuk	Dahuk	1413191744694.jpg	city_suburb	7701694805	60	49	61	48	39	197	mod	min	min	no	no	no	no	no	Food	flu	36.73190945,43.86932133	School	1400	no	0	0	0	0	1	0	0	c. 100-249
-ACTED	Dahuk	Dahuk	1413294630136.jpg	town	7703867200	11	18	15	13	10	56	no	no	no	no	no	no	no	no	Medical_Assistance	chronic	36.72426595,43.87392039	School	655	no	0	0	0	0	0	1	0	b. 50-99
-ACTED	Dahuk	Dahuk	1413295042515.jpg	city_centre	7708555576	120	187	163	125	189	664	min	mod	mod	maj	no	no	no	no	Rental_Support	chronic	36.73113337,43.88195436	School	474	no	0	0	0	0	0	0	0	e. 500-2000
-Mercy Corps	Kirkuk	Daquq	1413273037007.jpg	city_suburb	7508641331	5	5	6	5	6	22	no	no	no	min	no	no	no	no	Medical_Assistance	chronic	35.16134515,44.43922218	School	1300	no	0	0	1	0	0	0	0	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413272377946.jpg	city_centre	7507870216	6	7	11	10	10	38	mod	mod	mod	mod	mod	mod	no	no	Food	chronic	35.16122038,44.43916644	School	514	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413273210957.jpg	city_centre	7507732596	7	9	10	8	9	36	min	min	no	no	no	no	no	no	Food	chronic	35.16135873,44.43913962	School	270	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413273742267.jpg	city_centre	7507732144	53	61	86	53	15	215	mod	mod	mod	mod	mod	no	no	no	Clothing	chronic	35.12745129,44.44881401	School	157	no	0	0	0	0	0	0	1	c. 100-249
-Mercy Corps	Kirkuk	Daquq	1413187600735.jpg	city_suburb	7701742357	20	19	22	24	26	91	no	no	no	no	no	no	no	no	Food	chronic	35.12749383,44.448826	School	543	no	0	0	0	0	0	0	0	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413268338295.jpg	city_suburb	7597380008	39	48	54	38	46	186	no	no	no	no	no	no	no	no	Food	chronic	35.12754588,44.44891535	School	204	no	0	0	1	0	0	0	0	c. 100-249
-Mercy Corps	Kirkuk	Daquq	1413269254649.jpg	city_suburb	7710167132	20	23	18	15	17	73	no	maj	no	no	no	no	no	no	Food	chronic	35.12768317,44.44888366	School	183	no	0	0	0	0	0	0	1	b. 50-99
-DRC	Dahuk	Zakho	1413270308325.jpg	city_suburb	7709982552	5	8	8	5	3	24	no	maj	no	no	no	no	no	no	Food	flu	37.13449473,42.69515097	School	400	no	0	0	1	0	0	0	0	a. 0-49
-DRC	Dahuk	Zakho	1413275337570.jpg	city_suburb	7507031885	21	50	35	70	65	220	no	no	no	no	no	no	no	no	Food	flu	37.13437693,42.69504343	School	181	no	0	0	0	0	0	0	1	c. 100-249
-DRC	Dahuk	Zakho	1413275818503.jpg	isolated	7503778402	20	25	35	40	30	130	maj	no	no	no	no	no	no	no	Food	flu	37.13435979,42.69502264	School	410	no	0	0	0	0	0	0	1	c. 100-249
-DRC	Dahuk	Zakho	1413276960258.jpg	isolated	7508209659	25	95	35	20	25	175	no	maj	no	no	no	no	no	no	Food	flu	37.13442776,42.69503647	School	600	no	0	0	0	0	0	0	1	c. 100-249
-NRC	Dahuk	Zakho	1413278642388.jpg	isolated	7507581713	10	20	21	18	17	76	no	no	no	no	no	no	no	no	Food	diarrhea	37.0849003,42.4035074	School	880	no	0	0	0	0	0	0	1	b. 50-99
-NRC	Dahuk	Zakho	1413279216485.jpg	isolated	7501939655	5	12	6	5	2	25	no	no	no	no	no	no	no	no	Rental_Support	diarrhea	37.0849003,42.4035074	School	150	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413271450939.jpg	isolated	7504436470	12	8	11	6	15	40	maj	mod	min	maj	mod	min	no	min	Rental_Support	diarrhea	37.0372761,42.3893446	School Friends_Family_Host other	127	no	1	0	0	1	0	0	0	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413279773346.jpg	isolated	7507857087	5	8	9	6	5	28	no	min	no	no	no	no	no	no	Rental_Support	flu	35.38634359,44.39665862	School Friends_Family_Host other	303	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413277463769.jpg	isolated	7701762142	50	80	100	40	30	250	mod	min	no	maj	maj	maj	no	no	Rental_Support	flu	35.42336881,44.34206452	School other	368	Unknown	0	0	0	0	0	0	0	d. 250-499
-ACTED	Dahuk	Dahuk	1413280535933.jpg	isolated	7508542620	5	9	10	7	6	32	no	no	no	no	no	no	no	no	Clothing	chronic	36.85455195,43.02929688	School other	500	Unknown	0	0	0	0	0	0	1	a. 0-49
-ACTED	Dahuk	Dahuk	1413281652834.jpg	isolated	7507047822	5	12	9	5	7	33	no	no	maj	no	no	no	no	no	Clothing	chronic	36.8657578,42.99227066	Friends_Family_Host	120	no	0	0	0	0	0	0	1	a. 0-49
-ACTED	Dahuk	Dahuk	1413282941673.jpg	isolated	7507642108	5	5	5	5	6	21	no	no	no	no	no	no	no	no	Clothing	chronic	36.84468134,43.01337931	Friends_Family_Host	149	no	0	0	0	0	0	0	1	a. 0-49
-ACTED	Dahuk	Dahuk	1413288305304.jpg	isolated	7701883435	14	8	9	25	30	72	no	no	no	no	no	no	no	no	Clothing	chronic	36.86705075,42.94913974	Friends_Family_Host other	117	no	0	0	0	0	0	0	1	b. 50-99
-ACTED	Dahuk	Dahuk	1413182666821.jpg	city_suburb	7701663897	145	240	251	115	139	745	no	no	no	no	no	no	no	no	Household_Items	chronic	36.86764038,42.9342264	other	123	no	0	0	0	0	0	1	0	e. 500-2000
-Mercy Corps	Kirkuk	Kirkuk	1413185411659.jpg	city_suburb	7701800725	13	22	19	5	1	47	min	no	no	no	no	no	no	no	Clothing	flu	35.38642574,44.39666349	other	117	no	0	0	0	0	1	0	0	a. 0-49
-ACTED	Dahuk	Zakho	1413187531271.jpg	city_suburb	7701630145	100	120	185	88	91	484	min	min	no	no	min	no	no	no	Rental_Support	flu	37.14907677,42.92597878	other	90	no	0	0	0	0	0	0	1	d. 250-499
-ACTED	Dahuk	Zakho	1413267443481.jpg	city_suburb	7500166893	50	27	33	56	32	148	no	min	no	no	no	no	no	no	Rental_Support	flu	37.13277498,42.89528836	other	121	no	0	0	0	0	0	0	0	c. 100-249
-Mercy Corps	Kirkuk	Daquq	1413273416817.jpg	city_suburb	7703032639	80	100	100	75	75	350	min	min	no	no	no	no	no	no	Rental_Support	diarrhea	35.13249292,44.45092038	other	121	no	0	0	0	0	0	0	0	d. 250-499
-Mercy Corps	Kirkuk	Daquq	1413195617591.jpg	city_suburb	7705962427	50	52	62	33	38	185	mod	maj	no	no	no	no	no	no	Rental_Support	diarrhea	35.13241036,44.45099465	other	88	no	0	0	0	0	0	1	0	c. 100-249
-Mercy Corps	Kirkuk	Daquq	1413198485129.jpg	city_suburb	7702506250	23	45	35	26	27	133	no	maj	no	no	no	no	no	no	Clothing	diarrhea	35.13243685,44.45099993	other	91	no	0	0	1	0	0	1	0	c. 100-249
-NRC	Dahuk	Zakho	1413202103889.jpg	town	7501132956	14	27	25	4	6	62	maj	no	no	maj	no	no	no	no	Clothing	diarrhea	37.1775227,43.0150205	other	120	no	0	0	0	0	0	1	0	b. 50-99
-ACTED	Dahuk	Dahuk	1413203696157.jpg	town	7501132956	51	70	60	40	35	205	no	no	no	min	no	no	no	no	Registration	chronic	36.86097207,42.94589309	other	77	no	0	0	0	0	0	1	0	c. 100-249
-ACTED	Dahuk	Dahuk	1413206062190.jpg	town	7507201936	12	15	16	16	14	61	no	no	maj	mod	no	no	no	no	Food	chronic flu	36.85682785,42.970714	School	133	no	0	0	0	0	0	0	1	b. 50-99
-ACTED	Dahuk	Dahuk	1413206325523.jpg	city_centre	7508419322	325	450	430	232	257	1369	maj	mod	maj	mod	no	no	no	no	Clothing	chronic	36.8702579,42.9907521	School	91	no	0	0	0	0	0	0	0	f. >1000
-Mercy Corps	Kirkuk	Daquq	1413208682041.jpg	city_centre	7708855576	110	109	143	133	174	559	mod	mod	mod	mod	no	no	no	no	Food	diarrhea	35.13804237,44.44552319	School	102	no	0	0	0	0	0	0	0	e. 500-2000
-Mercy Corps	Kirkuk	Daquq	1413274288426.jpg	city_suburb	7502135783	7	8	6	14	4	32	no	no	no	mod	min	no	no	no	Clothing	diarrhea	35.13798126,44.44558698	School	117	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413273675401.jpg	town	7507859602	6	8	9	10	12	39	no	no	no	min	no	no	no	no	Clothing	diarrhea	35.13807577,44.44551825	School	127	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413274714816.jpg	city_suburb	7501135906	7	9	13	11	9	42	no	no	no	mod	no	no	no	no	Food	diarrhea	35.13803503,44.44558153	School	104	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413268555029.jpg	city_centre	7507021579	14	23	20	10	9	62	no	no	min	mod	no	no	no	no	Clothing	diarrhea	35.13803407,44.44556233	School Friends_Family_Host other	97	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413269185289.jpg	city_centre	7503978114	5	8	9	11	4	32	no	no	min	min	no	no	no	no	Clothing	diarrhea	35.13251027,44.45089901	Camp	112	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413269648704.jpg	city_centre	7507833990	7	5	16	11	18	50	no	no	no	no	no	no	no	no	Clothing	diarrhea	35.13244397,44.45110286	Camp	151	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413270801932.jpg	city_centre	7507848361	5	9	6	9	8	32	no	no	no	no	no	no	no	no	Clothing	diarrhea	35.13242612,44.45097671	Camp	137	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413272433240.jpg	city_centre	7503326635	5	5	6	3	3	17	no	no	no	no	no	no	no	no	Clothing	diarrhea	35.13238383,44.45086062	Camp	129	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413272953088.jpg	city_centre	7507218717	8	10	15	20	25	70	no	no	no	no	no	no	no	no	Clothing	diarrhea	35.13245797,44.45098191	Camp	175	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413277551659.jpg	city_suburb	7503929175	6	8	9	9	10	36	no	no	min	mod	min	no	no	no	Clothing	diarrhea	35.13245763,44.45094771	Camp	140	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413273299515.jpg	city_centre	7503044114	5	6	6	5	5	22	no	no	no	no	no	no	no	no	Food	diarrhea	35.13243638,44.45091762	Camp	134	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413274615899.jpg	city_suburb	7503263234	5	5	5	9	12	31	no	no	no	mod	no	no	no	no	Medical_Assistance	diarrhea	35.13244238,44.45107168	Friends_Family_Host	118	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413273658204.jpg	city_centre	7503112840	14	16	18	10	14	58	no	no	no	no	no	min	no	no	Shelter_Improvement	diarrhea	35.13239573,44.45092868	Friends_Family_Host	142	no	0	0	0	0	1	0	0	b. 50-99
-NRC	Dahuk	Zakho	1413280420144.jpg	city_centre	7507769217	7	9	11	10	15	45	no	no	no	no	no	no	no	no	Food	diarrhea	37.0933053,42.4321584	Friends_Family_Host	136	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413281088007.jpg	city_centre	7508825953	7	8	10	10	5	33	no	no	no	no	no	no	no	no	Food	diarrhea	37.0848941,42.4034293	Friends_Family_Host	126	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413281295156.jpg	city_centre	7507856816	5	5	7	10	8	30	no	no	no	no	no	no	no	no	Food	chronic	35.15496912,44.43747195	Friends_Family_Host	160	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413281475043.jpg	city_centre	7503131431	5	5	5	8	7	25	no	no	no	no	no	no	no	no	Household_Items	chronic	35.46842351,44.37983338	Friends_Family_Host	182	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413281677844.jpg	city_centre	7507971087	8	10	13	15	11	49	no	no	no	no	no	no	no	no	Food	diarrhea	35.41739796,44.3305234	Friends_Family_Host	124	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413282182344.jpg	city_centre	7508822823	8	8	11	10	6	35	no	no	no	no	no	no	no	no	Sanitation	chronic	35.41051503,44.31286826	Friends_Family_Host	136	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413282983713.jpg	city_centre	7507354596	11	13	15	18	23	69	no	no	no	no	min	no	no	no	Food	chronic	35.47540789,44.37843645	Friends_Family_Host	176	no	0	0	1	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Kirkuk	1413283908275.jpg	city_centre	7504399666	7	12	11	9	15	47	no	no	no	no	no	no	no	no	Food	chronic	35.48060836,44.38643463	Friends_Family_Host	123	no	0	0	1	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413277963619.jpg	city_suburb	7503049192	11	23	17	30	24	94	min	no	mod	mod	no	no	no	no	Water	chronic	35.41045234,44.3132296	Friends_Family_Host	126	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Kirkuk	1413275425638.jpg	city_suburb	7507895341	5	6	6	9	7	28	no	no	min	mod	no	no	no	no	Clothing	chronic	35.49037885,44.38014175	Friends_Family_Host	112	no	0	0	1	0	0	0	0	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413279301822.jpg	city_suburb	7503279752	5	6	9	10	9	34	no	no	min	mod	min	no	no	no	Food	diarrhea	35.41742461,44.33059615	Mosque School Friends_Family_Host	163	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413277206005.jpg	city_suburb	7502144983	7	9	8	12	8	37	no	no	min	mod	no	no	no	no	Food	chronic	35.46837179,44.3797991	None_Open_Air	143	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413276135521.jpg	town	7507868691	6	9	6	8	2	25	mod	no	min	mod	mod	min	no	no	Sanitation	chronic	35.46835662,44.37979256	None_Open_Air	103	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413279046504.jpg	city_suburb	7503485262	5	6	7	15	13	41	no	no	min	mod	no	no	no	no	Food	diarrhea	35.15145731,44.44043244	None_Open_Air	120	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413279762322.jpg	city_suburb	7507542937	6	6	8	10	12	36	no	no	no	min	min	no	no	no	Medical_Assistance	diarrhea	35.15142856,44.44037436	None_Open_Air	154	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413280172868.jpg	city_suburb	7501925519	5	7	4	8	6	25	no	no	min	mod	no	no	no	no	Food	diarrhea	35.15146888,44.44043462	None_Open_Air	38	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413278067848.jpg	isolated	7507206390	20	61	45	80	60	246	maj	mod	maj	maj	mod	no	no	no	Food	diarrhea	35.15153262,44.44052104	None_Open_Air	148	no	0	0	0	0	0	0	0	c. 100-249
-Mercy Corps	Kirkuk	Daquq	1413282663941.jpg	city_suburb	7501303794	5	6	8	10	9	33	no	no	no	no	no	no	no	no	Food	diarrhea	35.15146875,44.44054862	None_Open_Air	144	no	0	0	0	0	1	0	0	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413279674557.jpg	city_suburb	7507737154	6	7	6	14	9	36	no	no	min	mod	no	no	no	no	Medical_Assistance	diarrhea	35.15149335,44.44040051	None_Open_Air	28	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413270236852.jpg	town	7700513269	8	8	6	6	13	33	min	no	min	mod	min	no	no	no	Clothing	diarrhea	35.15041364,44.44071324	None_Open_Air	116	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413272233534.jpg	town	7507869260	6	7	6	9	11	33	no	no	no	mod	min	no	no	no	Food	chronic	35.41645395,44.33819124	None_Open_Air	103	no	1	0	0	0	0	0	0	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413272817653.jpg	town	7503236428	6	6	6	5	7	24	no	no	no	mod	min	no	no	no	Clothing	chronic	35.41647126,44.33822243	None_Open_Air Friends_Family_Host	101	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413282834663.jpg	town	7502131048	7	15	17	9	7	48	no	min	min	min	min	min	no	no	Household_Items	chronic	35.47903776,44.38362527	None_Open_Air School	132	no	0	0	1	0	0	0	0	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413283694868.jpg	city_suburb	7506276478	80	95	88	120	150	453	min	no	no	mod	no	no	no	no	Clothing	diarrhea	35.14604243,44.44971138	None_Open_Air School Friends_Family_Host	95	no	0	0	1	0	0	0	0	d. 250-499
-Mercy Corps	Kirkuk	Kirkuk	1413273985455.jpg	town	7507013915	16	18	23	29	23	93	mod	mod	min	min	no	no	no	no	Clothing	diarrhea	35.39111629,44.39814926	None_Open_Air School Friends_Family_Host	125	no	0	0	1	0	0	0	0	b. 50-99
-Mercy Corps	Kirkuk	Kirkuk	1413276535865.jpg	town	7504228868	35	37	44	53	47	181	no	no	min	mod	no	no	no	no	Clothing	chronic	35.46837284,44.37974017	other	116	no	0	0	1	0	0	0	0	c. 100-249
-ACTED	Dahuk	Zakho	1413277700039.jpg	town	7507859710	8	18	15	15	15	63	no	mod	no	mod	min	no	no	no	Medical_Assistance	flu	36.8703215,42.99108907	other	121	no	0	0	0	0	0	0	1	b. 50-99
-ACTED	Dahuk	Zakho	1413278739777.jpg	town	7508339663	5	6	5	3	7	21	min	mod	min	mod	min	no	no	no	Clothing	flu other_disease	36.8701828,42.9909094	Renting	122	no	0	0	0	0	0	0	1	a. 0-49
-ACTED	Dahuk	Dahuk	1413287012459.jpg	town	7507469629	7	8	8	12	12	40	no	no	no	mod	min	no	no	no	Food	chronic flu	36.87028793,42.9911241	Renting Friends_Family_Host	135	no	0	0	0	0	0	0	1	a. 0-49
-ACTED	Dahuk	Zakho	1413287428501.jpg	town	7507398125	8	10	7	9	12	38	no	mod	no	mod	min	no	no	no	Food	diarrhea	37.14032556,42.61832555	Renting Friends_Family_Host	123	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413288144153.jpg	town	7507794379	10	16	15	15	19	65	no	no	no	min	min	no	no	no	Food	diarrhea	37.0597859,42.4423284	Renting Friends_Family_Host	101	no	0	0	0	0	0	0	1	b. 50-99
-NRC	Dahuk	Zakho	1413288885567.jpg	town	7501686474	8	12	15	15	19	61	min	min	no	min	min	no	no	no	Food	diarrhea	36.9172286,42.6006183	School	102	no	0	0	0	0	0	0	1	b. 50-99
-NRC	Dahuk	Zakho	1413289799518.jpg	town	7503439109	9	9	14	15	23	61	min	min	no	mod	min	no	no	no	Food	diarrhea	36.9172286,42.6006183	School	118	no	0	0	0	0	0	0	1	b. 50-99
-NRC	Dahuk	Zakho	1413290754042.jpg	town	7503742041	14	14	18	40	16	88	min	no	no	mod	min	no	no	no	Food	diarrhea	36.9794604,42.6498888	School	124	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Kirkuk	1413291501261.jpg	town	7504168539	13	20	20	15	10	65	min	no	no	mod	no	no	no	no	Food	chronic flu	35.3900678,44.37089307	School	91	no	0	1	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Kirkuk	1413283862736.jpg	town	7507118438	5	6	8	7	6	27	no	min	no	mod	mod	mod	no	no	Food	chronic flu	35.38963127,44.37255956	School	119	no	0	1	0	0	0	0	0	a. 0-49
-ACTED	Dahuk	Dahuk	1413274573973.jpg	city_centre	7503245813	18	19	22	45	33	119	mod	mod	mod	mod	no	no	no	no	Food	flu	36.78432619,42.97387146	School	122	no	0	0	0	0	1	0	0	c. 100-249
-ACTED	Dahuk	Dahuk	1413275871036.jpg	city_centre	7507286799	33	31	40	35	61	167	min	min	min	no	min	no	no	no	Food	chronic	36.87281524,42.96676093	School	120	no	0	0	0	0	0	0	1	c. 100-249
-ACTED	Dahuk	Dahuk	1413277291435.jpg	city_centre	7507288052	6	6	8	8	6	28	maj	maj	mod	maj	min	min	no	no	Household_Items	chronic	36.87237816,42.96617336	School	1117	no	0	0	0	0	0	0	1	a. 0-49
-ACTED	Dahuk	Dahuk	1413278392400.jpg	city_centre	7503325381	14	23	20	31	30	104	no	no	no	no	no	no	no	no	Rental_Support	chronic	36.87034098,42.99108471	School	1217	no	0	0	0	0	0	0	1	c. 100-249
-ACTED	Dahuk	Dahuk	1413278934079.jpg	city_centre	7503485249	12	16	17	30	28	91	min	min	no	no	no	no	no	no	Food	chronic	36.87033956,42.99127322	School	381	no	0	0	0	0	0	0	1	b. 50-99
-Save the Children	Sulaymaniyah	Dokan	1413279668390.jpg	city_centre	5703482938	12	16	16	19	12	63	mod	mod	min	mod	no	no	no	no	Food	diarrhea	35.9326066,44.96698595	School	435	no	0	0	0	0	0	0	1	b. 50-99
-Save the Children	Sulaymaniyah	Dokan	1413280222403.jpg	city_centre	7507287771	8	16	8	15	13	52	mod	mod	min	mod	no	no	no	no	Food	diarrhea	35.93274792,44.96693691	School	536	no	0	0	0	0	0	0	1	b. 50-99
-Save the Children	Sulaymaniyah	Dokan	1413280892884.jpg	city_centre	7508831784	5	8	10	10	10	38	min	min	maj	min	no	no	no	no	Shelter_Improvement	diarrhea	35.93260325,44.96686969	School	3500	no	0	0	0	0	0	0	1	a. 0-49
-Save the Children	Sulaymaniyah	Dokan	1413281565469.jpg	city_centre	5703058432	9	15	17	15	10	57	min	min	maj	mod	no	no	no	no	Water	diarrhea	35.93266435,44.9667883	School	4000	no	0	0	0	0	0	0	1	b. 50-99
-Save the Children	Sulaymaniyah	Sulaymaniya	1413269926031.jpg	city_centre	7705993939	43	40	31	32	20	123	no	no	no	no	min	min	no	no	Sanitation	chronic	35.59672111,45.13373461	School	3500	no	0	0	1	0	0	0	0	c. 100-249
-Save the Children	Sulaymaniyah	Sulaymaniya	1413279318186.jpg	city_centre	7701532148	50	58	67	23	33	181	no	no	no	no	no	no	no	no	Food	chronic	35.59681708,45.13355942	School	3500	no	0	0	0	0	0	1	0	c. 100-249
-Save the Children	Sulaymaniyah	Halabja	1413282577604.jpg	city_suburb	7507620142	6	10	7	7	11	35	maj	mod	mod	min	mod	min	no	no	Water	chronic	35.29848419,46.03505599	School	850	no	0	0	0	0	0	0	1	a. 0-49
-Save the Children	Sulaymaniyah	Halabja	1413284474718.jpg	isolated	7501199809	6	6	10	8	7	31	min	min	maj	no	min	min	no	no	Water	chronic	35.298696,46.03522078	School	700	no	0	0	0	0	0	0	1	a. 0-49
-Save the Children	Sulaymaniyah	Sharbazher	1413289628226.jpg	city_suburb	7701214710	8	15	15	9	13	52	no	mod	no	no	min	mod	no	no	Water	chronic flu	35.71554774,45.57430412	School	650	no	0	1	1	0	0	0	0	b. 50-99
-Save the Children	Sulaymaniyah	Sharbazher	1413197538528.jpg	city_suburb	7507867876	5	7	7	10	5	29	no	min	min	maj	no	mod	no	no	Sanitation	chronic	35.71558718,45.5743094	School	650	no	0	0	1	0	0	0	1	a. 0-49
-Save the Children	Sulaymaniyah	Halabja	1413268022573.jpg	city_centre	7709938132	39	44	47	28	33	152	no	no	no	no	no	no	no	no	Household_Items	flu	35.56386644,45.42742501	School	5000	no	0	0	0	0	0	1	0	c. 100-249
-NRC	Dahuk	Zakho	1413274621538.jpg	city_centre	7718838517	48	62	60	46	37	205	no	no	no	no	no	no	no	no	Food	diarrhea	36.9172286,42.6006183	School	1500	no	0	0	1	0	0	0	0	c. 100-249
-Save the Children	Sulaymaniyah	Halabja	1413283437183.jpg	city_suburb	7502129516	5	8	7	6	6	27	min	mod	maj	maj	min	mod	no	no	Food	flu	35.56368245,45.42747178	School	360	no	0	0	1	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413099433060.jpg	city_suburb	7507856771	14	17	17	36	22	92	no	no	min	no	mod	min	no	no	Clothing	diarrhea	36.9794604,42.6498888	School	256	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413101657595.jpg	city_suburb	7508234391	16	15	16	27	26	84	mod	mod	maj	no	no	no	no	no	Water	diarrhea	35.13244481,44.45126949	School	268	no	0	0	1	0	0	0	0	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413099490102.jpg	city_centre	7508828834	12	25	23	20	15	83	mod	maj	maj	maj	no	no	no	no	Food	diarrhea	35.13244611,44.45120386	School	44	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413100761206.jpg	city_centre	7503046793	10	15	20	12	15	62	min	min	mod	mod	no	no	no	no	Clothing	diarrhea	35.1324845,44.45120009	School Friends_Family_Host	129	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413101345903.jpg	city_centre	7507948139	14	22	35	19	22	98	min	min	mod	maj	no	no	no	no	Food	diarrhea	35.13243676,44.45118785	School Friends_Family_Host	515	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413100498332.jpg	city_suburb	7503044737	10	8	10	13	10	41	min	min	no	no	no	no	no	no	Clothing	diarrhea	35.13246874,44.45125834	School Friends_Family_Host	89	no	0	0	0	0	1	0	0	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413102618986.jpg	isolated	7507481303	10	8	12	5	6	31	no	no	min	no	no	no	no	min	Clothing	diarrhea	35.13237868,44.45119397	School Friends_Family_Host	316	no	0	0	0	0	0	0	0	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413096589333.jpg	city_centre	7501625125	28	48	46	39	35	168	min	min	no	maj	min	no	no	no	Sanitation	diarrhea	35.1323897,44.45118533	School Friends_Family_Host	143	no	0	0	0	0	0	0	1	c. 100-249
-Mercy Corps	Kirkuk	Daquq	1413104118382.jpg	city_centre	7503245813	67	90	80	130	150	450	min	mod	min	maj	mod	no	no	no	Food	diarrhea	35.13255285,44.45119455	School Friends_Family_Host	153	no	0	0	0	0	0	0	1	d. 250-499
-Mercy Corps	Kirkuk	Daquq	1413104268474.jpg	city_centre	7503218403	10	11	9	17	10	47	no	no	min	mod	min	no	no	no	Clothing	diarrhea	35.13236593,44.45121065	School Friends_Family_Host	149	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413111783869.jpg	city_centre	7507287789	33	50	50	50	46	196	min	min	min	mod	min	no	no	no	Clothing	diarrhea	35.1323148,44.45114879	School other	176	Unknown	0	0	0	0	0	0	1	c. 100-249
-Mercy Corps	Kirkuk	Daquq	1413112224294.jpg	city_centre	7507856620	16	14	19	7	15	55	no	no	no	no	no	no	no	no	Clothing	diarrhea	35.1323029,44.45125918	School Renting Friends_Family_Host	35	Unknown	0	1	0	0	0	0	0	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413107046917.jpg	city_suburb	7504851735	100	162	147	160	141	610	no	no	no	no	no	no	no	no	Medical_Assistance	diarrhea	35.13237465,44.45124401	Mosque	231	Unknown	0	0	0	0	0	1	0	e. 500-2000
-Mercy Corps	Kirkuk	Daquq	1413108865743.jpg	city_suburb	7503323844	16	25	22	17	18	82	maj	maj	min	maj	maj	no	no	no	Clothing	diarrhea	35.13234255,44.45121408	other	115	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413110175945.jpg	city_suburb	7503026150	11	22	13	30	25	90	maj	maj	maj	maj	maj	no	no	no	Clothing	diarrhea	35.13230554,44.45117838	Camp	376	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413111980501.jpg	city_suburb	7507984146	18	26	30	20	33	109	maj	maj	mod	maj	maj	no	no	no	Clothing	diarrhea	35.13233664,44.4512031	Camp	289	no	0	0	0	0	0	0	1	c. 100-249
-Mercy Corps	Kirkuk	Daquq	1413097841389.jpg	city_centre	7503040914	10	12	13	18	15	58	no	no	no	mod	no	no	no	no	Clothing	diarrhea	35.13233551,44.45117192	Camp	186	no	0	0	1	0	0	0	0	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413107962360.jpg	city_centre	7504396149	15	12	15	30	25	82	no	no	no	min	no	no	no	no	Household_Items	diarrhea	35.13234921,44.45122842	Camp	399	no	0	0	0	0	1	0	0	b. 50-99
-ACTED	Dahuk	Zakho	1413098287938.jpg	city_centre	7501668321	11	15	16	30	35	96	no	no	no	mod	no	no	no	no	Food	chronic flu	37.14064236,42.61065158	Camp	348	no	0	1	0	0	0	0	0	b. 50-99
-Mercy Corps	Kirkuk	Kirkuk	1413108739823.jpg	city_centre	7503246083	11	15	18	25	22	80	no	no	no	mod	no	no	no	no	Clothing	chronic flu	35.38643014,44.39648302	Camp	274	no	0	0	0	0	1	0	0	b. 50-99
-Mercy Corps	Kirkuk	Kirkuk	1413096987742.jpg	city_centre	7504218463	23	30	35	36	30	131	no	no	no	mod	no	no	no	no	Clothing	chronic flu	35.39546922,44.38128982	Camp	305	no	0	0	1	0	0	0	0	c. 100-249
-Mercy Corps	Kirkuk	Kirkuk	1413100461142.jpg	city_centre	7508386145	35	44	52	67	62	225	no	no	no	no	no	no	no	no	Clothing	flu	35.39526395,44.38119946	Camp	146	no	0	0	0	0	1	0	0	c. 100-249
-Mercy Corps	Kirkuk	Daquq	1413101862013.jpg	isolated	7508849842	245	432	460	363	338	1593	no	no	maj	maj	maj	no	no	no	Clothing	diarrhea	35.13240784,44.45095961	Camp	300	no	0	0	0	0	0	0	1	f. >1000
-Mercy Corps	Kirkuk	Daquq	1413105666039.jpg	isolated	7508784983	494	630	700	620	542	2492	min	min	maj	mod	min	no	no	no	Clothing	diarrhea	35.13244435,44.4510249	Camp	1500	no	0	0	1	0	0	0	1	f. >1000
-Mercy Corps	Kirkuk	Daquq	1413112052177.jpg	town	7508412562	11	15	13	13	17	58	no	no	no	no	no	no	no	no	Clothing	diarrhea	35.13242775,44.45104117	Camp	468	no	0	0	1	0	0	0	0	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413184142467.jpg	city_centre	7507287771	5	11	13	15	16	55	mod	mod	mod	maj	no	no	no	no	Clothing	diarrhea	35.13242662,44.45099951	Camp	482	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413184668453.jpg	city_centre	7708658643	7	6	8	8	5	27	mod	min	no	min	no	no	no	no	Clothing	diarrhea	35.13251647,44.45150091	Camp	434	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413185234423.jpg	city_centre	7507856938	6	7	8	9	8	32	min	maj	mod	mod	no	no	no	no	Clothing	diarrhea	35.1323881,44.45102474	Camp	433	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413185948083.jpg	city_centre	7507954708	7	15	7	7	9	38	no	min	no	no	min	no	no	no	Clothing	diarrhea	35.13236912,44.45099004	Camp	425	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413185978795.jpg	city_suburb	7816936001	9	9	9	35	20	73	no	no	no	min	min	no	no	no	Clothing	diarrhea	35.13230517,44.45105223	Camp	387	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413189303882.jpg	city_suburb	7507419070	6	7	15	14	15	51	maj	maj	maj	no	no	no	no	no	Clothing	diarrhea	35.13239116,44.4510301	Mosque	96	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413190655505.jpg	city_suburb	7510450607	5	7	8	7	8	30	no	no	maj	no	no	no	no	no	Clothing	diarrhea	35.13249929,44.4510353	Mosque	350	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413191480724.jpg	city_suburb	7503097116	8	12	12	8	10	42	min	min	min	maj	no	no	no	no	Clothing	diarrhea	35.13244238,44.45091317	Mosque	572	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413192971892.jpg	city_suburb	7507262445	7	7	15	9	7	38	maj	maj	maj	no	no	no	no	no	Clothing	flu	35.38646417,44.39652946	Mosque	885	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413194340785.jpg	city_suburb	7507963974	7	7	7	11	15	40	no	no	mod	no	no	no	no	no	Clothing	diarrhea	35.13240382,44.45094603	Mosque	650	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413197023478.jpg	city_suburb	7503092053	14	23	14	25	17	79	maj	maj	maj	no	no	no	no	no	Clothing	diarrhea	35.13237528,44.45094335	Mosque	252	no	0	0	0	0	0	0	1	b. 50-99
-Mercy Corps	Diyala	Muqdadiya	1413199753263.jpg	city_suburb	7508412708	6	7	12	5	5	29	maj	maj	mod	no	no	no	no	no	Clothing	diarrhea	35.13242134,44.45088769	Mosque	206	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413188021449.jpg	city_centre	7507074699	7	7	10	15	20	52	no	no	min	mod	min	no	no	no	Clothing	diarrhea	37.1744288,43.0023061	Mosque	328	no	0	0	0	0	0	0	1	b. 50-99
-NRC	Dahuk	Zakho	1413189154570.jpg	city_centre	7507490896	6	10	11	9	8	38	no	no	no	mod	no	no	no	no	Food	diarrhea	37.1744288,43.0023061	Mosque	123	Unknown	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413189960353.jpg	city_centre	7503385666	7	16	17	12	11	56	no	no	no	mod	min	no	no	no	Sanitation	diarrhea	37.1711267,43.0139047	Mosque	516	Unknown	0	0	0	0	0	0	1	b. 50-99
-NRC	Dahuk	Zakho	1413191219262.jpg	city_centre	7501831216	5	7	8	3	7	25	no	min	no	mod	min	no	no	no	Food	diarrhea	37.1775227,43.0150205	Mosque	144	Unknown	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413199204643.jpg	city_centre	7503011969	7	8	7	13	16	44	min	no	min	mod	min	no	no	no	Food	diarrhea	37.1744288,43.0023061	Mosque	238	Unknown	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413201197677.jpg	city_centre	7503275216	8	13	9	10	17	49	no	min	no	mod	min	no	no	no	Rental_Support	diarrhea	37.1775227,43.0150205	Mosque	119	Unknown	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413190319384.jpg	city_centre	7501084837	7	8	9	10	9	36	no	no	no	no	no	no	no	no	Food	diarrhea	37.1775227,43.0150205	Mosque	800	Unknown	0	0	1	0	0	0	0	a. 0-49
-NRC	Dahuk	Zakho	1413192822967.jpg	city_centre	7503115953	11	10	15	23	11	59	min	mod	min	min	no	no	no	no	Clothing	diarrhea	37.1744288,43.0023061	Mosque	800	Unknown	0	0	0	0	0	0	1	b. 50-99
-NRC	Dahuk	Zakho	1413194507840.jpg	city_centre	7504728333	5	6	5	9	9	29	min	mod	min	mod	no	no	no	no	Clothing	diarrhea	37.1209541,43.1633595	Mosque	3000	Unknown	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413197034405.jpg	city_centre	7507250398	10	12	15	21	24	72	mod	mod	min	mod	min	min	no	no	Clothing	diarrhea	37.1292799,43.1695741	Mosque	3000	Unknown	0	0	0	0	0	0	1	b. 50-99
-NRC	Dahuk	Zakho	1413189108589.jpg	city_centre	7507148863	5	10	6	9	15	40	min	no	min	mod	no	no	no	no	Clothing	chronic	37.0964714,43.0851146	Mosque	500	Unknown	0	0	0	0	1	0	0	a. 0-49
-NRC	Dahuk	Zakho	1413203693712.jpg	city_centre	7503226221	35	70	45	40	35	190	no	min	no	maj	no	no	no	no	Clothing	diarrhea	37.0964714,43.0851146	Mosque	1000	Unknown	0	0	0	0	1	0	0	c. 100-249
-NRC	Dahuk	Zakho	1413183976638.jpg	city_centre	7507863687	5	4	6	13	10	33	no	no	no	mod	no	no	no	no	Clothing	diarrhea	37.1743352,43.0023331	Mosque	1750	Unknown	0	0	1	0	0	0	0	a. 0-49
-NRC	Dahuk	Zakho	1413187323277.jpg	city_centre	7507581127	6	10	8	5	7	30	no	no	no	min	no	no	no	no	Clothing	diarrhea	37.1743352,43.0023331	Mosque	300	Unknown	0	0	1	0	0	0	0	a. 0-49
-NRC	Dahuk	Zakho	1413186584564.jpg	city_centre	7503346583	6	7	8	11	13	39	no	min	no	mod	no	no	no	no	Medical_Assistance	diarrhea	37.1721218,42.931244	Mosque	4050	Unknown	0	0	0	0	1	0	0	a. 0-49
-NIHR	Kirkuk	Kirkuk	1413197538469.jpg	city_centre	7507427489	8	8	9	14	18	49	no	no	no	min	no	no	no	no	Medical_Assistance	flu	35.38381062,44.27632039	Mosque	3700	Unknown	0	0	0	0	0	0	1	a. 0-49
-NIHR	Kirkuk	Hawiga	1413198480804.jpg	city_centre	7502149500	5	7	8	12	15	42	no	no	no	min	no	no	no	no	Medical_Assistance	flu	35.56874613,45.38310033	Mosque	1020	Unknown	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413186294534.jpg	city_centre	7701865288	9	12	13	18	10	53	no	no	no	no	no	no	no	no	Sanitation	diarrhea	37.1560988,42.9317604	Mosque	1800	Unknown	0	0	1	0	0	0	0	b. 50-99
-NRC	Dahuk	Zakho	1413187940698.jpg	city_centre	7507031849	39	40	55	60	65	220	no	no	no	no	no	no	no	no	Food	diarrhea	37.1734737,42.883089	Mosque	1500	Unknown	0	0	1	0	0	0	0	c. 100-249
-NRC	Dahuk	Zakho	1413189445580.jpg	city_centre	7507077563	30	50	55	40	20	165	mod	maj	no	no	no	no	no	no	Food	diarrhea	37.1560988,42.9317604	Mosque	1050	Unknown	0	0	0	0	1	0	0	c. 100-249
-NRC	Dahuk	Zakho	1413191956100.jpg	city_centre	7503840236	44	70	75	40	30	215	mod	maj	no	no	no	no	no	no	Food	diarrhea	37.0467827,42.8142971	Mosque	360	Unknown	0	0	1	0	0	0	0	c. 100-249
-NRC	Dahuk	Zakho	1413192669028.jpg	city_centre	7507031075	120	210	220	80	118	628	mod	maj	no	no	no	no	no	no	Sanitation	diarrhea	37.0467827,42.8142971	Mosque	324	Unknown	0	0	1	0	0	0	0	e. 500-2000
-Mercy Corps	Kirkuk	Kirkuk	1413194006624.jpg	city_centre	7704151946	75	160	150	160	180	650	mod	mod	mod	no	no	no	no	no	Food	diarrhea	35.38207,44.37757798	Mosque	336	Unknown	0	0	0	0	1	0	0	e. 500-2000
-Mercy Corps	Kirkuk	Kirkuk	1413201150206.jpg	city_centre	7503046628	8	17	18	15	10	60	mod	maj	no	no	no	no	no	no	Food	chronic	35.41491302,44.41199474	Mosque	300	Unknown	0	0	1	0	0	0	0	b. 50-99
-Mercy Corps	Kirkuk	Kirkuk	1413202129351.jpg	city_centre	7505493027	5	6	5	7	5	23	no	no	no	no	no	no	no	no	Food	chronic flu	35.41490614,44.4120763	Mosque	300	Unknown	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413203989930.jpg	city_centre	7503120426	52	140	150	120	110	520	no	no	no	no	no	no	no	no	Water	chronic flu	35.41494566,44.41204336	Mosque	108	Unknown	0	0	0	0	0	0	1	e. 500-2000
-Mercy Corps	Kirkuk	Kirkuk	1413192399861.jpg	city_centre	7501898529	7	8	8	11	8	35	no	no	no	mod	min	mod	no	no	Food	flu	35.41490091,44.41207102	Mosque	1500	Unknown	0	0	0	1	0	0	0	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413192754653.jpg	city_centre	7503380207	34	79	68	82	60	289	no	no	no	no	no	no	no	no	Food	flu	35.47196637,44.36686129	Mosque	350	Unknown	0	0	0	0	0	0	1	d. 250-499
-Mercy Corps	Kirkuk	Kirkuk	1413184193368.jpg	town	7701648996	9	19	9	13	28	69	min	min	no	no	mod	no	no	no	Water	chronic	35.46544709,44.37896208	Mosque	1650	Unknown	0	0	1	0	0	0	1	b. 50-99
-NRC	Dahuk	Zakho	1413187943360.jpg	isolated	7508386109	8	8	9	9	20	46	maj	maj	min	min	no	no	no	no	Clothing	diarrhea	37.1743352,43.0023331	Mosque	500	Unknown	0	0	1	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413189522469.jpg	isolated	7507867915	7	16	10	11	9	46	no	no	no	no	no	no	no	no	Clothing	diarrhea	37.1721218,42.931244	Mosque	750	Unknown	0	0	1	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413190677955.jpg	isolated	7507859712	5	13	8	6	6	33	no	no	no	no	no	no	no	no	Food	diarrhea	37.1721218,42.931244	Mosque	3300	Unknown	0	0	1	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413190981808.jpg	isolated	7501500688	5	9	8	7	8	32	no	no	no	no	no	no	no	no	Medical_Assistance	diarrhea	37.1734737,42.883089	Mosque	3300	Unknown	0	0	1	0	0	1	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413270297946.jpg	city_suburb	7504177009	5	3	4	3	3	13	maj	mod	maj	mod	no	no	no	no	Clothing	flu	35.41210353,44.31605531	Mosque	1020	Unknown	0	0	0	0	0	0	1	a. 0-49
-ACTED	Dahuk	Zakho	1413270692571.jpg	city_suburb	7507206436	5	6	6	7	7	26	maj	mod	mod	mod	no	no	no	no	Clothing	chronic	37.1633644,42.71189609	Mosque	3000	Unknown	0	0	0	0	0	0	1	a. 0-49
-ACTED	Dahuk	Zakho	1413271023551.jpg	city_suburb	7507272669	5	5	5	8	10	28	maj	mod	mod	mod	no	no	maj	no	Clothing	chronic	37.13869587,42.71672046	Mosque	360	Unknown	0	0	1	0	0	0	1	a. 0-49
-ACTED	Dahuk	Dahuk	1413272359995.jpg	city_suburb	7501667150	7	8	7	11	6	32	min	min	mod	min	no	no	no	no	Medical_Assistance	flu	36.86555131,42.98712367	Mosque	780	Unknown	0	0	0	0	0	1	0	a. 0-49
-NRC	Dahuk	Zakho	1413273198937.jpg	city_suburb	7503929001	5	8	8	9	10	35	min	mod	no	min	min	no	no	no	Clothing	diarrhea	37.1654706,42.9541646	Mosque	1500	Unknown	0	0	0	0	0	1	0	a. 0-49
-NRC	Dahuk	Zakho	1413271324842.jpg	isolated	7507218971	5	4	4	7	2	17	no	no	min	mod	no	no	no	no	Clothing	diarrhea	37.2224098,43.0998217	Mosque	420	Unknown	0	0	0	0	0	1	0	a. 0-49
-NRC	Dahuk	Zakho	1413271529940.jpg	isolated	7504168629	14	23	21	26	25	95	mod	min	min	no	min	no	no	no	Medical_Assistance	diarrhea	37.2310346,43.150292	Mosque	2700	Unknown	0	1	0	0	0	0	0	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413273372070.jpg	isolated	7508822528	6	10	9	4	3	26	no	min	min	mod	no	no	no	no	Water	diarrhea	35.13240743,44.45102314	Mosque	260	Unknown	0	0	0	0	0	0	0	a. 0-49
-Mercy Corps	Kirkuk	Daquq	1413274673931.jpg	isolated	7708264144	12	18	26	14	14	72	no	min	min	mod	mod	no	no	no	Clothing	diarrhea	35.13241476,44.45097202	Mosque	254	Unknown	0	0	0	0	0	0	0	b. 50-99
-Mercy Corps	Kirkuk	Daquq	1413272599952.jpg	isolated	7704100216	70	93	102	94	89	378	maj	mod	min	mod	maj	min	no	no	Clothing	diarrhea	35.14165413,44.44913722	Mosque	720	Unknown	0	1	0	0	0	0	0	d. 250-499
-Mercy Corps	Kirkuk	Daquq	1413276410485.jpg	city_suburb	7508252798	11	14	12	13	15	54	no	no	no	min	no	no	no	no	Clothing	diarrhea	35.13239804,44.45100244	Mosque	792	Unknown	0	0	0	0	0	1	0	b. 50-99
-Mercy Corps	Kirkuk	Kirkuk	1413273651581.jpg	isolated	7507735223	5	4	9	7	9	29	maj	min	min	mod	min	no	no	no	Household_Items	chronic flu	35.40981678,44.31106498	Mosque	756	Unknown	0	0	1	0	0	0	0	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413278772894.jpg	city_centre	7508959410	9	15	20	13	15	63	no	no	no	mod	min	min	no	no	Medical_Assistance	flu	35.42959304,44.39927629	Mosque	750	Unknown	0	0	0	0	0	1	0	b. 50-99
-Mercy Corps	Kirkuk	Kirkuk	1413275780817.jpg	isolated	7701015056	11	16	18	16	14	64	min	maj	mod	mod	mod	no	no	no	Medical_Assistance	flu	35.40589002,44.35403095	other	870	Unknown	0	1	0	0	0	0	0	b. 50-99
-NRC	Dahuk	Zakho	1413278108930.jpg	city_centre	7703371274	10	13	14	17	20	64	min	maj	min	maj	mod	no	no	no	Household_Items	diarrhea	37.2286284,43.120153	other	3000	Unknown	0	0	0	0	0	1	0	b. 50-99
-ACTED	Dahuk	Dahuk	1413280124810.jpg	isolated	7504322958	20	30	27	25	26	108	no	no	min	min	no	no	no	no	Medical_Assistance	flu	36.87090634,42.97313897	Renting	780	no	0	0	0	0	0	1	0	c. 100-249
-ACTED	Dahuk	Dahuk	1413271590300.jpg	city_suburb	7507473752	300	420	450	400	500	1770	no	min	no	no	no	no	no	no	Food	other_disease	36.8737168,42.98128081	Friends_Family_Host	870	no	0	0	0	0	0	0	1	f. >1000
-ACTED	Dahuk	Dahuk	1413276960813.jpg	isolated	7504105942	8	8	8	14	20	50	no	no	no	no	no	no	no	no	Medical_Assistance	flu	36.87086603,42.97333737	Mosque Friends_Family_Host	200	no	0	0	0	0	0	0	1	b. 50-99
-ACTED	Dahuk	Dahuk	1413196571441.jpg	city_suburb	7504538892	124	274	273	118	122	787	no	no	no	no	no	no	no	no	Food	flu	36.85488584,42.96570967	Mosque Friends_Family_Host	780	no	0	0	0	0	0	1	0	e. 500-2000
-ACTED	Dahuk	Dahuk	1413282504732.jpg	city_suburb	7504564823	8	15	16	4	6	41	no	no	no	no	no	no	no	no	Water	flu	36.84359307,42.97713965	None_Open_Air	300	no	0	0	0	0	0	1	0	a. 0-49
-NRC	Dahuk	Zakho	1413282817595.jpg	city_suburb	7504663881	24	55	55	20	18	148	no	no	no	no	no	no	no	no	Food	diarrhea	37.0930774,42.4320897	None_Open_Air	600	no	0	0	0	0	0	1	0	c. 100-249
-Mercy Corps	Kirkuk	Kirkuk	1413285732036.jpg	city_suburb	7504493132	39	72	84	40	29	225	min	no	no	no	no	no	no	no	Clothing	flu	35.38516988,44.37366597	None_Open_Air	6000	no	0	0	0	0	0	1	0	c. 100-249
-Mercy Corps	Kirkuk	Kirkuk	1413356371913.jpg	city_suburb	7507956121	5	5	5	6	5	21	no	min	no	no	no	no	no	no	Rental_Support	flu	35.43633859,44.39761944	None_Open_Air	7000	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413356246562.jpg	isolated	7507887243	6	7	8	10	15	40	min	min	min	mod	min	no	no	no	Food	flu	35.3901162,44.38405325	None_Open_Air	7000	no	0	0	1	0	0	0	0	a. 0-49
-NRC	Dahuk	Zakho	1413357522032.jpg	town	7503112294	24	80	75	45	50	250	maj	min	mod	no	min	no	no	no	Food	diarrhea	37.0930774,42.4320897	None_Open_Air	8000	no	0	0	0	0	0	1	0	d. 250-499
-Mercy Corps	Kirkuk	Daquq	1413358367657.jpg	town	7507864198	5	8	8	8	2	26	min	min	min	mod	no	no	no	no	Food	diarrhea	35.14103739,44.44961364	other	450	no	0	0	0	0	1	0	0	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413358655444.jpg	town	7507620661	5	5	5	7	5	22	maj	maj	min	maj	no	no	no	no	Food	chronic	35.41205341,44.31565792	Renting	790	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413359695191.jpg	town	7507559829	5	3	6	13	3	25	mod	mod	mod	mod	no	no	no	no	Food	flu	35.44878395,44.37339298	Renting	190	no	0	0	0	0	0	0	1	a. 0-49
-Mercy Corps	Kirkuk	Kirkuk	1413360782371.jpg	town	7508651413	7	8	8	12	8	36	maj	maj	maj	maj	no	no	no	no	Food	flu	35.77170251,44.11933263	Renting Friends_Family_Host	2870	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413361588567.jpg	town	7508989418	6	8	10	5	2	25	no	no	no	min	no	no	no	no	Food	diarrhea	36.8549239,42.94268743	Renting Friends_Family_Host	1000	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413362484543.jpg	town	7503288219	5	7	7	8	6	28	no	no	no	mod	no	no	no	no	Food	diarrhea other_disease	37.0934714,42.4322712	Renting Friends_Family_Host	1532	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413363314527.jpg	town	7507336249	5	6	10	10	8	34	no	no	no	maj	no	no	no	no	Food	diarrhea	37.1383475,42.6710038	Renting Friends_Family_Host	6000	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413364403699.jpg	town	7504954492	10	16	15	17	19	67	mod	mod	no	mod	no	no	no	no	Food	diarrhea	37.1405526,42.690525	Renting Friends_Family_Host	240	no	0	0	0	0	0	0	1	b. 50-99
-NRC	Dahuk	Zakho	1413365776148.jpg	town	7503419168	7	16	15	7	6	44	maj	maj	no	mod	no	no	no	no	Food	diarrhea	37.1393291,42.6850949	Renting Friends_Family_Host	220	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413367186083.jpg	town	7507940349	8	14	14	11	6	45	maj	maj	no	mod	no	no	no	no	Food	diarrhea	37.1417701,42.6873265	Renting Friends_Family_Host	490	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413367962040.jpg	town	7506907394	13	17	20	23	25	85	maj	maj	maj	mod	no	no	no	no	Clothing	diarrhea	37.161456,42.6741698	Renting Friends_Family_Host	2700	no	0	0	0	0	0	0	1	b. 50-99
-NRC	Erbil	Erbil	1413369167050.jpg	town	7508651405	6	9	9	2	2	22	maj	maj	min	mod	no	no	no	no	Food	flu	36.23458134,43.99349728	Renting Friends_Family_Host	720	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413368797743.jpg	isolated	7512285283	4	5	5	8	8	26	no	min	no	min	no	no	no	no	Food	flu	36.97366969,42.65526225	Renting Friends_Family_Host	1000	no	0	0	1	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413203953175.jpg	city_suburb	7702006388	393	492	502	336	327	1657	mod	mod	mod	mod	no	no	no	no	Food	diarrhea	37.08550042,42.42239219	Renting Friends_Family_Host	593	no	0	1	0	0	0	0	0	f. >1000
-ACTED	Dahuk	Dahuk	1413287323030.jpg	city_centre	7705229052	150	138	168	152	159	617	mod	mod	mod	mod	mod	no	no	no	Food	chronic	36.8704527,42.9907506	Renting Friends_Family_Host	1000	no	0	0	0	0	0	1	0	e. 500-2000
-ACTED	Dahuk	Zakho	1413360513486.jpg	city_suburb	7507949300	11	19	12	24	21	76	min	mod	mod	min	no	no	no	no	Food	chronic	36.8704531,42.9907508	Renting Friends_Family_Host	900	no	0	0	0	0	0	0	0	b. 50-99
-ACTED	Dahuk	Dahuk	1413361150622.jpg	city_suburb	7507949300	23	33	44	36	48	161	min	min	mod	min	no	no	no	no	Food	chronic	36.870178,42.99110206	Renting Friends_Family_Host	147	no	0	0	1	1	0	0	0	c. 100-249
-ACTED	Dahuk	Zakho	1413362530446.jpg	city_suburb	7507949300	17	24	30	30	33	117	min	min	min	min	min	no	no	no	Food	chronic	36.87019128,42.99120457	Renting Friends_Family_Host	332	no	0	0	0	1	0	0	0	c. 100-249
-ACTED	Dahuk	Sumel	1413284922184.jpg	city_suburb	7507387040	8	13	7	4	6	30	min	mod	mod	mod	mod	no	no	no	Water	chronic	36.87012947,42.99110164	School	136	no	0	0	1	1	0	0	0	a. 0-49
-ACTED	Dahuk	Sumel	1413359093780.jpg	city_suburb	7507949300	28	31	46	40	51	168	mod	mod	mod	maj	mod	no	no	no	Food	chronic	36.87023638,42.99141211	School	136	no	0	0	0	1	0	0	0	c. 100-249
-ACTED	Dahuk	Sumel	1413359849273.jpg	city_suburb	7507949300	39	49	54	61	70	234	mod	min	mod	min	min	min	no	no	Food	other_disease	36.87028466,42.99104095	School	300	Unknown	0	0	0	1	0	0	0	c. 100-249
-ACTED	Dahuk	Dahuk	1413361489134.jpg	city_suburb	7507949300	18	23	28	33	27	111	mod	min	mod	mod	min	no	no	no	Food	diarrhea	36.87015998,42.99108412	School Friends_Family_Host	210	Unknown	1	0	0	1	0	0	0	c. 100-249
-ACTED	Dahuk	Dahuk	1413362069011.jpg	city_suburb	7507949300	5	14	17	18	18	67	min	mod	no	min	no	no	no	no	Food	flu	36.87027431,42.99110139	School Friends_Family_Host	150	Unknown	1	0	0	1	0	0	0	b. 50-99
-ACTED	Dahuk	Dahuk	1413291805090.jpg	town	7507824048	118	154	165	124	116	559	no	no	no	min	no	no	no	no	Food	chronic	36.87040804,42.99098714	School Friends_Family_Host	350	Unknown	0	0	0	0	0	1	0	e. 500-2000
-ACTED	Dahuk	Sumel	1413358536665.jpg	city_suburb	7713942446	22	30	25	27	21	103	min	min	mod	min	mod	min	mod	min	Food	chronic	36.87039287,42.99125989	School Renting	54	Unknown	0	0	0	0	1	0	1	c. 100-249
-ACTED	Dahuk	Sumel	1413359195491.jpg	town	7504328301	70	90	88	49	37	264	min	min	min	no	no	no	no	no	Food	other_disease	36.87022913,42.99111119	School Renting	54	Unknown	0	0	0	0	1	1	1	d. 250-499
-ACTED	Dahuk	Dahuk	1413359879527.jpg	town	7701843521	17	28	25	23	20	96	min	min	min	min	min	min	min	min	Food	chronic	36.87034526,42.99101899	School Renting Friends_Family_Host	210	Unknown	0	0	0	0	1	1	1	b. 50-99
-ACTED	Dahuk	Sumel	1413361155667.jpg	town	7703078211	25	44	36	28	25	133	mod	min	min	mod	min	min	mod	mod	Food	chronic	36.87047577,42.99108261	School Renting Friends_Family_Host	66	yes	0	0	0	0	1	1	1	c. 100-249
-ACTED	Dahuk	Sumel	1413386388286.jpg	city_suburb	7504856881	7	15	23	22	18	78	mod	mod	mod	no	no	no	no	no	Food	chronic	36.8822442,42.9443247	School Renting Friends_Family_Host	18	yes	0	0	0	0	0	0	1	b. 50-99
-ACTED	Dahuk	Sumel	1413387026977.jpg	city_suburb	7504856881	8	18	25	19	23	85	mod	mod	mod	mod	no	no	no	no	Food	chronic	36.8698274,42.9901556	School Renting Friends_Family_Host	90	yes	0	0	0	0	0	0	1	b. 50-99
-NRC	Dahuk	Sumel	1413389054681.jpg	city_suburb	7504452105	6	13	17	16	11	57	mod	mod	mod	mod	no	no	no	no	Food	diarrhea	36.9686465,42.7165722	School Renting Friends_Family_Host	102	yes	0	0	0	0	0	1	0	b. 50-99
-NRC	Dahuk	Sumel	1413390349461.jpg	city_centre	7507726211	5	10	12	9	8	39	mod	maj	maj	mod	no	no	no	no	Food	diarrhea	36.9686465,42.7165722	School Renting Friends_Family_Host	170	yes	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Sumel	1413390558902.jpg	city_centre	7507726211	6	7	8	6	12	33	mod	min	min	mod	no	no	no	no	Food	diarrhea	36.8674442,42.8366321	School Renting Friends_Family_Host	132	yes	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Sumel	1413390790896.jpg	city_centre	7507726211	5	11	14	9	10	44	maj	maj	maj	mod	no	no	no	no	Food	diarrhea	36.9206797,42.7241923	School	666	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Sumel	1413384202339.jpg	city_suburb	7504629854	5	7	10	13	8	38	mod	mod	mod	mod	no	no	no	no	Clothing	diarrhea	36.9686465,42.7165722	other	114	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Sumel	1413361089960.jpg	town	7901704598	5	5	8	10	8	31	maj	maj	no	mod	mod	mod	no	no	Food	diarrhea	36.9686465,42.7165722	other	114	no	1	0	0	0	0	0	0	a. 0-49
-ACTED	Dahuk	Sumel	1413354768212.jpg	town	7508843353	6	13	14	7	1	35	no	no	no	no	no	no	no	no	Household_Items	chronic	36.80975433,43.04342349	School Renting	42	no	0	0	1	0	0	0	0	a. 0-49
-ACTED	Dahuk	Amedi	1413355730293.jpg	town	7507958616	6	7	10	10	12	39	mod	mod	min	mod	min	no	no	no	Clothing	diarrhea	36.87029032,42.99107339	School Renting	54	no	0	0	0	0	0	0	1	a. 0-49
-ACTED	Dahuk	Sumel	1413356078153.jpg	town	7503410787	7	9	9	4	6	28	mod	mod	min	mod	min	no	no	no	Food	chronic	36.80638782,43.02056378	School Renting	72	no	0	0	0	0	0	0	1	a. 0-49
-ACTED	Dahuk	Sumel	1413356800773.jpg	town	7708208192	6	10	10	4	4	28	min	mod	no	mod	min	no	no	no	Water	chronic	36.80848744,43.04019134	School Renting	616	no	0	0	0	0	0	0	1	a. 0-49
-ACTED	Dahuk	Sumel	1413358362683.jpg	town	7508823841	13	16	22	15	12	65	no	no	min	mod	min	no	no	no	Water	chronic	36.81571009,42.98045587	Renting	2800	no	0	0	0	0	0	0	1	b. 50-99
-ACTED	Dahuk	Sumel	1413358875862.jpg	town	7504402915	12	12	12	9	12	45	mod	no	min	mod	min	no	no	no	Food	chronic	36.77121697,42.98288704	Renting	3570	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413361122233.jpg	town	7708395005	7	8	8	12	8	36	min	no	min	mod	min	no	no	no	Water	diarrhea	37.0848941,42.4034293	Renting	3846	no	0	0	0	0	0	0	1	a. 0-49
-NRC	Dahuk	Zakho	1413364239538.jpg	town	7504131173	11	13	16	15	21	65	min	min	min	mod	min	no	no	no	Water	diarrhea	37.0848941,42.4034293	Renting	540	no	0	0	0	0	0	0	1	b. 50-99
-NRC	Dahuk	Zakho	1413365527377.jpg	town	7508735503	18	17	20	22	27	86	no	no	no	min	min	no	no	no	Water	diarrhea	37.0848941,42.4034293	Camp School Renting	1200	no	0	0	0	0	0	1	1	b. 50-99
-ACTED	Ninewa	Mosul	1413374359275.jpg	town	7507036653	60	65	78	83	97	323	min	no	no	min	mod	no	no	no	Shelter_Improvement	diarrhea	36.85114617,43.01767185	School Renting	62	yes	0	0	1	0	0	1	0	d. 250-499
-ACTED	Dahuk	Amedi	1413374863135.jpg	town	7507881115	17	28	22	15	23	88	no	no	min	mod	min	no	no	no	Food	chronic	36.87035519,42.99103199	Mosque School Renting	1506	no	0	0	0	0	0	0	1	b. 50-99
-ACTED	Dahuk	Amedi	1413375519602.jpg	town	7507853401	6	12	6	10	7	35	no	no	no	mod	min	no	no	no	Rental_Support	chronic	36.8631319,42.9677408	Mosque School Renting	1500	no	0	0	0	0	0	0	1	a. 0-49
+organisat	governorate	district	numofchild	environment	phone	household	men	women	boys	girls	individual	water_access	water_quality	electric	openelement	damage	hazards	mines	fighting	gaps	diseases	geo	ShelterType	population	protection
+ACTED	Dahuk	Dahuk	65	city_suburb	7503168436	14	17	15	26	20	78	no	no	no	no	no	no	no	no	Medical_Assistance	flu	36.68553041,43.62390289	School	1400	no
+DRC	Dahuk	Zakho	60	city_suburb	7504250981	38	56	52	33	31	172	no	no	no	no	no	no	no	no	Household_Items	diarrhea	36.86798395,42.96852205	School	1353	no
+DRC	Ninewa	Sinjar	65	city_suburb	7707417324	5	5	7	1	0	13	no	no	no	no	no	no	no	no	Food	diarrhea	36.86821475,42.9687036	School other	1353	no
+DRC	Ninewa	Sinjar	60	town	7700443635	13	18	19	16	16	69	min	no	no	no	no	no	no	no	Clothing	diarrhea	36.86852106,42.96865297	Friends_Family_Host other	115	no
+NRC	Dahuk	Zakho	60	town	7503195657	9	8	12	11	11	42	no	no	no	no	no	no	no	no	Clothing	diarrhea	37.08490119,42.42833463	Hotel	480	no
+NRC	Dahuk	Zakho	75	town	7507985129	6	6	9	11	5	31	no	no	no	min	no	no	no	no	Water	diarrhea	37.08819268,42.43266614	None_Open_Air	775	no
+ACTED	Dahuk	Dahuk	55	city_centre	7707464083	230	258	380	209	310	1157	mod	maj	maj	mod	no	no	no	no	Water	flu other_disease	36.64495785,43.41156003	other	101	no
+ACTED	Dahuk	Dahuk	45	isolated	7501127555	11	13	14	12	13	52	no	no	no	min	no	no	no	no	Water	chronic flu	36.63952399,43.52394241	other	775	no
+NRC	Dahuk	Zakho	62	city_suburb	7507726211	97	57	54	53	36	200	min	min	min	no	no	no	no	no	Water	diarrhea	37.0933053,42.4321584	other	270	no
+NRC	Dahuk	Zakho	74	isolated	7501127555	7	7	5	8	10	30	maj	maj	no	no	no	no	no	no	Food	diarrhea	37.0849003,42.4035074	other	700	no
+NRC	Dahuk	Zakho	66	city_suburb	7701662998	236	281	257	167	133	838	maj	no	no	no	no	no	no	no	Food	diarrhea	37.0597859,42.4423284	other	600	no
+NRC	Dahuk	Zakho	83	city_centre	7504408425	120	52	69	128	118	367	mod	maj	min	min	min	no	no	no	Food	diarrhea	37.0849003,42.4035074	other	600	no
+Mercy Corps	Kirkuk	Daquq	27	town	7800195803	12	12	15	12	13	52	maj	no	no	min	no	min	no	no	Medical_Assistance	diarrhea	35.14503334,44.4513093	other	150	no
+Mercy Corps	Kirkuk	Daquq	50	city_suburb	7702060725	203	253	242	145	103	743	mod	maj	maj	maj	no	no	no	no	Water	diarrhea	35.14492408,44.45127301	School	750	no
+Mercy Corps	Kirkuk	Daquq	29	city_suburb	7510618114	60	71	61	39	49	220	mod	mod	min	no	no	no	no	no	Medical_Assistance	chronic	35.14498937,44.45130738	School	800	no
+ACTED	Dahuk	Dahuk	44	city_suburb	7701694805	60	49	61	48	39	197	mod	min	min	no	no	no	no	no	Food	flu	36.73190945,43.86932133	School	1400	no
+ACTED	Dahuk	Dahuk	70	town	7703867200	11	18	15	13	10	56	no	no	no	no	no	no	no	no	Medical_Assistance	chronic	36.72426595,43.87392039	School	655	no
+ACTED	Dahuk	Dahuk	55	city_centre	7708555576	120	187	163	125	189	664	min	mod	mod	maj	no	no	no	no	Rental_Support	chronic	36.73113337,43.88195436	School	474	no
+Mercy Corps	Kirkuk	Daquq	44	city_suburb	7508641331	5	5	6	5	6	22	no	no	no	min	no	no	no	no	Medical_Assistance	chronic	35.16134515,44.43922218	School	1300	no
+Mercy Corps	Kirkuk	Daquq	70	city_centre	7507870216	6	7	11	10	10	38	mod	mod	mod	mod	mod	mod	no	no	Food	chronic	35.16122038,44.43916644	School	514	no
+Mercy Corps	Kirkuk	Daquq	55	city_centre	7507732596	7	9	10	8	9	36	min	min	no	no	no	no	no	no	Food	chronic	35.16135873,44.43913962	School	270	no
+Mercy Corps	Kirkuk	Daquq	34	city_centre	7507732144	53	61	86	53	15	215	mod	mod	mod	mod	mod	no	no	no	Clothing	chronic	35.12745129,44.44881401	School	157	no
+Mercy Corps	Kirkuk	Daquq	31	city_suburb	7701742357	20	19	22	24	26	91	no	no	no	no	no	no	no	no	Food	chronic	35.12749383,44.448826	School	543	no
+Mercy Corps	Kirkuk	Daquq	29	city_suburb	7597380008	39	48	54	38	46	186	no	no	no	no	no	no	no	no	Food	chronic	35.12754588,44.44891535	School	204	no
+Mercy Corps	Kirkuk	Daquq	29	city_suburb	7710167132	20	23	18	15	17	73	no	maj	no	no	no	no	no	no	Food	chronic	35.12768317,44.44888366	School	183	no
+DRC	Dahuk	Zakho	42	city_suburb	7709982552	5	8	8	5	3	24	no	maj	no	no	no	no	no	no	Food	flu	37.13449473,42.69515097	School	400	no
+DRC	Dahuk	Zakho	44	city_suburb	7507031885	21	50	35	70	65	220	no	no	no	no	no	no	no	no	Food	flu	37.13437693,42.69504343	School	181	no
+DRC	Dahuk	Zakho	35	isolated	7503778402	20	25	35	40	30	130	maj	no	no	no	no	no	no	no	Food	flu	37.13435979,42.69502264	School	410	no
+DRC	Dahuk	Zakho	40	isolated	7508209659	25	95	35	20	25	175	no	maj	no	no	no	no	no	no	Food	flu	37.13442776,42.69503647	School	600	no
+NRC	Dahuk	Zakho	40	isolated	7507581713	10	20	21	18	17	76	no	no	no	no	no	no	no	no	Food	diarrhea	37.0849003,42.4035074	School	880	no
+NRC	Dahuk	Zakho	25	isolated	7501939655	5	12	6	5	2	25	no	no	no	no	no	no	no	no	Rental_Support	diarrhea	37.0849003,42.4035074	School	150	no
+NRC	Dahuk	Zakho	56	isolated	7504436470	12	8	11	6	15	40	maj	mod	min	maj	mod	min	no	min	Rental_Support	diarrhea	37.0372761,42.3893446	School Friends_Family_Host other	127	no
+Mercy Corps	Kirkuk	Kirkuk	40	isolated	7507857087	5	8	9	6	5	28	no	min	no	no	no	no	no	no	Rental_Support	flu	35.38634359,44.39665862	School Friends_Family_Host other	303	no
+Mercy Corps	Kirkuk	Kirkuk	42	isolated	7701762142	50	80	100	40	30	250	mod	min	no	maj	maj	maj	no	no	Rental_Support	flu	35.42336881,44.34206452	School other	368	Unknown
+ACTED	Dahuk	Dahuk	36	isolated	7508542620	5	9	10	7	6	32	no	no	no	no	no	no	no	no	Clothing	chronic	36.85455195,43.02929688	School other	500	Unknown
+ACTED	Dahuk	Dahuk	39	isolated	7507047822	5	12	9	5	7	33	no	no	maj	no	no	no	no	no	Clothing	chronic	36.8657578,42.99227066	Friends_Family_Host	120	no
+ACTED	Dahuk	Dahuk	40	isolated	7507642108	5	5	5	5	6	21	no	no	no	no	no	no	no	no	Clothing	chronic	36.84468134,43.01337931	Friends_Family_Host	149	no
+ACTED	Dahuk	Dahuk	30	isolated	7701883435	14	8	9	25	30	72	no	no	no	no	no	no	no	no	Clothing	chronic	36.86705075,42.94913974	Friends_Family_Host other	117	no
+ACTED	Dahuk	Dahuk	40	city_suburb	7701663897	145	240	251	115	139	745	no	no	no	no	no	no	no	no	Household_Items	chronic	36.86764038,42.9342264	other	123	no
+Mercy Corps	Kirkuk	Kirkuk	40	city_suburb	7701800725	13	22	19	5	1	47	min	no	no	no	no	no	no	no	Clothing	flu	35.38642574,44.39666349	other	117	no
+ACTED	Dahuk	Zakho	60	city_suburb	7701630145	100	120	185	88	91	484	min	min	no	no	min	no	no	no	Rental_Support	flu	37.14907677,42.92597878	other	90	no
+ACTED	Dahuk	Zakho	40	city_suburb	7500166893	50	27	33	56	32	148	no	min	no	no	no	no	no	no	Rental_Support	flu	37.13277498,42.89528836	other	121	no
+Mercy Corps	Kirkuk	Daquq	33	city_suburb	7703032639	80	100	100	75	75	350	min	min	no	no	no	no	no	no	Rental_Support	diarrhea	35.13249292,44.45092038	other	121	no
+Mercy Corps	Kirkuk	Daquq	45	city_suburb	7705962427	50	52	62	33	38	185	mod	maj	no	no	no	no	no	no	Rental_Support	diarrhea	35.13241036,44.45099465	other	88	no
+Mercy Corps	Kirkuk	Daquq	45	city_suburb	7702506250	23	45	35	26	27	133	no	maj	no	no	no	no	no	no	Clothing	diarrhea	35.13243685,44.45099993	other	91	no
+NRC	Dahuk	Zakho	40	town	7501132956	14	27	25	4	6	62	maj	no	no	maj	no	no	no	no	Clothing	diarrhea	37.1775227,43.0150205	other	120	no
+ACTED	Dahuk	Dahuk	40	town	7501132956	51	70	60	40	35	205	no	no	no	min	no	no	no	no	Registration	chronic	36.86097207,42.94589309	other	77	no
+ACTED	Dahuk	Dahuk	60	town	7507201936	12	15	16	16	14	61	no	no	maj	mod	no	no	no	no	Food	chronic flu	36.85682785,42.970714	School	133	no
+ACTED	Dahuk	Dahuk	50	city_centre	7508419322	325	450	430	232	257	1369	maj	mod	maj	mod	no	no	no	no	Clothing	chronic	36.8702579,42.9907521	School	91	no
+Mercy Corps	Kirkuk	Daquq	42	city_centre	7708855576	110	109	143	133	174	559	mod	mod	mod	mod	no	no	no	no	Food	diarrhea	35.13804237,44.44552319	School	102	no
+Mercy Corps	Kirkuk	Daquq	44	city_suburb	7502135783	7	8	6	14	4	32	no	no	no	mod	min	no	no	no	Clothing	diarrhea	35.13798126,44.44558698	School	117	no
+Mercy Corps	Kirkuk	Daquq	35	town	7507859602	6	8	9	10	12	39	no	no	no	min	no	no	no	no	Clothing	diarrhea	35.13807577,44.44551825	School	127	no
+Mercy Corps	Kirkuk	Daquq	40	city_suburb	7501135906	7	9	13	11	9	42	no	no	no	mod	no	no	no	no	Food	diarrhea	35.13803503,44.44558153	School	104	no
+Mercy Corps	Kirkuk	Daquq	40	city_centre	7507021579	14	23	20	10	9	62	no	no	min	mod	no	no	no	no	Clothing	diarrhea	35.13803407,44.44556233	School Friends_Family_Host other	97	no
+Mercy Corps	Kirkuk	Daquq	25	city_centre	7503978114	5	8	9	11	4	32	no	no	min	min	no	no	no	no	Clothing	diarrhea	35.13251027,44.45089901	Camp	112	no
+Mercy Corps	Kirkuk	Daquq	56	city_centre	7507833990	7	5	16	11	18	50	no	no	no	no	no	no	no	no	Clothing	diarrhea	35.13244397,44.45110286	Camp	151	no
+Mercy Corps	Kirkuk	Daquq	40	city_centre	7507848361	5	9	6	9	8	32	no	no	no	no	no	no	no	no	Clothing	diarrhea	35.13242612,44.45097671	Camp	137	no
+Mercy Corps	Kirkuk	Daquq	42	city_centre	7503326635	5	5	6	3	3	17	no	no	no	no	no	no	no	no	Clothing	diarrhea	35.13238383,44.45086062	Camp	129	no
+Mercy Corps	Kirkuk	Daquq	36	city_centre	7507218717	8	10	15	20	25	70	no	no	no	no	no	no	no	no	Clothing	diarrhea	35.13245797,44.45098191	Camp	175	no
+Mercy Corps	Kirkuk	Daquq	39	city_suburb	7503929175	6	8	9	9	10	36	no	no	min	mod	min	no	no	no	Clothing	diarrhea	35.13245763,44.45094771	Camp	140	no
+Mercy Corps	Kirkuk	Daquq	40	city_centre	7503044114	5	6	6	5	5	22	no	no	no	no	no	no	no	no	Food	diarrhea	35.13243638,44.45091762	Camp	134	no
+Mercy Corps	Kirkuk	Daquq	30	city_suburb	7503263234	5	5	5	9	12	31	no	no	no	mod	no	no	no	no	Medical_Assistance	diarrhea	35.13244238,44.45107168	Friends_Family_Host	118	no
+Mercy Corps	Kirkuk	Daquq	40	city_centre	7503112840	14	16	18	10	14	58	no	no	no	no	no	min	no	no	Shelter_Improvement	diarrhea	35.13239573,44.45092868	Friends_Family_Host	142	no
+NRC	Dahuk	Zakho	50	city_centre	7507769217	7	9	11	10	15	45	no	no	no	no	no	no	no	no	Food	diarrhea	37.0933053,42.4321584	Friends_Family_Host	136	no
+NRC	Dahuk	Zakho	40	city_centre	7508825953	7	8	10	10	5	33	no	no	no	no	no	no	no	no	Food	diarrhea	37.0848941,42.4034293	Friends_Family_Host	126	no
+Mercy Corps	Kirkuk	Daquq	40	city_centre	7507856816	5	5	7	10	8	30	no	no	no	no	no	no	no	no	Food	chronic	35.15496912,44.43747195	Friends_Family_Host	160	no
+Mercy Corps	Kirkuk	Kirkuk	40	city_centre	7503131431	5	5	5	8	7	25	no	no	no	no	no	no	no	no	Household_Items	chronic	35.46842351,44.37983338	Friends_Family_Host	182	no
+Mercy Corps	Kirkuk	Kirkuk	65	city_centre	7507971087	8	10	13	15	11	49	no	no	no	no	no	no	no	no	Food	diarrhea	35.41739796,44.3305234	Friends_Family_Host	124	no
+Mercy Corps	Kirkuk	Kirkuk	59	city_centre	7508822823	8	8	11	10	6	35	no	no	no	no	no	no	no	no	Sanitation	chronic	35.41051503,44.31286826	Friends_Family_Host	136	no
+Mercy Corps	Kirkuk	Kirkuk	52	city_centre	7507354596	11	13	15	18	23	69	no	no	no	no	min	no	no	no	Food	chronic	35.47540789,44.37843645	Friends_Family_Host	176	no
+Mercy Corps	Kirkuk	Kirkuk	54	city_centre	7504399666	7	12	11	9	15	47	no	no	no	no	no	no	no	no	Food	chronic	35.48060836,44.38643463	Friends_Family_Host	123	no
+Mercy Corps	Kirkuk	Kirkuk	20	city_suburb	7503049192	11	23	17	30	24	94	min	no	mod	mod	no	no	no	no	Water	chronic	35.41045234,44.3132296	Friends_Family_Host	126	no
+Mercy Corps	Kirkuk	Kirkuk	49	city_suburb	7507895341	5	6	6	9	7	28	no	no	min	mod	no	no	no	no	Clothing	chronic	35.49037885,44.38014175	Friends_Family_Host	112	no
+Mercy Corps	Kirkuk	Kirkuk	35	city_suburb	7503279752	5	6	9	10	9	34	no	no	min	mod	min	no	no	no	Food	diarrhea	35.41742461,44.33059615	Mosque School Friends_Family_Host	163	no
+Mercy Corps	Kirkuk	Kirkuk	50	city_suburb	7502144983	7	9	8	12	8	37	no	no	min	mod	no	no	no	no	Food	chronic	35.46837179,44.3797991	None_Open_Air	143	no
+Mercy Corps	Kirkuk	Kirkuk	20	town	7507868691	6	9	6	8	2	25	mod	no	min	mod	mod	min	no	no	Sanitation	chronic	35.46835662,44.37979256	None_Open_Air	103	no
+Mercy Corps	Kirkuk	Daquq	60	city_suburb	7503485262	5	6	7	15	13	41	no	no	min	mod	no	no	no	no	Food	diarrhea	35.15145731,44.44043244	None_Open_Air	120	no
+Mercy Corps	Kirkuk	Daquq	40	city_suburb	7507542937	6	6	8	10	12	36	no	no	no	min	min	no	no	no	Medical_Assistance	diarrhea	35.15142856,44.44037436	None_Open_Air	154	no
+Mercy Corps	Kirkuk	Daquq	40	city_suburb	7501925519	5	7	4	8	6	25	no	no	min	mod	no	no	no	no	Food	diarrhea	35.15146888,44.44043462	None_Open_Air	38	no
+Mercy Corps	Kirkuk	Daquq	60	isolated	7507206390	20	61	45	80	60	246	maj	mod	maj	maj	mod	no	no	no	Food	diarrhea	35.15153262,44.44052104	None_Open_Air	148	no
+Mercy Corps	Kirkuk	Daquq	60	city_suburb	7501303794	5	6	8	10	9	33	no	no	no	no	no	no	no	no	Food	diarrhea	35.15146875,44.44054862	None_Open_Air	144	no
+Mercy Corps	Kirkuk	Daquq	40	city_suburb	7507737154	6	7	6	14	9	36	no	no	min	mod	no	no	no	no	Medical_Assistance	diarrhea	35.15149335,44.44040051	None_Open_Air	28	no
+Mercy Corps	Kirkuk	Daquq	40	town	7700513269	8	8	6	6	13	33	min	no	min	mod	min	no	no	no	Clothing	diarrhea	35.15041364,44.44071324	None_Open_Air	116	no
+Mercy Corps	Kirkuk	Kirkuk	45	town	7507869260	6	7	6	9	11	33	no	no	no	mod	min	no	no	no	Food	chronic	35.41645395,44.33819124	None_Open_Air	103	no
+Mercy Corps	Kirkuk	Kirkuk	55	town	7503236428	6	6	6	5	7	24	no	no	no	mod	min	no	no	no	Clothing	chronic	35.41647126,44.33822243	None_Open_Air Friends_Family_Host	101	no
+Mercy Corps	Kirkuk	Kirkuk	40	town	7502131048	7	15	17	9	7	48	no	min	min	min	min	min	no	no	Household_Items	chronic	35.47903776,44.38362527	None_Open_Air School	132	no
+Mercy Corps	Kirkuk	Daquq	60	city_suburb	7506276478	80	95	88	120	150	453	min	no	no	mod	no	no	no	no	Clothing	diarrhea	35.14604243,44.44971138	None_Open_Air School Friends_Family_Host	95	no
+Mercy Corps	Kirkuk	Kirkuk	55	town	7507013915	16	18	23	29	23	93	mod	mod	min	min	no	no	no	no	Clothing	diarrhea	35.39111629,44.39814926	None_Open_Air School Friends_Family_Host	125	no
+Mercy Corps	Kirkuk	Kirkuk	65	town	7504228868	35	37	44	53	47	181	no	no	min	mod	no	no	no	no	Clothing	chronic	35.46837284,44.37974017	other	116	no
+ACTED	Dahuk	Zakho	66	town	7507859710	8	18	15	15	15	63	no	mod	no	mod	min	no	no	no	Medical_Assistance	flu	36.8703215,42.99108907	other	121	no
+ACTED	Dahuk	Zakho	70	town	7508339663	5	6	5	3	7	21	min	mod	min	mod	min	no	no	no	Clothing	flu other_disease	36.8701828,42.9909094	Renting	122	no
+ACTED	Dahuk	Dahuk	55	town	7507469629	7	8	8	12	12	40	no	no	no	mod	min	no	no	no	Food	chronic flu	36.87028793,42.9911241	Renting Friends_Family_Host	135	no
+ACTED	Dahuk	Zakho	60	town	7507398125	8	10	7	9	12	38	no	mod	no	mod	min	no	no	no	Food	diarrhea	37.14032556,42.61832555	Renting Friends_Family_Host	123	no
+NRC	Dahuk	Zakho	67	town	7507794379	10	16	15	15	19	65	no	no	no	min	min	no	no	no	Food	diarrhea	37.0597859,42.4423284	Renting Friends_Family_Host	101	no
+NRC	Dahuk	Zakho	65	town	7501686474	8	12	15	15	19	61	min	min	no	min	min	no	no	no	Food	diarrhea	36.9172286,42.6006183	School	102	no
+NRC	Dahuk	Zakho	82	town	7503439109	9	9	14	15	23	61	min	min	no	mod	min	no	no	no	Food	diarrhea	36.9172286,42.6006183	School	118	no
+NRC	Dahuk	Zakho	60	town	7503742041	14	14	18	40	16	88	min	no	no	mod	min	no	no	no	Food	diarrhea	36.9794604,42.6498888	School	124	no
+Mercy Corps	Kirkuk	Kirkuk	67	town	7504168539	13	20	20	15	10	65	min	no	no	mod	no	no	no	no	Food	chronic flu	35.3900678,44.37089307	School	91	no
+Mercy Corps	Kirkuk	Kirkuk	75	town	7507118438	5	6	8	7	6	27	no	min	no	mod	mod	mod	no	no	Food	chronic flu	35.38963127,44.37255956	School	119	no
+ACTED	Dahuk	Dahuk	40	city_centre	7503245813	18	19	22	45	33	119	mod	mod	mod	mod	no	no	no	no	Food	flu	36.78432619,42.97387146	School	122	no
+ACTED	Dahuk	Dahuk	50	city_centre	7507286799	33	31	40	35	61	167	min	min	min	no	min	no	no	no	Food	chronic	36.87281524,42.96676093	School	120	no
+ACTED	Dahuk	Dahuk	50	city_centre	7507288052	6	6	8	8	6	28	maj	maj	mod	maj	min	min	no	no	Household_Items	chronic	36.87237816,42.96617336	School	1117	no
+ACTED	Dahuk	Dahuk	60	city_centre	7503325381	14	23	20	31	30	104	no	no	no	no	no	no	no	no	Rental_Support	chronic	36.87034098,42.99108471	School	1217	no
+ACTED	Dahuk	Dahuk	55	city_centre	7503485249	12	16	17	30	28	91	min	min	no	no	no	no	no	no	Food	chronic	36.87033956,42.99127322	School	381	no
+Save the Children	Sulaymaniyah	Dokan	60	city_centre	5703482938	12	16	16	19	12	63	mod	mod	min	mod	no	no	no	no	Food	diarrhea	35.9326066,44.96698595	School	435	no
+Save the Children	Sulaymaniyah	Dokan	60	city_centre	7507287771	8	16	8	15	13	52	mod	mod	min	mod	no	no	no	no	Food	diarrhea	35.93274792,44.96693691	School	536	no
+Save the Children	Sulaymaniyah	Dokan	50	city_centre	7508831784	5	8	10	10	10	38	min	min	maj	min	no	no	no	no	Shelter_Improvement	diarrhea	35.93260325,44.96686969	School	3500	no
+Save the Children	Sulaymaniyah	Dokan	45	city_centre	5703058432	9	15	17	15	10	57	min	min	maj	mod	no	no	no	no	Water	diarrhea	35.93266435,44.9667883	School	4000	no
+Save the Children	Sulaymaniyah	Sulaymaniya	50	city_centre	7705993939	43	40	31	32	20	123	no	no	no	no	min	min	no	no	Sanitation	chronic	35.59672111,45.13373461	School	3500	no
+Save the Children	Sulaymaniyah	Sulaymaniya	70	city_centre	7701532148	50	58	67	23	33	181	no	no	no	no	no	no	no	no	Food	chronic	35.59681708,45.13355942	School	3500	no
+Save the Children	Sulaymaniyah	Halabja	60	city_suburb	7507620142	6	10	7	7	11	35	maj	mod	mod	min	mod	min	no	no	Water	chronic	35.29848419,46.03505599	School	850	no
+Save the Children	Sulaymaniyah	Halabja	60	isolated	7501199809	6	6	10	8	7	31	min	min	maj	no	min	min	no	no	Water	chronic	35.298696,46.03522078	School	700	no
+Save the Children	Sulaymaniyah	Sharbazher	70	city_suburb	7701214710	8	15	15	9	13	52	no	mod	no	no	min	mod	no	no	Water	chronic flu	35.71554774,45.57430412	School	650	no
+Save the Children	Sulaymaniyah	Sharbazher	60	city_suburb	7507867876	5	7	7	10	5	29	no	min	min	maj	no	mod	no	no	Sanitation	chronic	35.71558718,45.5743094	School	650	no
+Save the Children	Sulaymaniyah	Halabja	55	city_centre	7709938132	39	44	47	28	33	152	no	no	no	no	no	no	no	no	Household_Items	flu	35.56386644,45.42742501	School	5000	no
+NRC	Dahuk	Zakho	72	city_centre	7718838517	48	62	60	46	37	205	no	no	no	no	no	no	no	no	Food	diarrhea	36.9172286,42.6006183	School	1500	no
+Save the Children	Sulaymaniyah	Halabja	65	city_suburb	7502129516	5	8	7	6	6	27	min	mod	maj	maj	min	mod	no	no	Food	flu	35.56368245,45.42747178	School	360	no
+NRC	Dahuk	Zakho	49	city_suburb	7507856771	14	17	17	36	22	92	no	no	min	no	mod	min	no	no	Clothing	diarrhea	36.9794604,42.6498888	School	256	no
+Mercy Corps	Kirkuk	Daquq	50	city_suburb	7508234391	16	15	16	27	26	84	mod	mod	maj	no	no	no	no	no	Water	diarrhea	35.13244481,44.45126949	School	268	no
+Mercy Corps	Kirkuk	Daquq	41	city_centre	7508828834	12	25	23	20	15	83	mod	maj	maj	maj	no	no	no	no	Food	diarrhea	35.13244611,44.45120386	School	44	no
+Mercy Corps	Kirkuk	Daquq	45	city_centre	7503046793	10	15	20	12	15	62	min	min	mod	mod	no	no	no	no	Clothing	diarrhea	35.1324845,44.45120009	School Friends_Family_Host	129	no
+Mercy Corps	Kirkuk	Daquq	42	city_centre	7507948139	14	22	35	19	22	98	min	min	mod	maj	no	no	no	no	Food	diarrhea	35.13243676,44.45118785	School Friends_Family_Host	515	no
+Mercy Corps	Kirkuk	Daquq	42	city_suburb	7503044737	10	8	10	13	10	41	min	min	no	no	no	no	no	no	Clothing	diarrhea	35.13246874,44.45125834	School Friends_Family_Host	89	no
+Mercy Corps	Kirkuk	Daquq	55	isolated	7507481303	10	8	12	5	6	31	no	no	min	no	no	no	no	min	Clothing	diarrhea	35.13237868,44.45119397	School Friends_Family_Host	316	no
+Mercy Corps	Kirkuk	Daquq	50	city_centre	7501625125	28	48	46	39	35	168	min	min	no	maj	min	no	no	no	Sanitation	diarrhea	35.1323897,44.45118533	School Friends_Family_Host	143	no
+Mercy Corps	Kirkuk	Daquq	30	city_centre	7503245813	67	90	80	130	150	450	min	mod	min	maj	mod	no	no	no	Food	diarrhea	35.13255285,44.45119455	School Friends_Family_Host	153	no
+Mercy Corps	Kirkuk	Daquq	30	city_centre	7503218403	10	11	9	17	10	47	no	no	min	mod	min	no	no	no	Clothing	diarrhea	35.13236593,44.45121065	School Friends_Family_Host	149	no
+Mercy Corps	Kirkuk	Daquq	40	city_centre	7507287789	33	50	50	50	46	196	min	min	min	mod	min	no	no	no	Clothing	diarrhea	35.1323148,44.45114879	School other	176	Unknown
+Mercy Corps	Kirkuk	Daquq	10	city_centre	7507856620	16	14	19	7	15	55	no	no	no	no	no	no	no	no	Clothing	diarrhea	35.1323029,44.45125918	School Renting Friends_Family_Host	35	Unknown
+Mercy Corps	Kirkuk	Daquq	41	city_suburb	7504851735	100	162	147	160	141	610	no	no	no	no	no	no	no	no	Medical_Assistance	diarrhea	35.13237465,44.45124401	Mosque	231	Unknown
+Mercy Corps	Kirkuk	Daquq	45	city_suburb	7503323844	16	25	22	17	18	82	maj	maj	min	maj	maj	no	no	no	Clothing	diarrhea	35.13234255,44.45121408	other	115	no
+Mercy Corps	Kirkuk	Daquq	40	city_suburb	7503026150	11	22	13	30	25	90	maj	maj	maj	maj	maj	no	no	no	Clothing	diarrhea	35.13230554,44.45117838	Camp	376	no
+Mercy Corps	Kirkuk	Daquq	42	city_suburb	7507984146	18	26	30	20	33	109	maj	maj	mod	maj	maj	no	no	no	Clothing	diarrhea	35.13233664,44.4512031	Camp	289	no
+Mercy Corps	Kirkuk	Daquq	50	city_centre	7503040914	10	12	13	18	15	58	no	no	no	mod	no	no	no	no	Clothing	diarrhea	35.13233551,44.45117192	Camp	186	no
+Mercy Corps	Kirkuk	Daquq	40	city_centre	7504396149	15	12	15	30	25	82	no	no	no	min	no	no	no	no	Household_Items	diarrhea	35.13234921,44.45122842	Camp	399	no
+ACTED	Dahuk	Zakho	55	city_centre	7501668321	11	15	16	30	35	96	no	no	no	mod	no	no	no	no	Food	chronic flu	37.14064236,42.61065158	Camp	348	no
+Mercy Corps	Kirkuk	Kirkuk	55	city_centre	7503246083	11	15	18	25	22	80	no	no	no	mod	no	no	no	no	Clothing	chronic flu	35.38643014,44.39648302	Camp	274	no
+Mercy Corps	Kirkuk	Kirkuk	56	city_centre	7504218463	23	30	35	36	30	131	no	no	no	mod	no	no	no	no	Clothing	chronic flu	35.39546922,44.38128982	Camp	305	no
+Mercy Corps	Kirkuk	Kirkuk	55	city_centre	7508386145	35	44	52	67	62	225	no	no	no	no	no	no	no	no	Clothing	flu	35.39526395,44.38119946	Camp	146	no
+Mercy Corps	Kirkuk	Daquq	42	isolated	7508849842	245	432	460	363	338	1593	no	no	maj	maj	maj	no	no	no	Clothing	diarrhea	35.13240784,44.45095961	Camp	300	no
+Mercy Corps	Kirkuk	Daquq	40	isolated	7508784983	494	630	700	620	542	2492	min	min	maj	mod	min	no	no	no	Clothing	diarrhea	35.13244435,44.4510249	Camp	1500	no
+Mercy Corps	Kirkuk	Daquq	65	town	7508412562	11	15	13	13	17	58	no	no	no	no	no	no	no	no	Clothing	diarrhea	35.13242775,44.45104117	Camp	468	no
+Mercy Corps	Kirkuk	Daquq	59	city_centre	7507287771	5	11	13	15	16	55	mod	mod	mod	maj	no	no	no	no	Clothing	diarrhea	35.13242662,44.45099951	Camp	482	no
+Mercy Corps	Kirkuk	Daquq	52	city_centre	7708658643	7	6	8	8	5	27	mod	min	no	min	no	no	no	no	Clothing	diarrhea	35.13251647,44.45150091	Camp	434	no
+Mercy Corps	Kirkuk	Daquq	54	city_centre	7507856938	6	7	8	9	8	32	min	maj	mod	mod	no	no	no	no	Clothing	diarrhea	35.1323881,44.45102474	Camp	433	no
+Mercy Corps	Kirkuk	Daquq	20	city_centre	7507954708	7	15	7	7	9	38	no	min	no	no	min	no	no	no	Clothing	diarrhea	35.13236912,44.45099004	Camp	425	no
+Mercy Corps	Kirkuk	Daquq	49	city_suburb	7816936001	9	9	9	35	20	73	no	no	no	min	min	no	no	no	Clothing	diarrhea	35.13230517,44.45105223	Camp	387	no
+Mercy Corps	Kirkuk	Daquq	35	city_suburb	7507419070	6	7	15	14	15	51	maj	maj	maj	no	no	no	no	no	Clothing	diarrhea	35.13239116,44.4510301	Mosque	96	no
+Mercy Corps	Kirkuk	Daquq	50	city_suburb	7510450607	5	7	8	7	8	30	no	no	maj	no	no	no	no	no	Clothing	diarrhea	35.13249929,44.4510353	Mosque	350	no
+Mercy Corps	Kirkuk	Daquq	20	city_suburb	7503097116	8	12	12	8	10	42	min	min	min	maj	no	no	no	no	Clothing	diarrhea	35.13244238,44.45091317	Mosque	572	no
+Mercy Corps	Kirkuk	Kirkuk	55	city_suburb	7507262445	7	7	15	9	7	38	maj	maj	maj	no	no	no	no	no	Clothing	flu	35.38646417,44.39652946	Mosque	885	no
+Mercy Corps	Kirkuk	Daquq	50	city_suburb	7507963974	7	7	7	11	15	40	no	no	mod	no	no	no	no	no	Clothing	diarrhea	35.13240382,44.45094603	Mosque	650	no
+Mercy Corps	Kirkuk	Daquq	40	city_suburb	7503092053	14	23	14	25	17	79	maj	maj	maj	no	no	no	no	no	Clothing	diarrhea	35.13237528,44.45094335	Mosque	252	no
+Mercy Corps	Diyala	Muqdadiya	54	city_suburb	7508412708	6	7	12	5	5	29	maj	maj	mod	no	no	no	no	no	Clothing	diarrhea	35.13242134,44.45088769	Mosque	206	no
+NRC	Dahuk	Zakho	60	city_centre	7507074699	7	7	10	15	20	52	no	no	min	mod	min	no	no	no	Clothing	diarrhea	37.1744288,43.0023061	Mosque	328	no
+NRC	Dahuk	Zakho	60	city_centre	7507490896	6	10	11	9	8	38	no	no	no	mod	no	no	no	no	Food	diarrhea	37.1744288,43.0023061	Mosque	123	Unknown
+NRC	Dahuk	Zakho	60	city_centre	7503385666	7	16	17	12	11	56	no	no	no	mod	min	no	no	no	Sanitation	diarrhea	37.1711267,43.0139047	Mosque	516	Unknown
+NRC	Dahuk	Zakho	65	city_centre	7501831216	5	7	8	3	7	25	no	min	no	mod	min	no	no	no	Food	diarrhea	37.1775227,43.0150205	Mosque	144	Unknown
+NRC	Dahuk	Zakho	43	city_centre	7503011969	7	8	7	13	16	44	min	no	min	mod	min	no	no	no	Food	diarrhea	37.1744288,43.0023061	Mosque	238	Unknown
+NRC	Dahuk	Zakho	55	city_centre	7503275216	8	13	9	10	17	49	no	min	no	mod	min	no	no	no	Rental_Support	diarrhea	37.1775227,43.0150205	Mosque	119	Unknown
+NRC	Dahuk	Zakho	45	city_centre	7501084837	7	8	9	10	9	36	no	no	no	no	no	no	no	no	Food	diarrhea	37.1775227,43.0150205	Mosque	800	Unknown
+NRC	Dahuk	Zakho	60	city_centre	7503115953	11	10	15	23	11	59	min	mod	min	min	no	no	no	no	Clothing	diarrhea	37.1744288,43.0023061	Mosque	800	Unknown
+NRC	Dahuk	Zakho	40	city_centre	7504728333	5	6	5	9	9	29	min	mod	min	mod	no	no	no	no	Clothing	diarrhea	37.1209541,43.1633595	Mosque	3000	Unknown
+NRC	Dahuk	Zakho	65	city_centre	7507250398	10	12	15	21	24	72	mod	mod	min	mod	min	min	no	no	Clothing	diarrhea	37.1292799,43.1695741	Mosque	3000	Unknown
+NRC	Dahuk	Zakho	55	city_centre	7507148863	5	10	6	9	15	40	min	no	min	mod	no	no	no	no	Clothing	chronic	37.0964714,43.0851146	Mosque	500	Unknown
+NRC	Dahuk	Zakho	50	city_centre	7503226221	35	70	45	40	35	190	no	min	no	maj	no	no	no	no	Clothing	diarrhea	37.0964714,43.0851146	Mosque	1000	Unknown
+NRC	Dahuk	Zakho	45	city_centre	7507863687	5	4	6	13	10	33	no	no	no	mod	no	no	no	no	Clothing	diarrhea	37.1743352,43.0023331	Mosque	1750	Unknown
+NRC	Dahuk	Zakho	50	city_centre	7507581127	6	10	8	5	7	30	no	no	no	min	no	no	no	no	Clothing	diarrhea	37.1743352,43.0023331	Mosque	300	Unknown
+NRC	Dahuk	Zakho	55	city_centre	7503346583	6	7	8	11	13	39	no	min	no	mod	no	no	no	no	Medical_Assistance	diarrhea	37.1721218,42.931244	Mosque	4050	Unknown
+NIHR	Kirkuk	Kirkuk	45	city_centre	7507427489	8	8	9	14	18	49	no	no	no	min	no	no	no	no	Medical_Assistance	flu	35.38381062,44.27632039	Mosque	3700	Unknown
+NIHR	Kirkuk	Hawiga	35	city_centre	7502149500	5	7	8	12	15	42	no	no	no	min	no	no	no	no	Medical_Assistance	flu	35.56874613,45.38310033	Mosque	1020	Unknown
+NRC	Dahuk	Zakho	50	city_centre	7701865288	9	12	13	18	10	53	no	no	no	no	no	no	no	no	Sanitation	diarrhea	37.1560988,42.9317604	Mosque	1800	Unknown
+NRC	Dahuk	Zakho	45	city_centre	7507031849	39	40	55	60	65	220	no	no	no	no	no	no	no	no	Food	diarrhea	37.1734737,42.883089	Mosque	1500	Unknown
+NRC	Dahuk	Zakho	60	city_centre	7507077563	30	50	55	40	20	165	mod	maj	no	no	no	no	no	no	Food	diarrhea	37.1560988,42.9317604	Mosque	1050	Unknown
+NRC	Dahuk	Zakho	56	city_centre	7503840236	44	70	75	40	30	215	mod	maj	no	no	no	no	no	no	Food	diarrhea	37.0467827,42.8142971	Mosque	360	Unknown
+NRC	Dahuk	Zakho	55	city_centre	7507031075	120	210	220	80	118	628	mod	maj	no	no	no	no	no	no	Sanitation	diarrhea	37.0467827,42.8142971	Mosque	324	Unknown
+Mercy Corps	Kirkuk	Kirkuk	63	city_centre	7704151946	75	160	150	160	180	650	mod	mod	mod	no	no	no	no	no	Food	diarrhea	35.38207,44.37757798	Mosque	336	Unknown
+Mercy Corps	Kirkuk	Kirkuk	60	city_centre	7503046628	8	17	18	15	10	60	mod	maj	no	no	no	no	no	no	Food	chronic	35.41491302,44.41199474	Mosque	300	Unknown
+Mercy Corps	Kirkuk	Kirkuk	65	city_centre	7505493027	5	6	5	7	5	23	no	no	no	no	no	no	no	no	Food	chronic flu	35.41490614,44.4120763	Mosque	300	Unknown
+Mercy Corps	Kirkuk	Kirkuk	55	city_centre	7503120426	52	140	150	120	110	520	no	no	no	no	no	no	no	no	Water	chronic flu	35.41494566,44.41204336	Mosque	108	Unknown
+Mercy Corps	Kirkuk	Kirkuk	33	city_centre	7501898529	7	8	8	11	8	35	no	no	no	mod	min	mod	no	no	Food	flu	35.41490091,44.41207102	Mosque	1500	Unknown
+Mercy Corps	Kirkuk	Kirkuk	60	city_centre	7503380207	34	79	68	82	60	289	no	no	no	no	no	no	no	no	Food	flu	35.47196637,44.36686129	Mosque	350	Unknown
+Mercy Corps	Kirkuk	Kirkuk	45	town	7701648996	9	19	9	13	28	69	min	min	no	no	mod	no	no	no	Water	chronic	35.46544709,44.37896208	Mosque	1650	Unknown
+NRC	Dahuk	Zakho	45	isolated	7508386109	8	8	9	9	20	46	maj	maj	min	min	no	no	no	no	Clothing	diarrhea	37.1743352,43.0023331	Mosque	500	Unknown
+NRC	Dahuk	Zakho	55	isolated	7507867915	7	16	10	11	9	46	no	no	no	no	no	no	no	no	Clothing	diarrhea	37.1721218,42.931244	Mosque	750	Unknown
+NRC	Dahuk	Zakho	50	isolated	7507859712	5	13	8	6	6	33	no	no	no	no	no	no	no	no	Food	diarrhea	37.1721218,42.931244	Mosque	3300	Unknown
+NRC	Dahuk	Zakho	50	isolated	7501500688	5	9	8	7	8	32	no	no	no	no	no	no	no	no	Medical_Assistance	diarrhea	37.1734737,42.883089	Mosque	3300	Unknown
+Mercy Corps	Kirkuk	Kirkuk	53	city_suburb	7504177009	5	3	4	3	3	13	maj	mod	maj	mod	no	no	no	no	Clothing	flu	35.41210353,44.31605531	Mosque	1020	Unknown
+ACTED	Dahuk	Zakho	45	city_suburb	7507206436	5	6	6	7	7	26	maj	mod	mod	mod	no	no	no	no	Clothing	chronic	37.1633644,42.71189609	Mosque	3000	Unknown
+ACTED	Dahuk	Zakho	60	city_suburb	7507272669	5	5	5	8	10	28	maj	mod	mod	mod	no	no	maj	no	Clothing	chronic	37.13869587,42.71672046	Mosque	360	Unknown
+ACTED	Dahuk	Dahuk	55	city_suburb	7501667150	7	8	7	11	6	32	min	min	mod	min	no	no	no	no	Medical_Assistance	flu	36.86555131,42.98712367	Mosque	780	Unknown
+NRC	Dahuk	Zakho	55	city_suburb	7503929001	5	8	8	9	10	35	min	mod	no	min	min	no	no	no	Clothing	diarrhea	37.1654706,42.9541646	Mosque	1500	Unknown
+NRC	Dahuk	Zakho	45	isolated	7507218971	5	4	4	7	2	17	no	no	min	mod	no	no	no	no	Clothing	diarrhea	37.2224098,43.0998217	Mosque	420	Unknown
+NRC	Dahuk	Zakho	60	isolated	7504168629	14	23	21	26	25	95	mod	min	min	no	min	no	no	no	Medical_Assistance	diarrhea	37.2310346,43.150292	Mosque	2700	Unknown
+Mercy Corps	Kirkuk	Daquq	42	isolated	7508822528	6	10	9	4	3	26	no	min	min	mod	no	no	no	no	Water	diarrhea	35.13240743,44.45102314	Mosque	260	Unknown
+Mercy Corps	Kirkuk	Daquq	25	isolated	7708264144	12	18	26	14	14	72	no	min	min	mod	mod	no	no	no	Clothing	diarrhea	35.13241476,44.45097202	Mosque	254	Unknown
+Mercy Corps	Kirkuk	Daquq	40	isolated	7704100216	70	93	102	94	89	378	maj	mod	min	mod	maj	min	no	no	Clothing	diarrhea	35.14165413,44.44913722	Mosque	720	Unknown
+Mercy Corps	Kirkuk	Daquq	25	city_suburb	7508252798	11	14	12	13	15	54	no	no	no	min	no	no	no	no	Clothing	diarrhea	35.13239804,44.45100244	Mosque	792	Unknown
+Mercy Corps	Kirkuk	Kirkuk	56	isolated	7507735223	5	4	9	7	9	29	maj	min	min	mod	min	no	no	no	Household_Items	chronic flu	35.40981678,44.31106498	Mosque	756	Unknown
+Mercy Corps	Kirkuk	Kirkuk	65	city_centre	7508959410	9	15	20	13	15	63	no	no	no	mod	min	min	no	no	Medical_Assistance	flu	35.42959304,44.39927629	Mosque	750	Unknown
+Mercy Corps	Kirkuk	Kirkuk	55	isolated	7701015056	11	16	18	16	14	64	min	maj	mod	mod	mod	no	no	no	Medical_Assistance	flu	35.40589002,44.35403095	other	870	Unknown
+NRC	Dahuk	Zakho	60	city_centre	7703371274	10	13	14	17	20	64	min	maj	min	maj	mod	no	no	no	Household_Items	diarrhea	37.2286284,43.120153	other	3000	Unknown
+ACTED	Dahuk	Dahuk	40	isolated	7504322958	20	30	27	25	26	108	no	no	min	min	no	no	no	no	Medical_Assistance	flu	36.87090634,42.97313897	Renting	780	no
+ACTED	Dahuk	Dahuk	40	city_suburb	7507473752	300	420	450	400	500	1770	no	min	no	no	no	no	no	no	Food	other_disease	36.8737168,42.98128081	Friends_Family_Host	870	no
+ACTED	Dahuk	Dahuk	37	isolated	7504105942	8	8	8	14	20	50	no	no	no	no	no	no	no	no	Medical_Assistance	flu	36.87086603,42.97333737	Mosque Friends_Family_Host	200	no
+ACTED	Dahuk	Dahuk	40	city_suburb	7504538892	124	274	273	118	122	787	no	no	no	no	no	no	no	no	Food	flu	36.85488584,42.96570967	Mosque Friends_Family_Host	780	no
+ACTED	Dahuk	Dahuk	55	city_suburb	7504564823	8	15	16	4	6	41	no	no	no	no	no	no	no	no	Water	flu	36.84359307,42.97713965	None_Open_Air	300	no
+NRC	Dahuk	Zakho	45	city_suburb	7504663881	24	55	55	20	18	148	no	no	no	no	no	no	no	no	Food	diarrhea	37.0930774,42.4320897	None_Open_Air	600	no
+Mercy Corps	Kirkuk	Kirkuk	65	city_suburb	7504493132	39	72	84	40	29	225	min	no	no	no	no	no	no	no	Clothing	flu	35.38516988,44.37366597	None_Open_Air	6000	no
+Mercy Corps	Kirkuk	Kirkuk	60	city_suburb	7507956121	5	5	5	6	5	21	no	min	no	no	no	no	no	no	Rental_Support	flu	35.43633859,44.39761944	None_Open_Air	7000	no
+Mercy Corps	Kirkuk	Kirkuk	65	isolated	7507887243	6	7	8	10	15	40	min	min	min	mod	min	no	no	no	Food	flu	35.3901162,44.38405325	None_Open_Air	7000	no
+NRC	Dahuk	Zakho	50	town	7503112294	24	80	75	45	50	250	maj	min	mod	no	min	no	no	no	Food	diarrhea	37.0930774,42.4320897	None_Open_Air	8000	no
+Mercy Corps	Kirkuk	Daquq	40	town	7507864198	5	8	8	8	2	26	min	min	min	mod	no	no	no	no	Food	diarrhea	35.14103739,44.44961364	other	450	no
+Mercy Corps	Kirkuk	Kirkuk	50	town	7507620661	5	5	5	7	5	22	maj	maj	min	maj	no	no	no	no	Food	chronic	35.41205341,44.31565792	Renting	790	no
+Mercy Corps	Kirkuk	Kirkuk	29	town	7507559829	5	3	6	13	3	25	mod	mod	mod	mod	no	no	no	no	Food	flu	35.44878395,44.37339298	Renting	190	no
+Mercy Corps	Kirkuk	Kirkuk	44	town	7508651413	7	8	8	12	8	36	maj	maj	maj	maj	no	no	no	no	Food	flu	35.77170251,44.11933263	Renting Friends_Family_Host	2870	no
+NRC	Dahuk	Zakho	70	town	7508989418	6	8	10	5	2	25	no	no	no	min	no	no	no	no	Food	diarrhea	36.8549239,42.94268743	Renting Friends_Family_Host	1000	no
+NRC	Dahuk	Zakho	55	town	7503288219	5	7	7	8	6	28	no	no	no	mod	no	no	no	no	Food	diarrhea other_disease	37.0934714,42.4322712	Renting Friends_Family_Host	1532	no
+NRC	Dahuk	Zakho	34	town	7507336249	5	6	10	10	8	34	no	no	no	maj	no	no	no	no	Food	diarrhea	37.1383475,42.6710038	Renting Friends_Family_Host	6000	no
+NRC	Dahuk	Zakho	31	town	7504954492	10	16	15	17	19	67	mod	mod	no	mod	no	no	no	no	Food	diarrhea	37.1405526,42.690525	Renting Friends_Family_Host	240	no
+NRC	Dahuk	Zakho	29	town	7503419168	7	16	15	7	6	44	maj	maj	no	mod	no	no	no	no	Food	diarrhea	37.1393291,42.6850949	Renting Friends_Family_Host	220	no
+NRC	Dahuk	Zakho	29	town	7507940349	8	14	14	11	6	45	maj	maj	no	mod	no	no	no	no	Food	diarrhea	37.1417701,42.6873265	Renting Friends_Family_Host	490	no
+NRC	Dahuk	Zakho	33	town	7506907394	13	17	20	23	25	85	maj	maj	maj	mod	no	no	no	no	Clothing	diarrhea	37.161456,42.6741698	Renting Friends_Family_Host	2700	no
+NRC	Erbil	Erbil	45	town	7508651405	6	9	9	2	2	22	maj	maj	min	mod	no	no	no	no	Food	flu	36.23458134,43.99349728	Renting Friends_Family_Host	720	no
+NRC	Dahuk	Zakho	45	isolated	7512285283	4	5	5	8	8	26	no	min	no	min	no	no	no	no	Food	flu	36.97366969,42.65526225	Renting Friends_Family_Host	1000	no
+NRC	Dahuk	Zakho	42	city_suburb	7702006388	393	492	502	336	327	1657	mod	mod	mod	mod	no	no	no	no	Food	diarrhea	37.08550042,42.42239219	Renting Friends_Family_Host	593	no
+ACTED	Dahuk	Dahuk	44	city_centre	7705229052	150	138	168	152	159	617	mod	mod	mod	mod	mod	no	no	no	Food	chronic	36.8704527,42.9907506	Renting Friends_Family_Host	1000	no
+ACTED	Dahuk	Zakho	35	city_suburb	7507949300	11	19	12	24	21	76	min	mod	mod	min	no	no	no	no	Food	chronic	36.8704531,42.9907508	Renting Friends_Family_Host	900	no
+ACTED	Dahuk	Dahuk	40	city_suburb	7507949300	23	33	44	36	48	161	min	min	mod	min	no	no	no	no	Food	chronic	36.870178,42.99110206	Renting Friends_Family_Host	147	no
+ACTED	Dahuk	Zakho	40	city_suburb	7507949300	17	24	30	30	33	117	min	min	min	min	min	no	no	no	Food	chronic	36.87019128,42.99120457	Renting Friends_Family_Host	332	no
+ACTED	Dahuk	Sumel	25	city_suburb	7507387040	8	13	7	4	6	30	min	mod	mod	mod	mod	no	no	no	Water	chronic	36.87012947,42.99110164	School	136	no
+ACTED	Dahuk	Sumel	56	city_suburb	7507949300	28	31	46	40	51	168	mod	mod	mod	maj	mod	no	no	no	Food	chronic	36.87023638,42.99141211	School	136	no
+ACTED	Dahuk	Sumel	40	city_suburb	7507949300	39	49	54	61	70	234	mod	min	mod	min	min	min	no	no	Food	other_disease	36.87028466,42.99104095	School	300	Unknown
+ACTED	Dahuk	Dahuk	42	city_suburb	7507949300	18	23	28	33	27	111	mod	min	mod	mod	min	no	no	no	Food	diarrhea	36.87015998,42.99108412	School Friends_Family_Host	210	Unknown
+ACTED	Dahuk	Dahuk	36	city_suburb	7507949300	5	14	17	18	18	67	min	mod	no	min	no	no	no	no	Food	flu	36.87027431,42.99110139	School Friends_Family_Host	150	Unknown
+ACTED	Dahuk	Dahuk	39	town	7507824048	118	154	165	124	116	559	no	no	no	min	no	no	no	no	Food	chronic	36.87040804,42.99098714	School Friends_Family_Host	350	Unknown
+ACTED	Dahuk	Sumel	40	city_suburb	7713942446	22	30	25	27	21	103	min	min	mod	min	mod	min	mod	min	Food	chronic	36.87039287,42.99125989	School Renting	54	Unknown
+ACTED	Dahuk	Sumel	30	town	7504328301	70	90	88	49	37	264	min	min	min	no	no	no	no	no	Food	other_disease	36.87022913,42.99111119	School Renting	54	Unknown
+ACTED	Dahuk	Dahuk	40	town	7701843521	17	28	25	23	20	96	min	min	min	min	min	min	min	min	Food	chronic	36.87034526,42.99101899	School Renting Friends_Family_Host	210	Unknown
+ACTED	Dahuk	Sumel	40	town	7703078211	25	44	36	28	25	133	mod	min	min	mod	min	min	mod	mod	Food	chronic	36.87047577,42.99108261	School Renting Friends_Family_Host	66	yes
+ACTED	Dahuk	Sumel	60	city_suburb	7504856881	7	15	23	22	18	78	mod	mod	mod	no	no	no	no	no	Food	chronic	36.8822442,42.9443247	School Renting Friends_Family_Host	18	yes
+ACTED	Dahuk	Sumel	40	city_suburb	7504856881	8	18	25	19	23	85	mod	mod	mod	mod	no	no	no	no	Food	chronic	36.8698274,42.9901556	School Renting Friends_Family_Host	90	yes
+NRC	Dahuk	Sumel	40	city_suburb	7504452105	6	13	17	16	11	57	mod	mod	mod	mod	no	no	no	no	Food	diarrhea	36.9686465,42.7165722	School Renting Friends_Family_Host	102	yes
+NRC	Dahuk	Sumel	60	city_centre	7507726211	5	10	12	9	8	39	mod	maj	maj	mod	no	no	no	no	Food	diarrhea	36.9686465,42.7165722	School Renting Friends_Family_Host	170	yes
+NRC	Dahuk	Sumel	60	city_centre	7507726211	6	7	8	6	12	33	mod	min	min	mod	no	no	no	no	Food	diarrhea	36.8674442,42.8366321	School Renting Friends_Family_Host	132	yes
+NRC	Dahuk	Sumel	40	city_centre	7507726211	5	11	14	9	10	44	maj	maj	maj	mod	no	no	no	no	Food	diarrhea	36.9206797,42.7241923	School	666	no
+NRC	Dahuk	Sumel	40	city_suburb	7504629854	5	7	10	13	8	38	mod	mod	mod	mod	no	no	no	no	Clothing	diarrhea	36.9686465,42.7165722	other	114	no
+NRC	Dahuk	Sumel	60	town	7901704598	5	5	8	10	8	31	maj	maj	no	mod	mod	mod	no	no	Food	diarrhea	36.9686465,42.7165722	other	114	no
+ACTED	Dahuk	Sumel	50	town	7508843353	6	13	14	7	1	35	no	no	no	no	no	no	no	no	Household_Items	chronic	36.80975433,43.04342349	School Renting	42	no
+ACTED	Dahuk	Amedi	41	town	7507958616	6	7	10	10	12	39	mod	mod	min	mod	min	no	no	no	Clothing	diarrhea	36.87029032,42.99107339	School Renting	54	no
+ACTED	Dahuk	Sumel	45	town	7503410787	7	9	9	4	6	28	mod	mod	min	mod	min	no	no	no	Food	chronic	36.80638782,43.02056378	School Renting	72	no
+ACTED	Dahuk	Sumel	42	town	7708208192	6	10	10	4	4	28	min	mod	no	mod	min	no	no	no	Water	chronic	36.80848744,43.04019134	School Renting	616	no
+ACTED	Dahuk	Sumel	42	town	7508823841	13	16	22	15	12	65	no	no	min	mod	min	no	no	no	Water	chronic	36.81571009,42.98045587	Renting	2800	no
+ACTED	Dahuk	Sumel	55	town	7504402915	12	12	12	9	12	45	mod	no	min	mod	min	no	no	no	Food	chronic	36.77121697,42.98288704	Renting	3570	no
+NRC	Dahuk	Zakho	50	town	7708395005	7	8	8	12	8	36	min	no	min	mod	min	no	no	no	Water	diarrhea	37.0848941,42.4034293	Renting	3846	no
+NRC	Dahuk	Zakho	30	town	7504131173	11	13	16	15	21	65	min	min	min	mod	min	no	no	no	Water	diarrhea	37.0848941,42.4034293	Renting	540	no
+NRC	Dahuk	Zakho	30	town	7508735503	18	17	20	22	27	86	no	no	no	min	min	no	no	no	Water	diarrhea	37.0848941,42.4034293	Camp School Renting	1200	no
+ACTED	Ninewa	Mosul	40	town	7507036653	60	65	78	83	97	323	min	no	no	min	mod	no	no	no	Shelter_Improvement	diarrhea	36.85114617,43.01767185	School Renting	62	yes
+ACTED	Dahuk	Amedi	10	town	7507881115	17	28	22	15	23	88	no	no	min	mod	min	no	no	no	Food	chronic	36.87035519,42.99103199	Mosque School Renting	1506	no
+ACTED	Dahuk	Amedi	41	town	7507853401	6	12	6	10	7	35	no	no	no	mod	min	no	no	no	Rental_Support	chronic	36.8631319,42.9677408	Mosque School Renting	1500	no

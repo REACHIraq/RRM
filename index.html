@@ -5,18 +5,16 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" name="viewport">
     <meta name="author" content="REACH">
-    <title>RRM - CCCM Cluster Iraq</title>
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon" />
-
-    <meta itemprop="name" content="Site Assessment - CCCM Cluster Iraq"/>
-    <meta itemprop="description" content="Site Assessment - CCCM Cluster Iraq"/>
-
-    <meta property="og:title" content="RRM - CCCM Cluster Iraq">
+    <title>RRM</title>
+	    <link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon" />
+    <meta itemprop="name" content="RRM "/>
+    <meta itemprop="description" content="RRM"/>
+    <meta property="og:title" content="RRM ">
     <meta property="og:type" content="article">
     <meta property="og:url" content="">
     <meta property="og:image" content="">
-    <meta property="og:site_name" content="RRM - CCCM Cluster Iraq">
-    <meta property="og:description" content="RRM - CCCM Cluster Iraq">
+    <meta property="og:site_name" content="RRM">
+    <meta property="og:description" content="RRM">
 
     <link type="text/css" href="css/leaflet.css" rel="stylesheet"/>
     <link type="text/css" href="css/leaflet.markercluster.css" rel="stylesheet"/>
@@ -70,8 +68,8 @@
 
             <div class="row" >
                 <div class="col-md-8" data-step="5" data-intro="Here's the number of activities you filtered. Use the reset button to delete all your filters" data-position="right">
-                    <div class="dc-chart" id="count-info">
-					<p></p><strong><span class="filter-count" ></span></strong> Total number of children
+                    <div class="dc-chart" id="totalind">
+					<p></p><strong><span class="number-display" ></span></strong> Total number of children. 
 					</div>
                    
                 </div>
@@ -107,11 +105,13 @@
                           <p><small>Shelter Type</small></p>
                         </div>
                     </div>
+					 
                     <div class="col-md-2" >
                         <div class="electricp" id="cccm" class="dc-chart" >
                           <p><small>New Population vs Total</small></p>
                         </div>
                     </div>
+					
                     <div class="col-md-2" >
                         <div class="minesp" id="cccm" class="dc-chart" >
                           <p><small>Coping abilites</small></p>
@@ -136,29 +136,25 @@
                         <p><small><i>Assessed population</i></small></p>
                     </div>
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-2014">
                     <div class="governoratep" class="col-xs-6 dc-chart" data-step="1" data-intro="Click on this pie chart to filter by sector." data-position="right">
                       <h4>Governorates</h4>
                       <p><small><i>Assessed population</i></small></p>
                     </div>
 
-
-                </div>
-
-
-
-                <div  class="col-md-6">
-                    <h4>Map</h4>
-                      <p><small><i>Location of the sites. click on the map for more information</i></small></p>
-                    <div  class="map"  > </div>
-                </div>
-				                       <div class="orgap" class="col-xs-4 dc-chart" data-step="1" data-intro="Click on this pie chart to filter by sector." data-position="right">
+				        <div class="orgap" class="col-xs-4 dc-chart" data-step="1" data-intro="Click on this pie chart to filter by sector." data-position="right">
                       <p><small>Number of sites assessed per organisation</small></p>
                     </div>
+                </div>
+                <div  class="col-md-6">
+                    <div class="maptext"><h4 >Map</h4></div>
+                      <p class="maptext1"><small><i>Location of the sites. click on the map for more information</i></small></p>
+                    <div  class="map"  > </div>
+                </div>
+
             </div>
 
             <div class="row" ></div>
-
             <div class="row" id="cccm">
                     <h4>Participating Organisations</h4>
                     <div  class="col-xs-8">
@@ -166,37 +162,25 @@
 
                         <table>
                             <tbody>
-                                <tr>
-                                    <td valign="middle">
+
                                         <a href="http://drc.dk/relief-work/where-we-work/middle-east/iraq/" target="_blank">
                                         <img src="images/partner/drc.jpg" ></a>
-                                    </td>
-                                    <td valign="middle">
+                                   
                                         <a href="http://www.nrc.no/" target="_blank">
-                                        <img src="images/partner/nrc.jpg" >
-                                    </td>
-									</tr>
-
-                                <tr>
-                                    <td valign="middle">
+                                        <img src="images/partner/nrc.jpg" ></a>
+                                    
                                         <a href="http://www.mercycorps.org/iraq" target="_blank">
                                         <img src="images/partner/mc.jpg" ></a>
-                                    </td>
-									     <td valign="middle">
+                                    
+									     
                                         <a href="http://www.savethechildren.org/site/c.8rKLIXMGIpI4E/b.6153129/k.C257/Iraq.htm" target="_blank">
                                         <img src="images/partner/sci.jpg" ></a>
-                                    </td>
-                                </tr>
-																	<tr>
-									     <td valign="middle">
+									     
                                         <a href="http://www.insightonconflict.org/conflicts/iraq/peacebuilding-organisations/nihr/" target="_blank">
-                                        <img src="images/partner/nihr.gif" >
-                                    </td>
-                                    <td valign="middle">
+                                        <img src="images/partner/nihr.gif" ></a>
+                                   
                                         <a href="http://www.acted.org/en/iraq" target="_blank">
-                                        <img src="images/partner/acted.jpg" ></a>								
-                                    </td>
-                                </tr>
+                                        <img src="images/partner/acted.jpg" >	</a>						
 
                             </tbody>
                         </table>
@@ -237,12 +221,12 @@ function drawMarkerSelect(data) {
         .dimension(xf)
         .group(all);
 
-  var byIndividual = xf.dimension(function(d) { return d.individual; });
-  var byIndividualGroup = byIndividual.groupAll().reduceSum(function (d) { return d.individual; });
+  var byNumofchild = xf.dimension(function(d) { return d.numofchild; });
+  var numofchild = byNumofchild.groupAll().reduceSum(function (d) { return d.numofchild; });
 
    dc.numberDisplay("#totalind",groupname)
        .valueAccessor(function(d){return +d})
-        .group(byIndividualGroup);
+        .group(numofchild);
 		
 		
 		
@@ -281,10 +265,12 @@ function drawMarkerSelect(data) {
         .height(120)
         .renderLabel(true)
         .renderTitle(true)
-        .colors(['#cb181d', /* maj */
-                        '#fb6a4a', /* mod */
-                        '#fcae91', /* min */
-                        '#fee5d9' /* no */
+        .colors([		'#2078B4', /* maj */
+						'#4298AE',
+                        '#006737', /* mod */
+                        '#EF4E52', /* min */
+                        '#EF7D20',
+						'#58585B'
                         ])
          .colorDomain([0,4]);
     //   .ordering(function (p) { return -p.value; });
@@ -299,10 +285,12 @@ function drawMarkerSelect(data) {
         .height(120)
         .renderLabel(true)
         .renderTitle(true)
-        .colors(['#cb181d', /* maj */
-                        '#fb6a4a', /* mod */
-                        '#fcae91', /* min */
-                        '#fee5d9' /* no */ 
+        .colors([		'#2078B4', /* maj */
+						'#4298AE',
+                        '#006737', /* mod */
+                        '#EF4E52', /* min */
+                        '#EF7D20',
+						'#58585B'
                         ])
          .colorDomain([0,4]);
     //   .ordering(function (p) { return -p.value; });
@@ -317,10 +305,12 @@ function drawMarkerSelect(data) {
         .height(120)
         .renderLabel(true)
         .renderTitle(true)
-        .colors(['#cb181d', /* maj */
-                        '#fb6a4a', /* mod */
-                        '#fcae91', /* min */
-                        '#fee5d9' /* no */
+        .colors([		'#2078B4', /* maj */
+						'#4298AE',
+                        '#006737', /* mod */
+                        '#EF4E52', /* min */
+                        '#EF7D20',
+						'#58585B'
                         ])
          .colorDomain([0,4]);
      //  .ordering(function (p) { return -p.value; });
@@ -335,10 +325,12 @@ function drawMarkerSelect(data) {
         .height(120)
         .renderLabel(true)
         .renderTitle(true)
-        .colors(['#cb181d', /* maj */
-                        '#fb6a4a', /* mod */
-                        '#fcae91', /* min */
-                        '#fee5d9' /* no */
+        .colors([		'#2078B4', /* maj */
+						'#4298AE',
+                        '#006737', /* mod */
+                        '#EF4E52', /* min */
+                        '#EF7D20',
+						'#58585B'
                         ])
          .colorDomain([0,4]);
      //   .ordering(function (p) { return -p.value; });
@@ -369,10 +361,12 @@ function drawMarkerSelect(data) {
         .height(120)
         .renderLabel(true)
         .renderTitle(true)
-        .colors(['#cb181d', /* maj */
-                        '#fb6a4a', /* mod */
-                        '#fcae91', /* min */
-                        '#fee5d9' /* no */
+        .colors([		'#2078B4', /* maj */
+						'#4298AE',
+                        '#006737', /* mod */
+                        '#EF4E52', /* min */
+                        '#EF7D20',
+						'#58585B'
                         ])
          .colorDomain([0,4]);
     //    .ordering(function (p) { return -p.value; });
@@ -386,10 +380,12 @@ function drawMarkerSelect(data) {
         .height(120)
         .renderLabel(true)
         .renderTitle(true)
-        .colors(['#cb181d', /* maj */
-                        '#fb6a4a', /* mod */
-                        '#fcae91', /* min */
-                        '#fee5d9' /* no */
+        .colors([		'#2078B4', /* maj */
+						'#4298AE',
+                        '#006737', /* mod */
+                        '#EF4E52', /* min */
+                        '#EF7D20',
+						'#58585B'
                         ])
          .colorDomain([0,4]);
     //    .ordering(function (p) { return -p.value; });
