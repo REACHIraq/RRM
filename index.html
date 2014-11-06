@@ -448,6 +448,7 @@ function drawMarkerSelect(data) {
         .width(350)
         .height(200)
         .renderLabel(true)
+		.ordering(function (p) { return -p.value;})
         .renderTitle(true)
         .colors(['#3182bd'])
         .colorDomain([0,0])
@@ -467,6 +468,7 @@ function drawMarkerSelect(data) {
         .width(250)
         .height(200)
         .renderLabel(true)
+		.ordering(function (p) { return -p.value;})
         .renderTitle(true)
         .colors(['#3182bd'])
         .colorDomain([0,0])
@@ -485,6 +487,7 @@ function drawMarkerSelect(data) {
         .width(250)
         .height(200)
         .renderLabel(true)
+		.ordering(function (p) { return -p.value;})
         .renderTitle(true)
         .colors(['#3182bd'])
         .colorDomain([0,0])
@@ -501,6 +504,7 @@ function drawMarkerSelect(data) {
         .width(250)
         .height(200)
         .renderLabel(true)
+		.ordering(function (p) { return -p.value;})
         .renderTitle(true)
         .colors(['#3182bd'])
         .colorDomain([0,0])
@@ -517,6 +521,7 @@ function drawMarkerSelect(data) {
         .width(250)
         .height(200)
         .renderLabel(true)
+		.ordering(function (p) { return -p.value;})
         .renderTitle(true)
         .colors(['#3182bd'])
         .colorDomain([0,0])
@@ -598,4 +603,16 @@ $('#reset').on('click', function (){
 </div>
 
 </body>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56348018-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </html>
