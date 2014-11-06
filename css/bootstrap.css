@@ -6511,3 +6511,25 @@ th.hidden-lg,td.hidden-lg {
 .maptext1 {
     padding-left: 200px;
 }
+
+
+.bargraph
+{
+        float: left;
+}
+
+.bargraphgaps 
+{
+    float: left;
+
+}
+
+.bargraphprotect
+{
+    float: left;
+}
+
+.bargraphshelter
+{
+    float: left;
+}

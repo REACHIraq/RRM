@@ -85,27 +85,29 @@
             <div  class="row" id="cccm"  data-step="2" data-intro="Here's the number of activities you filtered. Use the reset button to delete all your filters" data-position="right">
                 <h4>Filter on condition within the sites</h4>
                 <p><small><i>Based on site observation by enumerators</i></small></p>
-                    <div class="col-md-2" >
-                        <div class="waterp" id="cccm"  class="dc-chart" >
-                          <p><small>Illness</small></p>
-                        </div>
+
+				
+					<span class="bargraph" data-step="1" data-intro="Click on this pie chart to filter by sector." data-position="right">
+                      <p><small>Illness</small></p>
+                    </span>
+
+					
+					<div class="bargraphgaps"  data-step="1" data-intro="Click on this pie chart to filter by sector." data-position="right">
+                      <p><small>Gaps</small></p>
                     </div>
-                    <div class="col-md-2" >
-                        <div class="openelementp" id="cccm" class="dc-chart" >
-                          <p><small>Gaps</small></p>
-                        </div>
-                    </div>
-                    <div class="col-md-2" >
-                        <div class="hazardsp" id="cccm" class="dc-chart" >
-                          <p><small>Protection</small></p>
-                        </div>
-                    </div>
-                    <div class="col-md-2" >
-                        <div class="waterqp" id="cccm" class="dc-chart" >
-                          <p><small>Shelter Type</small></p>
-                        </div>
-                    </div>
-					 
+					
+					
+					<span class="bargraphprotect"  data-step="1" data-intro="Click on this pie chart to filter by sector." data-position="right">
+                      <p><small>Protection</small></p>
+                    </span>
+					
+					
+					<span class="bargraphshelter"  data-step="1" data-intro="Click on this pie chart to filter by sector." data-position="right">
+                      <p><small>Shelter Type</small></p>
+                    </span>
+					
+
+					 <!--
                     <div class="col-md-2" >
                         <div class="electricp" id="cccm" class="dc-chart" >
                           <p><small>New Population vs Total</small></p>
@@ -118,7 +120,7 @@
                         </div>
                     </div>
 
-                    
+                    -->
                     <!--
                     <div class="col-md-1" >
                         <div class="environmentp" id="cccm" class="dc-chart" >
@@ -436,6 +438,8 @@ function drawMarkerSelect(data) {
        // .ordering(function (p) { return -p.value;});
 
 
+	   
+
   var types = xf.dimension(function(d) { return d.organisat; });
   var typesGroup = types.group().reduceCount();
   dc.rowChart("#cccm .orgap",groupname)
@@ -450,7 +454,74 @@ function drawMarkerSelect(data) {
         .colorAccessor(function(d, i){return 1;})
         .xAxis().ticks(4).tickFormat(d3.format("s"));
        // .ordering(function (p) { return -p.value;});
+	   
+	   
+	   
+	   
+	   	   // Bar Graph for Diseases
+  var types = xf.dimension(function(d) { return d.diseases; });
+  var typesGroup = types.group().reduceCount();
+  dc.rowChart("#cccm .bargraph",groupname)
+        .dimension(types)
+        .group(typesGroup)
+        .width(250)
+        .height(200)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#3182bd'])
+        .colorDomain([0,0])
+        .colorAccessor(function(d, i){return 1;})
+        .xAxis().ticks(4).tickFormat(d3.format("s"));
 
+	   
+	   
+	   
+	   	   	   // Bar Graph for Gaps
+  var types = xf.dimension(function(d) { return d.gaps; });
+  var typesGroup = types.group().reduceCount();
+  dc.rowChart("#cccm .bargraphgaps",groupname)
+        .dimension(types)
+        .group(typesGroup)
+        .width(250)
+        .height(200)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#3182bd'])
+        .colorDomain([0,0])
+        .colorAccessor(function(d, i){return 1;})
+        .xAxis().ticks(4).tickFormat(d3.format("s"));
+		
+		
+		 // Bar Graph for Protection
+  var types = xf.dimension(function(d) { return d.protection; });
+  var typesGroup = types.group().reduceCount();
+  dc.rowChart("#cccm .bargraphprotect",groupname)
+        .dimension(types)
+        .group(typesGroup)
+        .width(250)
+        .height(200)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#3182bd'])
+        .colorDomain([0,0])
+        .colorAccessor(function(d, i){return 1;})
+        .xAxis().ticks(4).tickFormat(d3.format("s"));
+	   
+	   
+		 // Bar Graph for shelter type
+  var types = xf.dimension(function(d) { return d.ShelterType; });
+  var typesGroup = types.group().reduceCount();
+  dc.rowChart("#cccm .bargraphshelter",groupname)
+        .dimension(types)
+        .group(typesGroup)
+        .width(350)
+        .height(300)
+        .renderLabel(true)
+        .renderTitle(true)
+        .colors(['#3182bd'])
+        .colorDomain([0,0])
+        .colorAccessor(function(d, i){return 1;})
+        .xAxis().ticks(4).tickFormat(d3.format("s"));
 
   var districts = xf.dimension(function(d) { return d.district; });
   var districtsByIndividual = districts.group().reduceSum(function (d) { return d.individual; });
