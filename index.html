@@ -55,7 +55,7 @@
                <img src="images/ccccm-siteasessment2.png" style="width: 100%"></a>
          </div>
 
-        <div class="col-xs-12">The Rapid Response Mechanism (RRM) was developed to provide essential humanitarian assistance to the ongoing displacements of families in Iraq by providing of essential, water, hygiene, food and nutrition, basic items and shelter assistance to girls, boys, families and vulnerable individuals. All data displayed on this page is from a complimentary assessment the partners conducted in tandem to aid distribution.</div>
+        <div class="col-xs-12"></br>Last update: 28-1-2015</br></br>The Rapid Response Mechanism (RRM) was developed to provide essential humanitarian assistance to the ongoing displacements of families in Iraq by providing of essential, water, hygiene, food and nutrition, basic items and shelter assistance to girls, boys, families and vulnerable individuals. All data displayed on this page is from a complimentary assessment the partners conducted in tandem to aid distribution.</div>
 
             <div class="socialmedia" data-step="6" data-intro="Feel Free to share if you like it!" data-position="left">
                 <table>
@@ -254,191 +254,7 @@ function drawMarkerSelect(data) {
       .zoom(6)
       .cluster(true);
 		
-		
-//water_access  water_quality   electric    openelement damage  hazards mines   fighting
-// water_access is ID for dataviz.tsv file , must be the same as the file
-  var waters = xf.dimension(function(d) { return d.diseases; });
-  var watersGroup = waters.group().reduceCount();
-  // waterp is the ID name for HTML class
-  dc.pieChart("#cccm .waterp",groupname)
-        .dimension(waters)
-        .group(watersGroup)
-        .width(120)
-        .height(120)
-        .renderLabel(true)
-        .renderTitle(true)
-        .colors([		'#2078B4', /* maj */
-						'#4298AE',
-                        '#006737', /* mod */
-                        '#EF4E52', /* min */
-                        '#EF7D20',
-						'#58585B'
-                        ])
-         .colorDomain([0,4]);
-    //   .ordering(function (p) { return -p.value; });
 
-
-  var waterqs = xf.dimension(function(d) { return d.ShelterType; });
-  var waterqsGroup = waterqs.group().reduceCount();
-  dc.pieChart("#cccm .waterqp",groupname)
-        .dimension(waterqs)
-        .group(waterqsGroup)
-        .width(120)
-        .height(120)
-        .renderLabel(true)
-        .renderTitle(true)
-        .colors([		'#2078B4', /* maj */
-						'#4298AE',
-                        '#006737', /* mod */
-                        '#EF4E52', /* min */
-                        '#EF7D20',
-						'#58585B'
-                        ])
-         .colorDomain([0,4]);
-    //   .ordering(function (p) { return -p.value; });
-
-
-  var electrics = xf.dimension(function(d) { return d.population; });
-  var electricsGroup = electrics.group().reduceCount();
-  dc.pieChart("#cccm .electricp",groupname)
-        .dimension(electrics)
-        .group(electricsGroup)
-        .width(120)
-        .height(120)
-        .renderLabel(true)
-        .renderTitle(true)
-        .colors([		'#2078B4', /* maj */
-						'#4298AE',
-                        '#006737', /* mod */
-                        '#EF4E52', /* min */
-                        '#EF7D20',
-						'#58585B'
-                        ])
-         .colorDomain([0,4]);
-     //  .ordering(function (p) { return -p.value; });
-
-
-  var openelements = xf.dimension(function(d) { return d.gaps; });
-  var openelementsGroup = openelements.group().reduceCount();
-  dc.pieChart("#cccm .openelementp",groupname)
-        .dimension(openelements)
-        .group(openelementsGroup)
-        .width(120)
-        .height(120)
-        .renderLabel(true)
-        .renderTitle(true)
-        .colors([		'#2078B4', /* maj */
-						'#4298AE',
-                        '#006737', /* mod */
-                        '#EF4E52', /* min */
-                        '#EF7D20',
-						'#58585B'
-                        ])
-         .colorDomain([0,4]);
-     //   .ordering(function (p) { return -p.value; });
-       
-  var damages = xf.dimension(function(d) { return d.damage; });
-  var damagesGroup = damages.group().reduceCount();
-  dc.pieChart("#cccm .damagep",groupname)
-        .dimension(damages)
-        .group(damagesGroup)
-        .width(75)
-        .height(75)
-        .renderLabel(true)
-        .renderTitle(true)
-        .colors(['#cb181d', /* maj */
-                        '#fb6a4a', /* mod */
-                        '#fcae91', /* min */
-                        '#fee5d9' /* no */
-                        ])
-         .colorDomain([0,4]);
-     //   .ordering(function (p) { return -p.value; });
-       
-  var hazardss = xf.dimension(function(d) { return d.protection; });
-  var hazardssGroup = hazardss.group().reduceCount();
-  dc.pieChart("#cccm .hazardsp",groupname)
-        .dimension(hazardss)
-        .group(hazardssGroup)
-        .width(120)
-        .height(120)
-        .renderLabel(true)
-        .renderTitle(true)
-        .colors([		'#2078B4', /* maj */
-						'#4298AE',
-                        '#006737', /* mod */
-                        '#EF4E52', /* min */
-                        '#EF7D20',
-						'#58585B'
-                        ])
-         .colorDomain([0,4]);
-    //    .ordering(function (p) { return -p.value; });
-       
-  var miness = xf.dimension(function(d) { return d.mines; });
-  var minessGroup = miness.group().reduceCount();
-  dc.pieChart("#cccm .minesp",groupname)
-        .dimension(miness)
-        .group(minessGroup)
-        .width(120)
-        .height(120)
-        .renderLabel(true)
-        .renderTitle(true)
-        .colors([		'#2078B4', /* maj */
-						'#4298AE',
-                        '#006737', /* mod */
-                        '#EF4E52', /* min */
-                        '#EF7D20',
-						'#58585B'
-                        ])
-         .colorDomain([0,4]);
-    //    .ordering(function (p) { return -p.value; });
-       
-  var fightings = xf.dimension(function(d) { return d.fighting; });
-  var fightingsGroup = fightings.group().reduceCount();
-  dc.pieChart("#cccm .fightingp",groupname)
-        .dimension(fightings)
-        .group(fightingsGroup)
-        .width(75)
-        .height(75)
-        .renderLabel(true)
-        .renderTitle(true)
-        .colors(['#cb181d', /* maj */
-                        '#fb6a4a', /* mod */
-                        '#fcae91', /* min */
-                        '#fee5d9' /* no */
-                        ])
-         .colorDomain([0,4]);
-    //    .ordering(function (p) { return -p.value; });
-
-
-  var environments = xf.dimension(function(d) { return d.environment; });
-  var environmentsGroup = environments.group().reduceCount();
-  dc.pieChart("#cccm .environmentp",groupname)
-        .dimension(environments)
-        .group(environmentsGroup)
-        .width(75)
-        .height(75)
-        .renderLabel(true)
-        .renderTitle(true)
-        .ordering(function (p) { return -p.value; });
-
-
-  var classs = xf.dimension(function(d) { return d.class; });
-  var classsGroup = classs.group().reduceCount();
-  dc.rowChart("#cccm .classp",groupname)
-        .dimension(classs)
-        .group(classsGroup)
-        .width(200)
-        .height(200)
-        .renderLabel(true)
-        .renderTitle(true)
-        .colors(['#3182bd'])
-        .colorDomain([0,0])
-        .colorAccessor(function(d, i){return 1;})
-        .xAxis().ticks(4).tickFormat(d3.format("s"));
-       // .ordering(function (p) { return -p.value;});
-
-
-	   
 
   var types = xf.dimension(function(d) { return d.organisat; });
   var typesGroup = types.group().reduceCount();
@@ -531,9 +347,7 @@ function drawMarkerSelect(data) {
   var districts = xf.dimension(function(d) { return d.district; });
   var districtsByIndividual = districts.group().reduceSum(function (d) { return d.individual; });
   var districtsByMen = districts.group().reduceSum(function (d) { return d.men; });
-  var districtsByWomen  = districts.group().reduceSum(function (d) { return d.women; });
-  var districtsByBoy =  districts.group().reduceSum(function (d) { return d.boys; });
-  var districtsByGirl = districts.group().reduceSum(function (d) { return d.girls; });
+
   //var districtsGroup = types.group().reduceCount();
   
   dc.rowChart("#cccm .districtp",groupname)
@@ -545,8 +359,8 @@ function drawMarkerSelect(data) {
        // .stack(districtsByGirl)
        // .elasticX(true)
       //  .data(function(group) { return group.top(10); })
-        .width(350)
-        .height(400)
+        .width(370)
+        .height(595)
         .renderLabel(true)
         .ordering(function (p) { return -p.value;})
         .colors(['#3182bd'])
@@ -556,7 +370,7 @@ function drawMarkerSelect(data) {
 
   var governorates = xf.dimension(function(d) { return d.governorate; });
   var governoratesByIndividual = governorates.group().reduceSum(function (d) { return d.individual; });
-  var governoratesByHousehold = governorates.group().reduceSum(function (d) { return d.household; });
+ // var governoratesByHousehold = governorates.group().reduceSum(function (d) { return d.household; });
   //var governoratesGroup = types.group().reduceCount();
   
   dc.rowChart("#cccm .governoratep",groupname)
@@ -564,8 +378,8 @@ function drawMarkerSelect(data) {
         .group(governoratesByIndividual)
         //.stack(governoratesByHousehold)
        // .elasticX(true)
-        .width(200)
-        .height(150)
+        .width(250)
+        .height(350)
         .renderLabel(true)
         .ordering(function (p) { return -p.value;})
         .colors(['#3182bd'])
