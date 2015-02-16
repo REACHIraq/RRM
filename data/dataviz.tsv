@@ -362,7 +362,7 @@ Mercy Corps	Sulaymaniyah	Chamchamal	35	Other	Food	35.5583301,45.4449872	Other	29
 Mercy Corps	Sulaymaniyah	Sulaymaniyah	30	Other	Food	35.5583301,45.4449872	Renting	273	yes
 Mercy Corps	Sulaymaniyah	Sulaymaniyah	30	Other	Food	35.5583301,45.4449872	Other	2200	yes
 Mercy Corps	Sulaymaniyah	Halabja	30	Chronic	Food	35.5583301,45.4449872	Renting	1430	no
-Mercy Corps	Sulaymaniyah	Sulaymaniya	35	Chronic	Food	35.5583301,45.4449872	Renting	542	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Chronic	Food	35.5583301,45.4449872	Renting	542	no
 Mercy Corps	Sulaymaniyah	Penjwin	25	Flu	Food	35.5583301,45.4449872	Other	432	no
 Mercy Corps	Sulaymaniyah	Halabja	30	Diarrhea	Food	35.5583301,45.4449872	Other	954	no
 Mercy Corps	Sulaymaniyah	Sulaymaniyah	25	Chronic	Food	35.53507076,45.43951006	Other	540	no
@@ -480,14 +480,14 @@ Mercy Corps	Kirkuk	Daquq	50	Chronic	Household_Items	35.11823623,44.45132154	None
 Mercy Corps	Kirkuk	Daquq	60	Chronic	Household_Items	35.30942237,44.43758276	Other	1130	Unknown
 Mercy Corps	Sulaymaniyah	Chamchamal	55	Chronic	Household_Items	35.56371975,45.42742627	Camp	4051	no
 Mercy Corps	Sulaymaniyah	Halabja	55	Chronic	Household_Items	35.56377403,45.42757127	Renting	6127	Unknown
-Mercy Corps	Diyala	Balad Ruz 	57	Diarrhea	Household_Items	33.693333,45.0720978	Other	324	Unknown
-Mercy Corps	Diyala	Balad Ruz 	43	Chronic	Household_Items	33.693333,45.0720978	Renting	700	yes
+Mercy Corps	Diyala	Baladrooz	57	Diarrhea	Household_Items	33.693333,45.0720978	Other	324	Unknown
+Mercy Corps	Diyala	Baladrooz	43	Chronic	Household_Items	33.693333,45.0720978	Renting	700	yes
 Mercy Corps	Diyala	Baquba	43	Chronic	Household_Items	33.693333,45.0720978	Renting	280	yes
-Mercy Corps	Diyala	Balad Ruz 	33	Chronic	Household_Items	33.693333,45.0720978	Renting	790	yes
-Mercy Corps	Diyala	Balad Ruz 	41	Chronic	Household_Items	33.6911014,45.06742	Renting	817	yes
+Mercy Corps	Diyala	Baladrooz	33	Chronic	Household_Items	33.693333,45.0720978	Renting	790	yes
+Mercy Corps	Diyala	Baladrooz	41	Chronic	Household_Items	33.6911014,45.06742	Renting	817	yes
 Mercy Corps	Diyala	Baladrooz	21	Chronic	Household_Items	33.7471625,45.5527925	Renting	480	Unknown
-Mercy Corps	Diyala	Balad Ruz 	43	Chronic	Household_Items	33.693333,45.0720978	Renting	410	Unknown
-Mercy Corps	Diyala	Balad Ruz 	70	Chronic	Household_Items	33.693333,45.0720978	Renting	811	yes
+Mercy Corps	Diyala	Baladrooz	43	Chronic	Household_Items	33.693333,45.0720978	Renting	410	Unknown
+Mercy Corps	Diyala	Baladrooz	70	Chronic	Household_Items	33.693333,45.0720978	Renting	811	yes
 ACTED	Dahuk	Akre	70	Flu	Household_Items	36.72791573,44.01632013	Renting	1230	no
 ACTED	Dahuk	Dahuk	60	Flu	Household_Items	36.8416986,42.93162986	Other	1230	no
 ACTED	Dahuk	Dahuk	60	Flu	Household_Items	36.83906324,43.03867548	Other	455	no
@@ -527,9 +527,9 @@ ACTED	Dahuk	Amedi	60	Chronic	Household_Items	37.04429716,43.33644317	Renting	243
 ACTED	Dahuk	Amedi	56	Chronic	Household_Items	37.09895253,43.38158341	Renting	2150	no
 Mercy Corps	Kirkuk	Daquq	50	Chronic	Household_Items	35.14286226,44.45273607	Other	609	Unknown
 Mercy Corps	Kirkuk	Daquq	60	Chronic	Household_Items	35.1346463,44.445952	Renting	680	yes
-Mercy Corps	Sulaymaniyah	Sulaymaniya	30	Flu	Household_Items	35.58062962,45.41048257	Renting	1236	no
-Mercy Corps	Sulaymaniyah	Sulaymaniya	25	Flu	Household_Items	35.56071848,45.44627264	Hotel	238	Unknown
-Mercy Corps	Sulaymaniyah	Sulaymaniya	35	Flu	Household_Items	35.5340214,45.44958451	Other	238	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	30	Flu	Household_Items	35.58062962,45.41048257	Renting	1236	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	25	Flu	Household_Items	35.56071848,45.44627264	Hotel	238	Unknown
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Flu	Household_Items	35.5340214,45.44958451	Other	238	no
 Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Household_Items	35.42788794,44.35591547	Mosque/Church	3741	no
 Mercy Corps	Diyala	Baladrooz	57	Diarrhea	Household_Items	33.5008098,45.3347826	Other	324	Unknown
 Mercy Corps	Diyala	Baladrooz	43	Chronic	Household_Items	33.5008098,45.3347826	Renting	700	yes
@@ -580,9 +580,9 @@ ACTED	Dahuk	Amedi	60	Chronic	Medical_Assistance	37.04429716,43.33644317	Renting	
 ACTED	Dahuk	Amedi	56	Chronic	Medical_Assistance	37.09895253,43.38158341	Renting	2150	no
 Mercy Corps	Kirkuk	Daquq	50	Chronic	Medical_Assistance	35.14286226,44.45273607	Other	609	Unknown
 Mercy Corps	Kirkuk	Daquq	60	Chronic	Medical_Assistance	35.1346463,44.445952	Renting	680	yes
-Mercy Corps	Sulaymaniyah	Sulaymaniya	30	Flu	Medical_Assistance	35.58062962,45.41048257	Renting	1236	no
-Mercy Corps	Sulaymaniyah	Sulaymaniya	25	Flu	Medical_Assistance	35.56071848,45.44627264	Hotel	238	Unknown
-Mercy Corps	Sulaymaniyah	Sulaymaniya	35	Flu	Medical_Assistance	35.5340214,45.44958451	Other	238	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	30	Flu	Medical_Assistance	35.58062962,45.41048257	Renting	1236	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	25	Flu	Medical_Assistance	35.56071848,45.44627264	Hotel	238	Unknown
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Flu	Medical_Assistance	35.5340214,45.44958451	Other	238	no
 Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Medical_Assistance	35.42788794,44.35591547	Mosque/Church	3741	no
 ACTED	Dahuk	Dahuk	39	Chronic	Medical_Assistance	37.0358557,43.09644003	Other	705	no
 ACTED	Dahuk	Zakho	60	Chronic	Medical_Assistance	37.14751787,42.75263507	Other	3100	no
@@ -608,7 +608,7 @@ Mercy Corps	Kirkuk	Daquq	60	Chronic	Shelter_Improvement	35.11688464,44.45199561	
 ACTED	Dahuk	Dahuk	48	Chronic	Shelter_Improvement	37.03599358,43.09288778	Other	790	no
 ACTED	Dahuk	Dahuk	60	Chronic	Shelter_Improvement	37.0106175,43.04795064	Mosque/Church	2500	no
 Mercy Corps	Kirkuk	Kirkuk	50	Chronic	Shelter_Improvement	35.30241719,44.31877993	Renting	1963	Unknown
-Mercy Corps	Sulaymaniyah	Sulaymaniya	40	Chronic	Shelter_Improvement	35.43360228,45.59691096	Camp	1290	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	40	Chronic	Shelter_Improvement	35.43360228,45.59691096	Camp	1290	no
 Mercy Corps	Kirkuk	Daquq	50	Chronic	Shelter_Improvement	35.1165637,44.45231723	None Open Air	17	Unknown
 Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Shelter_Improvement	35.49525525,44.33406343	Renting	2010	no
 Mercy Corps	Diyala	Khalis	24	Chronic	Shelter_Improvement	33.77985585,44.5986344	Renting	1312	Unknown
