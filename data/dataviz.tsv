@@ -1,493 +1,634 @@
-organisat	governorate	district	numofchild	diseases	gaps	geo	ShelterType	population	protection	individual
-NRC	Dahuk	Zakho	56	Chronic	Water	36.8549239,42.94268743	None Open Air	3300	no	78
-NRC	Dahuk	Zakho	56	Diarrhea	Water	37.0934714,42.4322712	None Open Air	3300	no	172
-NRC	Dahuk	Zakho	70	Chronic	Water	37.1383475,42.6710038	School	780	no	13
-NRC	Dahuk	Zakho	65	Chronic	Water	37.1383475,42.6710038	School	1020	no	69
-NRC	Dahuk	Zakho	57	Chronic	Food	37.1405526,42.690525	None Open Air	3000	no	42
-NRC	Dahuk	Zakho	69	Chronic	Food	37.1393291,42.6850949	School	360	no	31
-NRC	Dahuk	Zakho	63	Chronic	Food	37.1417701,42.6873265	School	780	no	1157
-NRC	Dahuk	Zakho	61	Chronic	Food	37.161456,42.6741698	School	1500	no	52
-NRC	Erbil	Erbil	70	Flu	Food	36.23458134,43.99349728	Other	850	no	200
-NRC	Dahuk	Zakho	57	Chronic	Food	36.97366969,42.65526225	None Open Air	420	no	30
-NRC	Dahuk	Zakho	56	Chronic	Food	37.08550042,42.42239219	None Open Air	2700	no	838
-ACTED	Dahuk	Dahuk	60	Chronic	Food	36.8704527,42.9907506	School	115	no	367
-ACTED	Dahuk	Zakho	59	Chronic	Food	36.8704531,42.9907508	School	260	no	52
-ACTED	Dahuk	Dahuk	45	Chronic	Food	36.870178,42.99110206	Other	480	no	743
-ACTED	Dahuk	Zakho	60	Chronic	Food	36.87019128,42.99120457	School	254	no	220
-ACTED	Dahuk	Sumel	70	Chronic	Food	36.87012947,42.99110164	Other	1750	no	197
-ACTED	Dahuk	Sumel	60	Chronic	Food	36.87023638,42.99141211	Other	300	no	56
-ACTED	Dahuk	Sumel	60	Other	Food	36.87028466,42.99104095	Other	4050	no	664
-ACTED	Dahuk	Dahuk	45	Chronic	Food	36.87015998,42.99108412	Other	775	Unknown	22
-ACTED	Dahuk	Dahuk	65	Flu	Food	36.87027431,42.99110139	Other	101	no	38
-ACTED	Dahuk	Dahuk	60	Chronic	Food	36.87040804,42.99098714	School	775	no	36
-ACTED	Dahuk	Sumel	45	Chronic	Food	36.87039287,42.99125989	School	3700	no	215
-ACTED	Dahuk	Sumel	80	Other	Food	36.87022913,42.99111119	Other	1020	no	91
-ACTED	Dahuk	Dahuk	73	Chronic	Food	36.87034526,42.99101899	None Open Air	270	no	186
-ACTED	Dahuk	Sumel	40	Chronic	Food	36.87047577,42.99108261	School	1800	no	73
-ACTED	Dahuk	Sumel	60	Chronic	Food	36.8822442,42.9443247	Other	1500	no	24
-ACTED	Dahuk	Sumel	40	Chronic	Food	36.8698274,42.9901556	Other	1050	no	220
-NRC	Dahuk	Sumel	54	Chronic	Food	36.9686465,42.7165722	Other	360	no	130
-NRC	Dahuk	Sumel	57	Chronic	Food	36.9686465,42.7165722	School	324	no	175
-NRC	Dahuk	Sumel	30	Chronic	Food	36.8674442,42.8366321	School	336	no	76
-NRC	Dahuk	Sumel	68	Chronic	Food	36.9206797,42.7241923	School	300	no	25
-NRC	Dahuk	Sumel	48	Chronic	Food	36.9686465,42.7165722	School	300	no	40
-NRC	Dahuk	Sumel	60	Chronic	Food	36.9686465,42.7165722	School	108	no	28
-ACTED	Dahuk	Sumel	70	Chronic	Food	36.80975433,43.04342349	Other	1500	no	250
-ACTED	Dahuk	Amedi	40	Chronic	Food	36.87029032,42.99107339	School	1400	no	32
-ACTED	Dahuk	Sumel	55	Chronic	Food	36.80638782,43.02056378	Other	350	no	33
-ACTED	Dahuk	Sumel	60	Chronic	Food	36.80848744,43.04019134	Other	1650	no	21
-ACTED	Dahuk	Sumel	65	Chronic	Food	36.81571009,42.98045587	Other	500	no	72
-ACTED	Dahuk	Sumel	65	Chronic	Food	36.77121697,42.98288704	Other	750	no	745
-NRC	Dahuk	Zakho	50	Chronic	Food	37.0848941,42.4034293	Renting	720	no	47
-NRC	Dahuk	Zakho	56	Chronic	Food	37.0848941,42.4034293	Renting	792	no	484
-NRC	Dahuk	Zakho	52	Chronic	Food	37.0848941,42.4034293	Renting	756	no	148
-ACTED	Dahuk	Amedi	55	Chronic	Food	36.87035519,42.99103199	School	1353	no	350
-NRC	Dahuk	Zakho	54	Chronic	Food	37.0933053,42.4321584	None Open Air	750	no	185
-NRC	Dahuk	Zakho	56	Chronic	Food	37.0848941,42.4034293	School	870	no	133
-DRC	Dahuk	Zakho	65	Diarrhea	Food	36.86821475,42.9687036	Other	3000	no	62
-NRC	Dahuk	Zakho	55	Chronic	Food	37.08490119,42.42833463	School	780	no	205
-NRC	Dahuk	Zakho	54	Chronic	Food	37.08819268,42.43266614	None Open Air	870	no	61
-ACTED	Ninewa	Shikhan	45	Flu	Food	36.64495785,43.41156003	School	600	no	1369
-ACTED	Ninewa	Shikhan	50	Chronic	Food	36.63952399,43.52394241	School	600	no	559
-NRC	Dahuk	Zakho	84	Chronic	Food	37.0933053,42.4321584	None Open Air	200	no	32
-NRC	Dahuk	Zakho	80	Chronic	Food	37.0849003,42.4035074	None Open Air	780	no	39
-NRC	Dahuk	Zakho	57	Chronic	Food	37.0597859,42.4423284	None Open Air	300	no	42
-NRC	Dahuk	Zakho	55	Chronic	Food	37.0849003,42.4035074	None Open Air	600	no	62
-Mercy Corps	Kirkuk	Daquq	27	Chronic	Clothing	35.14503334,44.4513093	Mosque/Church	120	Unknown	32
-Mercy Corps	Kirkuk	Daquq	50	Chronic	Clothing	35.14492408,44.45127301	Mosque/Church	149	Unknown	50
-Mercy Corps	Kirkuk	Daquq	29	Chronic	Clothing	35.14498937,44.45130738	Mosque/Church	117	Unknown	32
-ACTED	Ninewa	Akre	30	Flu	Clothing	36.73190945,43.86932133	Hotel	150	no	17
-ACTED	Ninewa	Akre	60	Chronic	Clothing	36.72426595,43.87392039	Other	750	no	70
-ACTED	Ninewa	Akre	50	Chronic	Clothing	36.73113337,43.88195436	Other	800	no	36
-Mercy Corps	Kirkuk	Daquq	44	Chronic	Clothing	35.16134515,44.43922218	Camp	123	Unknown	22
-Mercy Corps	Kirkuk	Daquq	70	Chronic	Clothing	35.16122038,44.43916644	Camp	117	no	31
-Mercy Corps	Kirkuk	Daquq	55	Chronic	Clothing	35.16135873,44.43913962	Camp	90	no	58
-Mercy Corps	Kirkuk	Daquq	34	Chronic	Clothing	35.12745129,44.44881401	Camp	121	Unknown	45
-Mercy Corps	Kirkuk	Daquq	31	Chronic	Clothing	35.12749383,44.448826	Camp	121	no	33
-Mercy Corps	Kirkuk	Daquq	29	Chronic	Clothing	35.12754588,44.44891535	Camp	88	no	30
-Mercy Corps	Kirkuk	Daquq	29	Chronic	Clothing	35.12768317,44.44888366	Camp	91	no	25
-DRC	Dahuk	Zakho	55	Chronic	Clothing	37.13449473,42.69515097	Camp	6000	no	49
-NRC	Dahuk	Zakho	60	Chronic	Clothing	37.0849003,42.4035074	None Open Air	450	no	35
-NRC	Dahuk	Zakho	50	Chronic	Clothing	37.0849003,42.4035074	Other	790	no	69
-NRC	Dahuk	Zakho	55	Chronic	Clothing	37.0372761,42.3893446	Other	190	no	47
-Mercy Corps	Kirkuk	Daquq	33	Chronic	Clothing	35.15496912,44.43747195	Camp	120	no	94
-Mercy Corps	Kirkuk	Kirkuk	47	Chronic	Clothing	35.46842351,44.37983338	Renting	360	no	28
-Mercy Corps	Kirkuk	Kirkuk	45	Chronic	Clothing	35.41739796,44.3305234	School	256	no	34
-Mercy Corps	Kirkuk	Kirkuk	30	Chronic	Clothing	35.41051503,44.31286826	None Open Air	268	Unknown	37
-Mercy Corps	Kirkuk	Kirkuk	40	Chronic	Clothing	35.47540789,44.37843645	School	44	yes	25
-Mercy Corps	Kirkuk	Kirkuk	48	Chronic	Clothing	35.48060836,44.38643463	Other	129	no	41
-Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Clothing	35.41045234,44.3132296	None Open Air	515	no	36
-Mercy Corps	Kirkuk	Kirkuk	45	Chronic	Clothing	35.49037885,44.38014175	Mosque/Church	89	no	25
-Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Clothing	35.41742461,44.33059615	School	316	Unknown	246
-Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Clothing	35.46837179,44.3797991	School	143	Unknown	33
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Clothing	35.46835662,44.37979256	School	153	Unknown	36
-Mercy Corps	Kirkuk	Daquq	45	Chronic	Clothing	35.15145731,44.44043244	Camp	77	Unknown	33
-Mercy Corps	Kirkuk	Daquq	45	Chronic	Clothing	35.15142856,44.44037436	Camp	133	Unknown	33
-Mercy Corps	Kirkuk	Daquq	42	Chronic	Clothing	35.15146888,44.44043462	Camp	91	Unknown	24
-Mercy Corps	Kirkuk	Daquq	44	Chronic	Clothing	35.15153262,44.44052104	Camp	102	Unknown	48
-Mercy Corps	Kirkuk	Daquq	35	Chronic	Clothing	35.15146875,44.44054862	Camp	117	Unknown	453
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.15149335,44.44040051	Camp	127	Unknown	93
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.15041364,44.44071324	Camp	104	no	181
-Mercy Corps	Kirkuk	Kirkuk	33	Chronic	Clothing	35.41645395,44.33819124	School	149	no	63
-Mercy Corps	Kirkuk	Kirkuk	45	Chronic	Clothing	35.41647126,44.33822243	School	176	no	21
-Mercy Corps	Kirkuk	Kirkuk	30	Chronic	Clothing	35.47903776,44.38362527	Renting	35	no	40
-Mercy Corps	Kirkuk	Daquq	25	Chronic	Clothing	35.14604243,44.44971138	Camp	97	Unknown	38
-Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Clothing	35.39111629,44.39814926	Renting	231	yes	65
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Clothing	35.46837284,44.37974017	Renting	115	yes	61
-ACTED	Dahuk	Zakho	45	Chronic	Clothing	36.8703215,42.99108907	Other	2870	no	61
-ACTED	Dahuk	Zakho	60	Chronic	Clothing	36.8701828,42.9909094	School	1000	no	88
-ACTED	Dahuk	Zakho	40	Chronic	Clothing	37.14032556,42.61832555	School	1532	no	65
-NRC	Dahuk	Zakho	60	Chronic	Clothing	37.0597859,42.4423284	Camp	6000	no	27
-NRC	Dahuk	Zakho	50	Chronic	Clothing	36.9172286,42.6006183	Other	240	no	119
-NRC	Dahuk	Zakho	45	Chronic	Clothing	36.9172286,42.6006183	Other	220	no	167
-NRC	Dahuk	Zakho	50	Chronic	Clothing	36.9794604,42.6498888	School	490	no	28
-Mercy Corps	Kirkuk	Kirkuk	40	Chronic	Clothing	35.3900678,44.37089307	School	376	no	104
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Clothing	35.38963127,44.37255956	School	289	no	91
-ACTED	Dahuk	Dahuk	40	Flu	Clothing	36.78432619,42.97387146	Other	655	no	63
-ACTED	Dahuk	Dahuk	55	Chronic	Clothing	36.87281524,42.96676093	School	474	Unknown	52
-ACTED	Dahuk	Dahuk	50	Chronic	Clothing	36.87237816,42.96617336	School	1300	no	38
-ACTED	Dahuk	Dahuk	60	Chronic	Clothing	36.87034098,42.99108471	School	514	no	57
-ACTED	Dahuk	Dahuk	55	Chronic	Clothing	36.87033956,42.99127322	School	270	no	123
-SCI	Sulaymaniyah	Dokan	60	Chronic	Clothing	35.9326066,44.96698595	School	3500	no	181
-SCI	Sulaymaniyah	Bazyan	120	Chronic	Clothing	35.59672111,45.13373461	Mosque/Church	1500	no	35
-SCI	Sulaymaniyah	Halabja	60	Chronic	Clothing	35.298696,46.03522078	Renting	650	no	31
-SCI	Sulaymaniyah	Sharbazher	70	Chronic	Clothing	35.71554774,45.57430412	School	800	yes	52
-SCI	Sulaymaniyah	Halabja	45	Chronic	Clothing	35.56386644,45.42742501	Renting	1350	no	29
-NRC	Dahuk	Zakho	50	Chronic	Clothing	36.9172286,42.6006183	Mosque/Church	2700	no	152
-SCI	Sulaymaniyah	Halabja	55	Chronic	Clothing	35.56368245,45.42747178	Renting	5000	no	205
-NRC	Dahuk	Zakho	55	Chronic	Clothing	36.9794604,42.6498888	Other	720	no	27
-Mercy Corps	Kirkuk	Daquq	56	Chronic	Clothing	35.13244481,44.45126949	Mosque/Church	112	Unknown	92
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13244611,44.45120386	Mosque/Church	151	no	84
-Mercy Corps	Kirkuk	Daquq	42	Chronic	Clothing	35.1324845,44.45120009	Mosque/Church	137	no	83
-Mercy Corps	Kirkuk	Daquq	39	Chronic	Clothing	35.13246874,44.45125834	Mosque/Church	175	no	62
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13237868,44.45119397	Mosque/Church	140	Unknown	98
-Mercy Corps	Kirkuk	Daquq	30	Chronic	Clothing	35.1323897,44.45118533	Mosque/Church	134	no	41
-Mercy Corps	Kirkuk	Daquq	60	Chronic	Clothing	35.1323148,44.45114879	Mosque/Church	136	Unknown	31
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.1323029,44.45125918	Mosque/Church	126	Unknown	168
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13237465,44.45124401	Mosque/Church	160	Unknown	450
-Mercy Corps	Kirkuk	Daquq	60	Chronic	Clothing	35.13234255,44.45121408	Mosque/Church	182	Unknown	47
-Mercy Corps	Kirkuk	Daquq	60	Chronic	Clothing	35.13230554,44.45117838	Mosque/Church	124	Unknown	196
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13233664,44.4512031	Mosque/Church	136	Unknown	55
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13233551,44.45117192	Mosque/Church	176	Unknown	610
-Mercy Corps	Kirkuk	Daquq	60	Chronic	Clothing	35.13234921,44.45122842	Mosque/Church	123	no	82
-ACTED	Dahuk	Zakho	50	Chronic	Clothing	37.14064236,42.61065158	School	1000	Unknown	90
-Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Clothing	35.38643014,44.39648302	Renting	186	no	109
-Mercy Corps	Kirkuk	Kirkuk	67	Chronic	Clothing	35.39546922,44.38128982	School	399	no	58
-Mercy Corps	Kirkuk	Kirkuk	75	Chronic	Clothing	35.39526395,44.38119946	School	348	no	82
-Mercy Corps	Kirkuk	Daquq	50	Chronic	Household_Items	35.13240784,44.45095961	Mosque/Church	126	Unknown	96
-Mercy Corps	Kirkuk	Daquq	41	Chronic	Household_Items	35.13244435,44.4510249	Mosque/Church	112	no	80
-Mercy Corps	Kirkuk	Daquq	45	Chronic	Household_Items	35.13242775,44.45104117	Mosque/Church	163	no	131
-Mercy Corps	Kirkuk	Daquq	42	Chronic	Household_Items	35.13251647,44.45150091	Mosque/Church	103	Unknown	225
-Mercy Corps	Kirkuk	Daquq	50	Chronic	Household_Items	35.1323881,44.45102474	Mosque/Church	120	Unknown	1593
-Mercy Corps	Kirkuk	Daquq	50	Chronic	Household_Items	35.13236912,44.45099004	Mosque/Church	154	Unknown	2492
-Mercy Corps	Kirkuk	Daquq	30	Chronic	Household_Items	35.13230517,44.45105223	Mosque/Church	38	Unknown	58
-Mercy Corps	Kirkuk	Daquq	30	Chronic	Household_Items	35.13239116,44.4510301	Mosque/Church	148	Unknown	55
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Household_Items	35.13249929,44.4510353	Mosque/Church	144	no	27
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Household_Items	35.13244238,44.45091317	Mosque/Church	28	Unknown	32
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Household_Items	35.38646417,44.39652946	Renting	274	no	38
-Mercy Corps	Kirkuk	Kirkuk	56	Chronic	Household_Items	35.38634359,44.39665862	Renting	305	no	73
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Household_Items	35.42336881,44.34206452	Renting	146	Unknown	51
-ACTED	Dahuk	Dahuk	55	Chronic	Household_Items	36.85455195,43.02929688	School	157	no	30
-ACTED	Dahuk	Dahuk	40	Chronic	Household_Items	36.8657578,42.99227066	School	543	no	42
-ACTED	Dahuk	Dahuk	40	Chronic	Household_Items	36.84468134,43.01337931	School	204	no	38
-ACTED	Dahuk	Dahuk	37	Chronic	Household_Items	36.86705075,42.94913974	School	183	no	40
-ACTED	Dahuk	Dahuk	40	Chronic	Household_Items	36.86764038,42.9342264	School	400	no	79
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Household_Items	35.38642574,44.39666349	Renting	300	no	29
-ACTED	Dahuk	Zakho	45	Chronic	Household_Items	37.14907677,42.92597878	None Open Air	593	Unknown	52
-ACTED	Dahuk	Zakho	60	Chronic	Household_Items	37.13277498,42.89528836	None Open Air	1000	no	38
-Mercy Corps	Kirkuk	Daquq	41	Chronic	Household_Items	35.13249292,44.45092038	Mosque/Church	116	no	56
-Mercy Corps	Kirkuk	Daquq	45	Chronic	Household_Items	35.13241036,44.45099465	Mosque/Church	103	Unknown	25
-NRC	Dahuk	Zakho	56	Chronic	Household_Items	37.1775227,43.0150205	Other	900	no	44
-ACTED	Dahuk	Dahuk	55	Chronic	Household_Items	36.86097207,42.94589309	School	181	no	49
-ACTED	Dahuk	Dahuk	40	Chronic	Household_Items	36.85682785,42.970714	Other	410	no	36
-ACTED	Dahuk	Dahuk	40	Chronic	Household_Items	36.8702579,42.9907521	School	600	no	59
-Mercy Corps	Kirkuk	Daquq	42	Chronic	Household_Items	35.13804237,44.44552319	Mosque/Church	132	no	29
-Mercy Corps	Kirkuk	Daquq	50	Chronic	Sanitation	35.13798126,44.44558698	Mosque/Church	95	Unknown	72
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Sanitation	35.13807577,44.44551825	Mosque/Church	125	no	40
-Mercy Corps	Kirkuk	Daquq	42	Chronic	Sanitation	35.13803503,44.44558153	Mosque/Church	116	Unknown	190
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Sanitation	35.13803407,44.44556233	Mosque/Church	121	no	33
-Mercy Corps	Kirkuk	Daquq	60	Chronic	Sanitation	35.13251027,44.45089901	Mosque/Church	122	Unknown	30
-Mercy Corps	Kirkuk	Daquq	60	Chronic	Sanitation	35.13244397,44.45110286	Mosque/Church	135	Unknown	39
-Mercy Corps	Kirkuk	Daquq	58	Chronic	Sanitation	35.13242612,44.45097671	Mosque/Church	123	Unknown	49
-Mercy Corps	Kirkuk	Daquq	57	Chronic	Sanitation	35.13238383,44.45086062	Mosque/Church	101	Unknown	42
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Sanitation	35.13245797,44.45098191	Mosque/Church	102	Unknown	53
-Mercy Corps	Kirkuk	Daquq	50	Chronic	Medical_Assistance	35.13245763,44.45094771	Mosque/Church	118	Unknown	220
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Medical_Assistance	35.13243638,44.45091762	Mosque/Church	124	Unknown	165
-Mercy Corps	Kirkuk	Daquq	50	Chronic	Medical_Assistance	35.13244238,44.45107168	Mosque/Church	91	no	215
-Mercy Corps	Kirkuk	Daquq	30	Chronic	Medical_Assistance	35.13239573,44.45092868	Mosque/Church	119	no	628
-Mercy Corps	Kirkuk	Daquq	50	Chronic	Medical_Assistance	35.13240382,44.45094603	Mosque/Church	122	Unknown	650
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Medical_Assistance	35.13237528,44.45094335	Mosque/Church	120	Unknown	60
-Mercy Corps	Kirkuk	Daquq	50	Chronic	Medical_Assistance	35.13242134,44.45088769	Mosque/Church	119	Unknown	23
-NRC	Dahuk	Zakho	55	Chronic	Medical_Assistance	37.1744288,43.0023061	School	147	no	520
-NRC	Dahuk	Zakho	55	Chronic	Medical_Assistance	37.1744288,43.0023061	School	332	no	35
-NRC	Dahuk	Zakho	50	Chronic	Medical_Assistance	37.1711267,43.0139047	School	136	no	289
-NRC	Dahuk	Zakho	50	Chronic	Medical_Assistance	37.1744288,43.0023061	School	300	no	69
-NRC	Dahuk	Zakho	55	Chronic	Medical_Assistance	37.1775227,43.0150205	School	210	no	46
-NRC	Dahuk	Zakho	55	Chronic	Medical_Assistance	37.1775227,43.0150205	School	150	no	46
-NRC	Dahuk	Zakho	55	Chronic	Medical_Assistance	37.1744288,43.0023061	School	350	no	33
-NRC	Dahuk	Zakho	50	Chronic	Medical_Assistance	37.1209541,43.1633595	School	54	no	32
-NRC	Dahuk	Zakho	55	Chronic	Medical_Assistance	37.1292799,43.1695741	School	54	no	13
-NRC	Dahuk	Zakho	55	Chronic	Medical_Assistance	37.0964714,43.0851146	Renting	210	no	26
-NRC	Dahuk	Zakho	50	Chronic	Medical_Assistance	37.0964714,43.0851146	Other	66	no	28
-NRC	Dahuk	Zakho	50	Chronic	Medical_Assistance	37.1743352,43.0023331	Other	18	no	32
-NRC	Dahuk	Zakho	60	Chronic	Medical_Assistance	37.1743352,43.0023331	School	90	no	35
-NRC	Dahuk	Zakho	45	Chronic	Medical_Assistance	37.1721218,42.931244	School	102	no	17
-SCI	Kirkuk	Kirkuk	85	Chronic	Medical_Assistance	35.38381062,44.27632039	Renting	1500	no	95
-SCI	Kirkuk	Hawiga	90	Chronic	Shelter_Improvement	35.56874613,45.38310033	Renting	1500	no	26
-NRC	Dahuk	Zakho	65	Chronic	Shelter_Improvement	37.1560988,42.9317604	School	170	no	72
-NRC	Dahuk	Zakho	55	Chronic	Shelter_Improvement	37.1734737,42.883089	School	132	no	378
-NRC	Dahuk	Zakho	60	Chronic	Shelter_Improvement	37.1560988,42.9317604	School	666	no	54
-NRC	Dahuk	Zakho	35	Chronic	Shelter_Improvement	37.0467827,42.8142971	School	114	no	29
-NRC	Dahuk	Zakho	40	Chronic	Shelter_Improvement	37.0467827,42.8142971	Other	114	no	63
-Mercy Corps	Kirkuk	Kirkuk	63	Chronic	Shelter_Improvement	35.38207,44.37757798	Renting	468	Unknown	64
-Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Shelter_Improvement	35.41491302,44.41199474	Renting	482	yes	64
-Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Shelter_Improvement	35.41490614,44.4120763	Renting	434	no	108
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Shelter_Improvement	35.41494566,44.41204336	Renting	433	no	1770
-Mercy Corps	Kirkuk	Kirkuk	33	Chronic	Shelter_Improvement	35.41490091,44.41207102	Renting	425	no	50
-Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Shelter_Improvement	35.47196637,44.36686129	Renting	387	no	787
-Mercy Corps	Kirkuk	Kirkuk	45	Chronic	Shelter_Improvement	35.46544709,44.37896208	Mosque/Church	96	no	41
-NRC	Dahuk	Zakho	60	Chronic	Shelter_Improvement	37.1743352,43.0023331	Other	42	no	148
-NRC	Dahuk	Zakho	60	Chronic	Shelter_Improvement	37.1721218,42.931244	Other	54	no	225
-NRC	Dahuk	Zakho	45	Chronic	Shelter_Improvement	37.1721218,42.931244	Other	72	no	21
-NRC	Dahuk	Zakho	35	Chronic	Shelter_Improvement	37.1734737,42.883089	School	616	no	40
-Mercy Corps	Kirkuk	Kirkuk	53	Chronic	Shelter_Improvement	35.41210353,44.31605531	None Open Air	350	yes	250
-ACTED	Dahuk	Zakho	55	Chronic	Shelter_Improvement	37.1633644,42.71189609	School	2800	no	26
-ACTED	Dahuk	Zakho	45	Chronic	Shelter_Improvement	37.13869587,42.71672046	School	3570	no	22
-ACTED	Dahuk	Dahuk	50	Flu	Footware	36.86555131,42.98712367	Other	880	no	25
-NRC	Dahuk	Zakho	35	Chronic	Footware	37.1654706,42.9541646	School	3846	no	36
-NRC	Dahuk	Zakho	35	Chronic	Water	37.2224098,43.0998217	School	540	no	25
-NRC	Dahuk	Zakho	45	Chronic	Water	37.2310346,43.150292	School	1200	no	28
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Water	35.13240743,44.45102314	Mosque/Church	1117	Unknown	34
-Mercy Corps	Kirkuk	Daquq	25	Chronic	Water	35.13241476,44.45097202	Mosque/Church	1217	Unknown	67
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Water	35.14165413,44.44913722	Other	381	Unknown	44
-Mercy Corps	Kirkuk	Daquq	25	Chronic	Water	35.13239804,44.45100244	Mosque/Church	435	Unknown	45
-Mercy Corps	Kirkuk	Kirkuk	56	Chronic	Water	35.40981678,44.31106498	None Open Air	572	no	85
-Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Water	35.42959304,44.39927629	Renting	885	no	22
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Water	35.40589002,44.35403095	School	650	no	26
-NRC	Dahuk	Zakho	40	Chronic	Water	37.2286284,43.120153	School	62	no	1657
-ACTED	Dahuk	Dahuk	50	Diarrhea	Water	36.87090634,42.97313897	School	150	no	617
-ACTED	Dahuk	Dahuk	60	Other	Water	36.8737168,42.98128081	School	127	no	76
-ACTED	Dahuk	Dahuk	60	Diarrhea	Water	36.87086603,42.97333737	School	303	no	161
-ACTED	Dahuk	Dahuk	65	Flu	Food	36.85488584,42.96570967	School	368	no	117
-ACTED	Dahuk	Dahuk	45	Diarrhea	Food	36.84359307,42.97713965	School	500	no	30
-NRC	Dahuk	Zakho	57	Chronic	Food	37.0930774,42.4320897	Camp	1506	no	168
-Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Food	35.38516988,44.37366597	School	252	Unknown	234
-Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Food	35.43633859,44.39761944	School	206	no	111
-Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Food	35.3901162,44.38405325	School	328	no	67
-NRC	Dahuk	Zakho	45	Chronic	Food	37.0930774,42.4320897	Camp	1500	no	559
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Food	35.14103739,44.44961364	Other	536	Unknown	103
-Mercy Corps	Kirkuk	Kirkuk	50	Chronic	Food	35.41205341,44.31565792	None Open Air	123	no	264
-Mercy Corps	Kirkuk	Kirkuk	62	Chronic	Food	35.44878395,44.37339298	Other	516	no	96
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Food	35.77170251,44.11933263	None Open Air	144	yes	133
-SCI	Salah_al_Din	Tooz	62	Chronic	Food	34.42974791,44.94115284	Camp	2500	no	78
-SCI	Diyala	Kifri	65	Chronic	Food	34.42972952,44.94116533	Mosque/Church	2500	no	85
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Food	35.4152125,44.34506524	School	825	no	57
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Food	35.41545792,44.34530128	School	42	no	39
-ACTED	Dahuk	Dahuk	53	Diarrhea	Food	36.85307338,42.94213129	School	382	no	33
-ACTED	Dahuk	Dahuk	59	Flu	Food	36.85296999,42.93582844	School	153	no	44
-ACTED	Dahuk	Dahuk	56	Flu	Food	36.85309811,43.03273824	School	557	no	38
-ACTED	Dahuk	Dahuk	55	Diarrhea	Food	36.85396798,43.01696434	School	305	no	31
-ACTED	Diyala	Kifri	65	Chronic	Food	34.73753602,45.07210953	Renting	693	no	35
-ACTED	Sulaymaniyah	Kalar	60	Chronic	Food	34.6206025,45.32762346	Renting	5610	no	39
-ACTED	Diyala	Khanaqin	65	Chronic	Food	34.3431162,45.32917656	Camp	1110	Unknown	28
-ACTED	Diyala	Kifri	60	Chronic	Food	34.47238517,45.17303798	Camp	240	no	28
-Mercy Corps	Kirkuk	Daquq	30	Chronic	Food	35.24120767,44.39465183	None Open Air	383	Unknown	65
-Mercy Corps	Kirkuk	Daquq	45	Chronic	Food	35.14532557,44.4463266	Other	821	Unknown	45
-Mercy Corps	Kirkuk	Daquq	60	Chronic	Food	35.1414862,44.44899799	Camp	1193	Unknown	36
-Mercy Corps	Kirkuk	Daquq	60	Chronic	Food	35.14143264,44.4489814	Mosque/Church	1165	Unknown	65
-Mercy Corps	Kirkuk	Daquq	42	Chronic	Food	35.14157056,44.44911274	Other	388	Unknown	86
-Mercy Corps	Kirkuk	Daquq	20	Chronic	Food	35.14154772,44.44915239	Mosque/Church	675	Unknown	323
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Food	35.14150187,44.44897821	Other	1494	Unknown	88
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Food	35.14152761,44.44909455	Other	1022	Unknown	35
-ACTED	Ninewa	Shikhan	60	Diarrhea	Food	36.76833733,43.32505745	Other	2650	no	367
-DRC	Dahuk	Zakho	40	Chronic	Food	36.8682873,42.9686364	Other	2828	yes	52
-ACTED	Diyala	Kifri	65	Chronic	Food	34.46770691,45.16863583	Renting	2310	no	743
-Mercy Corps	Kirkuk	Kirkuk	63	Chronic	Food	35.39393605,44.40962853	School	483	no	220
-ACTED	Sulaymaniyah	Kalar	40	Chronic	Food	34.62410161,45.3103076	Renting	220	no	197
-ACTED	Sulaymaniyah	Kalar	60	Chronic	Food	34.63538497,45.30202878	Renting	1000	no	56
-ACTED	Sulaymaniyah	Kalar	40	Chronic	Food	34.64098842,45.30860124	Renting	350	no	664
-Mercy Corps	Kirkuk	Kirkuk	122	Chronic	Food	35.41745772,44.3307425	School	1324	no	22
-Mercy Corps	Kirkuk	Kirkuk	120	Chronic	Food	35.40473571,44.38227268	None Open Air	1218	no	38
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Food	35.40512593,44.38170087	School	926	no	36
-Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Food	35.42107564,44.39848965	Renting	643	no	215
-ACTED	Diyala	Khanaqin	68	Chronic	Food	34.34454256,45.33080731	Camp	348	no	91
-ACTED	Diyala	Kifri	65	Chronic	Food	34.73754645,45.06931608	Renting	654	no	186
-ACTED	Dahuk	Zakho	46	Flu	Food	37.14020323,42.57339712	Other	500	Unknown	73
-ACTED	Dahuk	Zakho	47	Flu	Food	37.14041906,42.57341766	Other	800	Unknown	24
-ACTED	Dahuk	Amedi	40	Diarrhea	Food	37.07733929,43.26846628	Camp	930	no	220
-ACTED	Dahuk	Dahuk	55	Diarrhea	Food	36.69327705,43.59783559	Mosque/Church	2300	no	130
-ACTED	Dahuk	Zakho	50	Chronic	Food	37.13942908,42.57325312	None Open Air	0	Unknown	175
-ACTED	Dahuk	Zakho	50	Flu	Food	37.13945204,42.57330475	None Open Air	0	Unknown	76
-ACTED	Dahuk	Zakho	50	Flu	Food	37.13947929,42.57327123	None Open Air	0	Unknown	25
-ACTED	Dahuk	Zakho	50	Flu	Food	37.13980731,42.57339201	None Open Air	0	Unknown	40
-ACTED	Dahuk	Zakho	50	Flu	Food	37.13948415,42.57326896	None Open Air	0	Unknown	28
-ACTED	Dahuk	Zakho	50	Flu	Food	37.13939718,42.57331347	Other	0	Unknown	250
-ACTED	Dahuk	Zakho	50	Flu	Food	37.13948201,42.57311583	None Open Air	0	no	32
-ACTED	Dahuk	Zakho	50	Flu	Clothing	37.13955338,42.57325295	Other	0	no	33
-ACTED	Dahuk	Amedi	60	Flu	Clothing	37.09744098,43.39089612	Other	60	no	21
-ACTED	Ninewa	Mosul	30	Flu	Clothing	36.86641113,42.97609057	Other	4680	no	72
-ACTED	Dahuk	Dahuk	52	Flu	Clothing	36.7055824,43.60123018	Renting	2800	no	745
-ACTED	Dahuk	Dahuk	52	Flu	Clothing	36.70601176,43.60026643	Other	2700	no	47
-ACTED	Dahuk	Dahuk	59	Diarrhea	Clothing	36.70194692,43.59798957	Other	2800	no	484
-NRC	Dahuk	Sumel	55	Chronic	Clothing	36.96101792,42.68156827	School	126	no	148
-NRC	Dahuk	Sumel	60	Flu	Clothing	36.96075708,42.68391059	School	238	no	350
-NRC	Dahuk	Sumel	70	Chronic	Clothing	36.9608779,42.68170908	Other	1131	no	185
-NRC	Dahuk	Sumel	55	Chronic	Clothing	37.06051581,42.6137606	Other	732	no	133
-Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Clothing	35.43017739,44.36108428	School	192	no	62
-Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Clothing	35.41725422,44.33032858	School	789	no	205
-Mercy Corps	Kirkuk	Kirkuk	63	Chronic	Clothing	35.4290045,44.35583401	School	2531	no	61
-Mercy Corps	Kirkuk	Kirkuk	56	Chronic	Clothing	35.42221298,44.3584409	School	1571	no	1369
-NRC	Dahuk	Sumel	70	Chronic	Clothing	36.90767465,42.88745203	Other	2309	no	559
-Mercy Corps	Kirkuk	Kirkuk	57	Chronic	Clothing	35.43446928,44.35101094	Mosque/Church	395	no	32
-NRC	Dahuk	Sumel	60	Chronic	Clothing	36.9074519,42.88751037	Other	3781	no	39
-NRC	Dahuk	Sumel	65	Chronic	Clothing	36.91191141,42.88549796	Other	771	no	42
-ACTED	Wassit	Namaniya	56	Chronic	Clothing	32.47193444,45.13188125	Mosque/Church	327	no	62
-ACTED	Wassit	Namaniya	61	Chronic	Clothing	32.47628505,45.14577046	Mosque/Church	246	Unknown	32
-ACTED	Wassit	Namaniya	70	Chronic	Clothing	32.47001534,45.12853506	Mosque/Church	410	no	50
-ACTED	Wassit	Namaniya	58	Chronic	Clothing	32.49296519,45.204508	Mosque/Church	325	no	32
-ACTED	Wassit	Namaniya	55	Chronic	Clothing	32.54260612,45.37369194	Mosque/Church	251	no	17
-NRC	Dahuk	Sumel	60	Chronic	Clothing	36.82099291,42.80673707	Other	1268	no	70
-NRC	Dahuk	Sumel	68	Chronic	Clothing	36.83449942,42.81820972	Other	266	no	36
-NRC	Dahuk	Sumel	60	Chronic	Clothing	36.84220264,42.82188702	Other	510	no	22
-ACTED	Wassit	Namaniya	63	Chronic	Clothing	32.54234377,45.3738505	Mosque/Church	425	no	31
-ACTED	Wassit	Namaniya	59	Chronic	Clothing	32.53392306,45.34879615	Mosque/Church	638	no	58
-ACTED	Wassit	Namaniya	60	Chronic	Clothing	32.53117277,45.33931218	Mosque/Church	607	no	45
-ACTED	Wassit	Namaniya	67	Chronic	Clothing	32.51142579,45.26988635	Mosque/Church	479	no	33
-ACTED	Wassit	Namaniya	68	Chronic	Clothing	32.50483729,45.24570346	Mosque/Church	458	no	30
-ACTED	Dahuk	Zakho	55	Chronic	Clothing	37.16470609,42.71196918	School	5000	Unknown	25
-ACTED	Dahuk	Zakho	60	Chronic	Clothing	37.16150726,42.71242532	School	221	no	49
-Mercy Corps	Kirkuk	Kirkuk	62	Chronic	Clothing	35.43445577,44.36274594	Mosque/Church	1778	no	35
-Mercy Corps	Kirkuk	Kirkuk	62	Chronic	Clothing	35.40533982,44.35445929	School	398	no	69
-ACTED	Wassit	Kut	59	Chronic	Clothing	32.51073035,45.81794891	Mosque/Church	963	no	47
-ACTED	Wassit	Kut	60	Chronic	Household_Items	32.48430392,45.84315529	Mosque/Church	1112	no	94
-ACTED	Wassit	Kut	65	Chronic	Household_Items	32.52558064,45.82341765	Renting	776	no	28
-ACTED	Wassit	Kut	60	Chronic	Household_Items	32.56337808,45.6690442	Mosque/Church	1490	no	34
-ACTED	Wassit	Kut	65	Chronic	Household_Items	32.53987615,45.8601893	Mosque/Church	655	no	37
-ACTED	Wassit	Kut	60	Chronic	Household_Items	32.53268117,45.84426957	Mosque/Church	680	no	25
-ACTED	Wassit	Kut	57	Chronic	Household_Items	32.47591594,45.82226489	Mosque/Church	879	no	41
-ACTED	Wassit	Kut	65	Chronic	Household_Items	32.52997875,45.81189004	Mosque/Church	698	no	36
-ACTED	Wassit	Kut	60	Chronic	Household_Items	32.59454529,45.94274475	Mosque/Church	360	no	25
-ACTED	Dahuk	Dahuk	52	Chronic	Household_Items	36.86641926,42.98574275	Other	1090	no	246
-ACTED	Dahuk	Dahuk	65	Chronic	Household_Items	36.88415222,42.95584182	Other	1100	no	33
-ACTED	Dahuk	Dahuk	58	Diarrhea	Household_Items	36.84514171,43.05863229	Other	450	no	36
-ACTED	Wassit	Kut	62	Chronic	Household_Items	32.51461787,45.83965346	Mosque/Church	1523	no	33
-ACTED	Wassit	Kut	60	Chronic	Household_Items	32.54643279,45.82755996	Mosque/Church	490	no	33
-ACTED	Wassit	Kut	55	Chronic	Household_Items	32.53939476,45.8235691	Mosque/Church	891	no	24
-ACTED	Dahuk	Dahuk	57	Diarrhea	Household_Items	36.84645034,43.00099933	Other	88	no	48
-ACTED	Dahuk	Dahuk	65	Diarrhea	Household_Items	36.84320633,43.05726076	Other	110	no	453
-ACTED	Dahuk	Dahuk	60	Flu	Household_Items	36.82770182,43.10286074	Other	990	no	93
-ACTED	Dahuk	Dahuk	50	Diarrhea	Household_Items	36.85702738,42.97064485	Other	620	no	181
-ACTED	Wassit	Kut	60	Chronic	Household_Items	32.51943362,45.81135513	Mosque/Church	624	no	63
-ACTED	Wassit	Kut	62	Chronic	Household_Items	32.52639044,45.82308177	Renting	612	no	21
-Mercy Corps	Kirkuk	Kirkuk	50	Chronic	Household_Items	35.3889448,44.17630309	None Open Air	1242	yes	40
-Mercy Corps	Kirkuk	Kirkuk	63	Chronic	Household_Items	35.39356892,44.26589914	None Open Air	452	no	38
-DRC	Ninewa	Mosul	30	Diarrhea	Household_Items	36.86659658,42.97593006	Other	2550	no	65
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	23	Other	Household_Items	35.5640393,45.4186215	Mosque/Church	404	no	61
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	25	Flu	Household_Items	35.5641206,45.4184014	Mosque/Church	399	no	61
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	40	Flu	Household_Items	35.56366383,45.41693126	School	232	no	88
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	25	Flu	Household_Items	35.5640717,45.4184134	Mosque/Church	411	no	65
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	50	Other	Household_Items	35.5641089,45.4183041	Mosque/Church	461	no	27
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Flu	Household_Items	35.5642225,45.4182012	None Open Air	1790	no	119
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	30	Chronic	Household_Items	35.55874051,45.39041826	Other	78	no	167
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	50	Other	Household_Items	35.5642104,45.4183406	School	498	no	28
-Mercy Corps	Sulaymaniyah	Darbandihkan	40	Diarrhea	Household_Items	35.5642438,45.4183758	Mosque/Church	2967	no	104
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	40	Flu	Household_Items	35.5643061,45.4184544	Mosque/Church	964	no	91
-Mercy Corps	Sulaymaniyah	Darbandihkan	30	Chronic	Household_Items	35.5642393,45.4182596	School	1100	no	63
-Mercy Corps	Sulaymaniyah	Rania	30	Other	Household_Items	35.55559286,45.41315623	Camp	1490	no	52
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Diarrhea	Household_Items	35.5572868,45.41593851	Renting	1236	no	38
-Mercy Corps	Sulaymaniyah	Halabja	30	Diarrhea	Household_Items	35.5582479,45.41467955	Renting	1624	no	57
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	50	Flu	Household_Items	35.55976743,45.41032413	Camp	725	no	123
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	50	Other	Household_Items	35.55993954,45.41440207	Camp	138	no	181
-Mercy Corps	Sulaymaniyah	Chamchamal	35	Other	Household_Items	35.5583301,45.4449872	Other	2960	yes	35
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	30	Other	Household_Items	35.5583301,45.4449872	Renting	273	yes	31
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	30	Other	Household_Items	35.5583301,45.4449872	Other	2200	yes	52
-Mercy Corps	Sulaymaniyah	Halabja	30	Chronic	Household_Items	35.5583301,45.4449872	Renting	1430	no	29
-Mercy Corps	Sulaymaniyah	Sulaymaniya	35	Chronic	Household_Items	35.5583301,45.4449872	Renting	542	no	152
-Mercy Corps	Sulaymaniyah	Penjwin	25	Flu	Household_Items	35.5583301,45.4449872	Other	432	no	205
-Mercy Corps	Sulaymaniyah	Halabja	30	Diarrhea	Household_Items	35.5583301,45.4449872	Other	954	no	27
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	25	Chronic	Household_Items	35.53507076,45.43951006	Other	540	no	92
-DRC	Dahuk	Zakho	35	Flu	Household_Items	37.05554903,42.44695092	Camp	7800	no	84
-DRC	Ninewa	Telafar	25	Diarrhea	Household_Items	36.95979802,42.27019804	Other	4680	Unknown	83
-DRC	Ninewa	Telafar	30	Diarrhea	Household_Items	36.93092127,42.35944955	Other	3504	no	62
-DRC	Ninewa	Telafar	30	Diarrhea	Household_Items	36.84227586,42.38573343	Other	2910	no	98
-ACTED	Dahuk	Zakho	45	Diarrhea	Household_Items	37.15021416,42.66007153	Other	2700	no	41
-ACTED	Dahuk	Dahuk	40	Chronic	Household_Items	36.88942444,42.9154439	Other	1500	no	31
-ACTED	Dahuk	Dahuk	45	Chronic	Household_Items	36.86219185,42.98388708	Other	229	no	168
-ACTED	Dahuk	Dahuk	30	Chronic	Household_Items	36.86566979,42.98723758	Other	198	no	450
-Mercy Corps	Kirkuk	Kirkuk	57	Chronic	Household_Items	35.44249906,44.39583541	School	1239	no	47
-NRC	Dahuk	Zakho	20	Chronic	Household_Items	37.0864728,42.40067082	None Open Air	163	no	196
-NRC	Baghdad	Resafa	65	Chronic	Household_Items	33.30963354,44.43603749	School	180	no	55
-NRC	Baghdad	Karkh	50	Chronic	Household_Items	33.31532463,44.32098718	School	420	no	610
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Household_Items	35.41968837,44.31523211	Renting	492	no	82
-ACTED	Dahuk	Zakho	45	Chronic	Household_Items	37.14467275,42.69051729	Other	2079	no	90
-ACTED	Wassit	Hai	60	Chronic	Household_Items	32.17919495,46.03426624	Mosque/Church	588	no	109
-ACTED	Wassit	Hai	60	Chronic	Household_Items	32.18004928,46.02928737	Mosque/Church	290	no	58
-ACTED	Wassit	Hai	65	Chronic	Household_Items	32.17472419,46.04049632	Mosque/Church	485	no	82
-ACTED	Wassit	Hai	60	Chronic	Household_Items	32.16281929,46.04171364	Mosque/Church	410	no	96
-ACTED	Wassit	Hai	60	Chronic	Household_Items	32.17009334,46.04543409	Mosque/Church	520	no	80
-ACTED	Wassit	Hai	60	Chronic	Household_Items	32.26677404,45.93300084	Mosque/Church	277	no	131
-NRC	Baghdad	Resafa	40	Chronic	Household_Items	33.26214965,44.48324096	School	1250	no	225
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Other	Household_Items	35.58449044,45.27384464	Renting	280	no	1593
-NRC	Baghdad	Karkh	65	Chronic	Household_Items	33.33908307,44.38311278	Mosque/Church	480	no	2492
-NRC	Baghdad	Resafa	20	Chronic	Household_Items	33.31185964,44.49026623	School	65	no	58
-NRC	Baghdad	Resafa	55	Chronic	Household_Items	33.31266874,44.48887512	School	75	no	55
-NRC	Baghdad	Resafa	70	Chronic	Household_Items	33.30429698,44.4868597	School	240	Unknown	27
-NRC	Baghdad	Resafa	60	Chronic	Household_Items	33.29955049,44.49416111	School	75	no	32
-ACTED	Dahuk	Dahuk	53	Chronic	Household_Items	36.87280895,42.92708435	Other	1350	no	38
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Other	Household_Items	35.58615921,45.30544581	Other	876	no	73
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	25	Chronic	Household_Items	35.5861609,45.26528181	Renting	1050	no	51
-Mercy Corps	Kirkuk	Kirkuk	63	Chronic	Household_Items	35.41774634,44.33042404	School	1722	no	30
-Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Household_Items	35.38842551,44.17620355	None Open Air	1142	yes	42
-Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Household_Items	35.44291736,44.39889924	Renting	1725	no	38
-NRC	Baghdad	Kadhimia	55	Chronic	Household_Items	33.3724929,44.28149507	Renting	800	no	40
-ACTED	Dahuk	Zakho	47	Chronic	Household_Items	37.14163809,42.6613139	Other	3200	no	79
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	40	Flu	Household_Items	35.59649036,45.22937405	Renting	2628	no	29
-NRC	Baghdad	Kadhimia	50	Chronic	Household_Items	33.34946236,44.32964199	Renting	700	no	52
-NRC	Dahuk	Sumel	60	Chronic	Household_Items	36.91252371,42.88663991	Other	616	no	38
-NRC	Baghdad	Thawra2	60	Chronic	Sanitation	33.39316459,44.52381668	Renting	650	no	56
-NRC	Baghdad	Karkh	50	Chronic	Sanitation	33.31595016,44.33087161	Renting	800	no	25
-ACTED	Dahuk	Zakho	61	Chronic	Sanitation	37.17922837,42.7285868	Other	1905	no	44
-Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Sanitation	35.41391944,44.43518867	Renting	771	no	49
-NRC	Najaf	Najaf	55	Chronic	Sanitation	32.07510888,44.37824783	Mosque/Church	1100	no	36
-NRC	Baghdad	Karkh	65	Chronic	Medical_Assistance	33.31933868,44.36206333	Renting	1176	no	59
-ACTED	Dahuk	Dahuk	63	Chronic	Medical_Assistance	36.84396586,43.00520495	Other	3150	no	29
-NRC	Dahuk	Zakho	60	Chronic	Medical_Assistance	37.07444385,42.38007884	None Open Air	216	no	72
-NRC	Najaf	Manathera	20	Chronic	Medical_Assistance	31.97673666,44.45535184	Renting	1200	no	40
-NRC	Najaf	Najaf	60	Chronic	Medical_Assistance	31.82796858,44.49575183	Mosque/Church	960	no	190
-NRC	Najaf	Najaf	55	Chronic	Medical_Assistance	32.10475674,44.3235174	Mosque/Church	1090	Unknown	33
-SCI	Kirkuk	Daquq	68	Chronic	Medical_Assistance	35.23743389,44.3895496	Other	376	no	30
-SCI	Kirkuk	Daquq	430	Chronic	Medical_Assistance	35.23743389,44.3895496	Other	376	no	39
-SCI	Kirkuk	Kirkuk	71	Chronic	Medical_Assistance	35.41300907,44.33338221	Other	238	no	49
-SCI	Kirkuk	Kirkuk	146	Chronic	Medical_Assistance	35.41300907,44.33338221	Other	238	no	42
-NRC	Baghdad	Karkh	70	Chronic	Medical_Assistance	33.23319508,44.34105943	Renting	200	Unknown	53
-Mercy Corps	Kirkuk	Daquq	60	Chronic	Medical_Assistance	35.10133345,44.47308867	None Open Air	227	Unknown	220
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Medical_Assistance	35.28100465,44.35786072	None Open Air	759	Unknown	165
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	40	Flu	Medical_Assistance	35.59222598,45.41329323	Renting	108	no	215
-Mercy Corps	Kirkuk	Daquq	55	Chronic	Medical_Assistance	35.07441161,44.50439324	None Open Air	826	Unknown	628
-ACTED	Thi_Qar	Rifai	45	Chronic	Medical_Assistance	31.53469261,46.1184684	Renting	362	no	650
-ACTED	Thi_Qar	Rifai	60	Chronic	Medical_Assistance	31.72241153,46.11214063	Mosque/Church	678	no	60
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Medical_Assistance	35.14280413,44.45250439	Other	289	Unknown	23
-ACTED	Dahuk	Dahuk	55	Chronic	Medical_Assistance	36.8777277,42.92695452	Renting	2900	no	520
-ACTED	Dahuk	Dahuk	48	Chronic	Medical_Assistance	36.83904832,43.08197077	Renting	2676	no	35
-ACTED	Dahuk	Dahuk	60	Flu	Medical_Assistance	36.84939561,43.06651505	Renting	2952	no	289
-ACTED	Dahuk	Dahuk	58	Chronic	Medical_Assistance	36.83964348,43.06067512	Renting	2980	no	69
-ACTED	Missan	Ali_Al_Gharbi	65	Chronic	Medical_Assistance	32.46012381,46.69005137	Renting	200	no	46
-ACTED	Missan	Ali_Al_Gharbi	55	Chronic	Medical_Assistance	32.12239196,46.73415307	Mosque/Church	174	no	46
-ACTED	Missan	Amara	40	Chronic	Medical_Assistance	31.88489365,47.16710602	Camp	460	no	33
-ACTED	Missan	Amara	65	Chronic	Medical_Assistance	31.83973659,47.10372001	Renting	109	no	32
-ACTED	Qadissiya	Diwaniya	65	Chronic	Medical_Assistance	31.98090403,44.97398377	Other	950	no	13
-ACTED	Qadissiya	Diwaniya	60	Chronic	Medical_Assistance	32.00510135,44.85379735	Mosque/Church	350	no	26
-ACTED	Muthanna	Samawa	70	Chronic	Medical_Assistance	31.29253317,45.2864092	Renting	980	no	28
-ACTED	Muthanna	Rumaitha	60	Diarrhea	Medical_Assistance	31.50966353,45.21212199	Renting	180	no	32
-Mercy Corps	Kirkuk	Daquq	40	Chronic	Medical_Assistance	35.14534141,44.44581094	Other	706	Unknown	35
-Mercy Corps	Kirkuk	Daquq	50	Diarrhea	Medical_Assistance	35.14277068,44.45252937	Other	611	no	17
-ACTED	Babylon	Hashimiya	60	Chronic	Medical_Assistance	32.30156195,44.68576579	Mosque/Church	923	no	95
-ACTED	Babylon	Hashimiya	65	Chronic	Medical_Assistance	32.29810256,44.68407167	Mosque/Church	755	no	26
-Mercy Corps	Kirkuk	Daquq	45	Chronic	Medical_Assistance	35.14157513,44.44914903	Other	312	Unknown	72
-NRC	Najaf	Najaf	60	Chronic	Medical_Assistance	31.82789498,44.49578827	Mosque/Church	750	no	378
-NRC	Dahuk	Amedi	60	Chronic	Medical_Assistance	37.05269285,43.66447491	Other	314	no	54
-NRC	Dahuk	Amedi	70	Chronic	Medical_Assistance	37.02621454,43.80141425	Other	275	no	29
-NRC	Dahuk	Amedi	60	Chronic	Medical_Assistance	37.06089613,43.64438013	Other	422	no	63
-NRC	Dahuk	Amedi	65	Chronic	Medical_Assistance	37.02627636,43.80140034	Other	413	no	64
-Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Shelter_Improvement	35.42834841,44.35764451	Renting	1945	no	64
-ACTED	Dahuk	Dahuk	60	Flu	Shelter_Improvement	36.73712333,43.87967113	Renting	3200	Unknown	108
-ACTED	Dahuk	Amedi	40	Flu	Shelter_Improvement	37.09336763,43.48804909	Renting	2989	Unknown	1770
-ACTED	Dahuk	Dahuk	40	Flu	Shelter_Improvement	36.68863599,43.79974365	Camp	650	Unknown	50
-ACTED	Dahuk	Dahuk	55	Flu	Shelter_Improvement	36.73243999,43.88025359	Renting	3000	Unknown	787
-ACTED	Dahuk	Dahuk	80	Flu	Shelter_Improvement	36.68928584,43.79962002	Camp	20	Unknown	41
-Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Shelter_Improvement	35.42901996,44.35635908	School	2312	no	148
-SCI	Sulaymaniyah	Chamchamal	55	Chronic	Shelter_Improvement	35.53947552,44.84153383	Camp	21100	yes	225
-SCI	Sulaymaniyah	Chamchamal	60	Chronic	Shelter_Improvement	35.53952593,44.84152436	Camp	21055	yes	21
-SCI	Sulaymaniyah	Chamchamal	60	Chronic	Shelter_Improvement	35.53950862,44.84149368	Camp	19800	no	40
-SCI	Sulaymaniyah	Chamchamal	60	Chronic	Shelter_Improvement	35.53944941,44.84147717	Camp	21050	no	250
-SCI	Sulaymaniyah	Chamchamal	55	Chronic	Shelter_Improvement	35.53948817,44.84158555	Camp	21100	no	26
-Mercy Corps	Kirkuk	Daquq	70	Chronic	Shelter_Improvement	35.14159479,44.44913772	Other	806	Unknown	22
-NRC	Dahuk	Amedi	70	Chronic	Shelter_Improvement	37.06086445,43.64432842	Other	471	no	25
-NRC	Dahuk	Amedi	60	Chronic	Shelter_Improvement	37.02622033,43.80141442	Other	323	no	36
-NRC	Dahuk	Amedi	65	Chronic	Shelter_Improvement	37.23036921,43.44977983	Other	370	no	25
-Mercy Corps	Kirkuk	Kirkuk	52	Chronic	Shelter_Improvement	35.41498127,44.43569055	Mosque/Church	1290	no	28
-NRC	Dahuk	Dahuk	65	Chronic	Shelter_Improvement	36.84696541,43.01375105	Other	1363	no	34
-SCI	Anbar	Falluja	80	Chronic	Shelter_Improvement	35.53946135,44.84150575	Renting	47	no	67
-SCI	Sulaymaniyah	Chamchamal	60	Other	Shelter_Improvement	35.53971469,44.84130484	Renting	6	no	44
-SCI	Sulaymaniyah	Chamchamal	70	Chronic	Shelter_Improvement	35.53956177,44.84150969	Renting	21	no	45
-Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Shelter_Improvement	35.38592344,44.37615729	Renting	1960	no	85
-NRC	Dahuk	Amedi	60	Chronic	Shelter_Improvement	37.2303876,43.44981956	Other	246	no	22
-NRC	Dahuk	Amedi	55	Chronic	Shelter_Improvement	37.10074546,43.47670049	Other	479	no	26
-NRC	Dahuk	Amedi	65	Chronic	Shelter_Improvement	37.06091005,43.64425843	Other	335	no	1657
-NRC	Dahuk	Dahuk	60	Chronic	Shelter_Improvement	36.83876539,43.08164229	Other	1450	no	617
-SCI	Sulaymaniyah	Halabja	60	Chronic	Shelter_Improvement	35.31711599,45.66451008	Renting	6055	no	76
-SCI	Sulaymaniyah	Halabja	45	Chronic	Footware	35.31684249,45.66467679	Renting	8950	no	161
-SCI	Sulaymaniyah	Halabja	60	Chronic	Footware	35.31682845,45.66468978	Renting	9050	no	117
-SCI	Sulaymaniyah	Halabja	60	Chronic	Footware	35.31682388,45.66466246	Renting	8950	yes	30
-acted	Dahuk	Dahuk	35	Chronic	Footware	36.77196715,43.31414128	Other	450	no	168
-Mercy Corps	Kirkuk	Kirkuk	62	Chronic	Footware	35.42920523,44.35612556	Renting	787	no	234
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Chronic	Footware	35.43350146,45.59462179	Camp	50	no	111
-Mercy Corps	Sulaymaniyah	Sulaymaniyah	25	Chronic	Footware	35.5640691,45.4182765	Other	102	no	67
-Mercy Corps	Kirkuk	Daquq	50	Chronic	Water	35.25304958,44.3946183	Other	653	Unknown	559
-Mercy Corps	Kirkuk	Daquq	60	Chronic	Water	35.00970885,44.54087857	None Open Air	900	Unknown	103
-Mercy Corps	Kirkuk	Daquq	60	Chronic	Water	35.14163288,44.44905826	Other	470	Unknown	264
-acted	Dahuk	Dahuk	45	Chronic	Food	36.86207932,42.98387828	Other	340	no	96
-SCI	Sulaymaniyah	Sulaymaniyah	45	Chronic	Food	35.36017906,45.86518499	Renting	917	Unknown	133
-SCI	Sulaymaniyah	Sulaymaniyah	55	Flu	Food	35.36038513,45.8651917	Renting	2726	no	78
-SCI	Sulaymaniyah	Sulaymaniyah	73	Chronic	Food	35.3602291,45.86528532	Renting	2726	Unknown	85
-SCI	Sulaymaniyah	Sulaymaniyah	55	Chronic	Food	35.59002552,45.25989122	Renting	1004	yes	57
+organisat	governorate	district	numofchild	diseases	gaps	geo	ShelterType	population	protection
+NRC	Dahuk	Zakho	56	Chronic	Water	36.8549239,42.94268743	None Open Air	3300	no
+NRC	Dahuk	Zakho	56	Diarrhea	Water	37.0934714,42.4322712	None Open Air	3300	no
+NRC	Dahuk	Zakho	70	Chronic	Water	37.1383475,42.6710038	School	780	no
+NRC	Dahuk	Zakho	65	Chronic	Water	37.1383475,42.6710038	School	1020	no
+NRC	Dahuk	Zakho	57	Chronic	Water	37.1405526,42.690525	None Open Air	3000	no
+NRC	Dahuk	Zakho	69	Chronic	Water	37.1393291,42.6850949	School	360	no
+NRC	Dahuk	Zakho	63	Chronic	Food	37.1417701,42.6873265	School	780	no
+NRC	Dahuk	Zakho	61	Chronic	Food	37.161456,42.6741698	School	1500	no
+NRC	Erbil	Erbil	70	Flu	Food	36.23458134,43.99349728	Other	850	no
+NRC	Dahuk	Zakho	57	Chronic	Food	36.97366969,42.65526225	None Open Air	420	no
+NRC	Dahuk	Zakho	56	Chronic	Food	37.08550042,42.42239219	None Open Air	2700	no
+ACTED	Dahuk	Dahuk	60	Chronic	Food	36.8704527,42.9907506	School	115	no
+ACTED	Dahuk	Zakho	59	Chronic	Food	36.8704531,42.9907508	School	260	no
+ACTED	Dahuk	Dahuk	45	Chronic	Food	36.870178,42.99110206	Other	480	no
+ACTED	Dahuk	Zakho	60	Chronic	Food	36.87019128,42.99120457	School	254	no
+ACTED	Dahuk	Sumel	70	Chronic	Food	36.87012947,42.99110164	Other	1750	no
+ACTED	Dahuk	Sumel	60	Chronic	Food	36.87023638,42.99141211	Other	300	no
+ACTED	Dahuk	Sumel	60	Other	Food	36.87028466,42.99104095	Other	4050	no
+ACTED	Dahuk	Dahuk	45	Chronic	Food	36.87015998,42.99108412	Other	775	Unknown
+ACTED	Dahuk	Dahuk	65	Flu	Food	36.87027431,42.99110139	Other	101	no
+ACTED	Dahuk	Dahuk	60	Chronic	Food	36.87040804,42.99098714	School	775	no
+ACTED	Dahuk	Sumel	45	Chronic	Food	36.87039287,42.99125989	Other	3700	no
+ACTED	Dahuk	Sumel	80	Other	Food	36.87022913,42.99111119	Other	1020	no
+ACTED	Dahuk	Dahuk	73	Chronic	Food	36.87034526,42.99101899	None Open Air	270	no
+ACTED	Dahuk	Sumel	40	Chronic	Food	36.87047577,42.99108261	School	1800	no
+ACTED	Dahuk	Sumel	60	Chronic	Food	36.8822442,42.9443247	Other	1500	no
+ACTED	Dahuk	Sumel	40	Chronic	Food	36.8698274,42.9901556	Other	1050	no
+NRC	Dahuk	Sumel	54	Chronic	Food	36.9686465,42.7165722	Other	360	no
+NRC	Dahuk	Sumel	57	Chronic	Food	36.9686465,42.7165722	School	324	no
+NRC	Dahuk	Sumel	30	Chronic	Food	36.8674442,42.8366321	School	336	no
+NRC	Dahuk	Sumel	68	Chronic	Food	36.9206797,42.7241923	School	300	no
+NRC	Dahuk	Sumel	48	Chronic	Food	36.9686465,42.7165722	School	300	no
+NRC	Dahuk	Sumel	60	Chronic	Food	36.9686465,42.7165722	School	108	no
+ACTED	Dahuk	Sumel	70	Chronic	Food	36.80975433,43.04342349	Other	1500	no
+ACTED	Dahuk	Amedi	40	Chronic	Food	36.87029032,42.99107339	Other	1400	no
+ACTED	Dahuk	Sumel	55	Chronic	Food	36.80638782,43.02056378	Other	350	no
+ACTED	Dahuk	Sumel	60	Chronic	Food	36.80848744,43.04019134	Other	1650	no
+ACTED	Dahuk	Sumel	65	Chronic	Food	36.81571009,42.98045587	Other	500	no
+ACTED	Dahuk	Sumel	65	Chronic	Food	36.77121697,42.98288704	Other	750	no
+NRC	Dahuk	Zakho	50	Chronic	Food	37.0848941,42.4034293	Renting	720	no
+NRC	Dahuk	Zakho	56	Chronic	Food	37.0848941,42.4034293	Renting	792	no
+NRC	Dahuk	Zakho	52	Chronic	Food	37.0848941,42.4034293	Renting	756	no
+ACTED	Dahuk	Amedi	55	Chronic	Food	36.87035519,42.99103199	School	1353	no
+NRC	Dahuk	Zakho	54	Chronic	Food	37.0933053,42.4321584	None Open Air	750	no
+NRC	Dahuk	Zakho	56	Chronic	Food	37.0848941,42.4034293	School	870	no
+DRC	Dahuk	Zakho	65	Diarrhea	Food	36.86821475,42.9687036	Other	3000	no
+NRC	Dahuk	Zakho	55	Chronic	Food	37.08490119,42.42833463	School	780	no
+NRC	Dahuk	Zakho	54	Chronic	Food	37.08819268,42.43266614	None Open Air	870	no
+ACTED	Ninewa	Shikhan	45	Flu	Food	36.64495785,43.41156003	Other	600	no
+ACTED	Ninewa	Shikhan	50	Chronic	Food	36.63952399,43.52394241	Other	600	no
+NRC	Dahuk	Zakho	84	Chronic	Food	37.0933053,42.4321584	None Open Air	200	no
+NRC	Dahuk	Zakho	80	Chronic	Food	37.0849003,42.4035074	None Open Air	780	no
+NRC	Dahuk	Zakho	57	Chronic	Food	37.0597859,42.4423284	None Open Air	300	no
+NRC	Dahuk	Zakho	55	Chronic	Food	37.0849003,42.4035074	None Open Air	600	no
+Mercy Corps	Kirkuk	Daquq	27	Chronic	Food	35.14503334,44.4513093	Mosque/Church	120	Unknown
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Food	35.14492408,44.45127301	Mosque/Church	149	Unknown
+Mercy Corps	Kirkuk	Daquq	29	Chronic	Food	35.14498937,44.45130738	Mosque/Church	117	Unknown
+ACTED	Ninewa	Akre	30	Flu	Food	36.73190945,43.86932133	Hotel	150	no
+ACTED	Ninewa	Akre	60	Chronic	Food	36.72426595,43.87392039	Other	750	no
+ACTED	Ninewa	Akre	50	Chronic	Food	36.73113337,43.88195436	Other	800	no
+Mercy Corps	Kirkuk	Daquq	44	Chronic	Food	35.16134515,44.43922218	Camp	123	Unknown
+Mercy Corps	Kirkuk	Daquq	70	Chronic	Food	35.16122038,44.43916644	Camp	117	no
+Mercy Corps	Kirkuk	Daquq	55	Chronic	Food	35.16135873,44.43913962	Camp	90	no
+Mercy Corps	Kirkuk	Daquq	34	Chronic	Food	35.12745129,44.44881401	Camp	121	Unknown
+Mercy Corps	Kirkuk	Daquq	31	Chronic	Food	35.12749383,44.448826	Camp	121	no
+Mercy Corps	Kirkuk	Daquq	29	Chronic	Food	35.12754588,44.44891535	Camp	88	no
+Mercy Corps	Kirkuk	Daquq	29	Chronic	Food	35.12768317,44.44888366	Camp	91	no
+DRC	Dahuk	Zakho	55	Chronic	Food	37.13449473,42.69515097	Camp	6000	no
+NRC	Dahuk	Zakho	60	Chronic	Food	37.0849003,42.4035074	None Open Air	450	no
+NRC	Dahuk	Zakho	50	Chronic	Food	37.0849003,42.4035074	Other	790	no
+NRC	Dahuk	Zakho	55	Chronic	Food	37.0372761,42.3893446	Other	190	no
+Mercy Corps	Kirkuk	Daquq	33	Chronic	Food	35.15496912,44.43747195	Camp	120	no
+Mercy Corps	Kirkuk	Kirkuk	47	Chronic	Food	35.46842351,44.37983338	Renting	360	no
+Mercy Corps	Kirkuk	Kirkuk	45	Chronic	Food	35.41739796,44.3305234	School	256	no
+Mercy Corps	Kirkuk	Kirkuk	30	Chronic	Food	35.41051503,44.31286826	None Open Air	268	Unknown
+Mercy Corps	Kirkuk	Kirkuk	40	Chronic	Food	35.47540789,44.37843645	School	44	yes
+Mercy Corps	Kirkuk	Kirkuk	48	Chronic	Food	35.48060836,44.38643463	Other	129	no
+Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Food	35.41045234,44.3132296	None Open Air	515	no
+Mercy Corps	Kirkuk	Kirkuk	45	Chronic	Clothing	35.49037885,44.38014175	Mosque/Church	89	no
+Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Clothing	35.41742461,44.33059615	School	316	Unknown
+Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Clothing	35.46837179,44.3797991	School	143	Unknown
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Clothing	35.46835662,44.37979256	School	153	Unknown
+Mercy Corps	Kirkuk	Daquq	45	Chronic	Clothing	35.15145731,44.44043244	Camp	77	Unknown
+Mercy Corps	Kirkuk	Daquq	45	Chronic	Clothing	35.15142856,44.44037436	Camp	133	Unknown
+Mercy Corps	Kirkuk	Daquq	42	Chronic	Clothing	35.15146888,44.44043462	Camp	91	Unknown
+Mercy Corps	Kirkuk	Daquq	44	Chronic	Clothing	35.15153262,44.44052104	Camp	102	Unknown
+Mercy Corps	Kirkuk	Daquq	35	Chronic	Clothing	35.15146875,44.44054862	Camp	117	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.15149335,44.44040051	Camp	127	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.15041364,44.44071324	Camp	104	no
+Mercy Corps	Kirkuk	Kirkuk	33	Chronic	Clothing	35.41645395,44.33819124	School	149	no
+Mercy Corps	Kirkuk	Kirkuk	45	Chronic	Clothing	35.41647126,44.33822243	School	176	no
+Mercy Corps	Kirkuk	Kirkuk	30	Chronic	Clothing	35.47903776,44.38362527	Renting	35	no
+Mercy Corps	Kirkuk	Daquq	25	Chronic	Clothing	35.14604243,44.44971138	Camp	97	Unknown
+Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Clothing	35.39111629,44.39814926	Renting	231	yes
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Clothing	35.46837284,44.37974017	Renting	115	yes
+ACTED	Dahuk	Zakho	45	Chronic	Clothing	36.8703215,42.99108907	Other	2870	no
+ACTED	Dahuk	Zakho	60	Chronic	Clothing	36.8701828,42.9909094	School	1000	no
+ACTED	Dahuk	Zakho	40	Chronic	Clothing	37.14032556,42.61832555	School	1532	no
+NRC	Dahuk	Zakho	60	Chronic	Clothing	37.0597859,42.4423284	Camp	6000	no
+NRC	Dahuk	Zakho	50	Chronic	Clothing	36.9172286,42.6006183	Other	240	no
+NRC	Dahuk	Zakho	45	Chronic	Clothing	36.9172286,42.6006183	Other	220	no
+NRC	Dahuk	Zakho	50	Chronic	Clothing	36.9794604,42.6498888	School	490	no
+Mercy Corps	Kirkuk	Kirkuk	40	Chronic	Clothing	35.3900678,44.37089307	School	376	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Clothing	35.38963127,44.37255956	School	289	no
+ACTED	Dahuk	Dahuk	40	Flu	Clothing	36.78432619,42.97387146	Other	655	no
+ACTED	Dahuk	Dahuk	55	Chronic	Clothing	36.87281524,42.96676093	School	474	Unknown
+ACTED	Dahuk	Dahuk	50	Chronic	Clothing	36.87237816,42.96617336	School	1300	no
+ACTED	Dahuk	Dahuk	60	Chronic	Clothing	36.87034098,42.99108471	School	514	no
+ACTED	Dahuk	Dahuk	55	Chronic	Clothing	36.87033956,42.99127322	School	270	no
+SCI	Sulaymaniyah	Dokan	40	Chronic	Clothing	35.9326066,44.96698595	School	4000	no
+SCI	Sulaymaniyah	Bazyan	120	Chronic	Clothing	35.59672111,45.13373461	Mosque/Church	500	no
+SCI	Sulaymaniyah	Halabja	60	Chronic	Clothing	35.298696,46.03522078	Renting	650	no
+SCI	Sulaymaniyah	Sharbazher	60	Chronic	Clothing	35.71554774,45.57430412	School	800	yes
+SCI	Sulaymaniyah	Halabja	45	Chronic	Clothing	35.56386644,45.42742501	Renting	660	no
+NRC	Dahuk	Zakho	50	Chronic	Clothing	36.9172286,42.6006183	Mosque/Church	2700	no
+SCI	Sulaymaniyah	Halabja	110	Chronic	Clothing	35.56368245,45.42747178	Renting	660	no
+NRC	Dahuk	Zakho	55	Chronic	Clothing	36.9794604,42.6498888	Other	720	no
+Mercy Corps	Kirkuk	Daquq	56	Chronic	Clothing	35.13244481,44.45126949	Mosque/Church	112	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13244611,44.45120386	Mosque/Church	151	no
+Mercy Corps	Kirkuk	Daquq	42	Chronic	Clothing	35.1324845,44.45120009	Mosque/Church	137	no
+Mercy Corps	Kirkuk	Daquq	39	Chronic	Clothing	35.13246874,44.45125834	Mosque/Church	175	no
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13237868,44.45119397	Mosque/Church	140	Unknown
+Mercy Corps	Kirkuk	Daquq	30	Chronic	Clothing	35.1323897,44.45118533	Mosque/Church	134	no
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Clothing	35.1323148,44.45114879	Mosque/Church	136	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.1323029,44.45125918	Mosque/Church	126	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13237465,44.45124401	Mosque/Church	160	Unknown
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Clothing	35.13234255,44.45121408	Mosque/Church	182	Unknown
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Clothing	35.13230554,44.45117838	Mosque/Church	124	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13233664,44.4512031	Mosque/Church	136	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13233551,44.45117192	Mosque/Church	176	Unknown
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Clothing	35.13234921,44.45122842	Mosque/Church	123	no
+ACTED	Dahuk	Zakho	50	Chronic	Clothing	37.14064236,42.61065158	School	1000	Unknown
+Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Clothing	35.38643014,44.39648302	Renting	186	no
+Mercy Corps	Kirkuk	Kirkuk	67	Chronic	Clothing	35.39546922,44.38128982	School	399	no
+Mercy Corps	Kirkuk	Kirkuk	75	Chronic	Clothing	35.39526395,44.38119946	School	348	no
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Clothing	35.13240784,44.45095961	Mosque/Church	126	Unknown
+Mercy Corps	Kirkuk	Daquq	41	Chronic	Clothing	35.13244435,44.4510249	Mosque/Church	112	no
+Mercy Corps	Kirkuk	Daquq	45	Chronic	Clothing	35.13242775,44.45104117	Mosque/Church	163	no
+Mercy Corps	Kirkuk	Daquq	42	Chronic	Clothing	35.13251647,44.45150091	Mosque/Church	103	Unknown
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Clothing	35.1323881,44.45102474	Mosque/Church	120	Unknown
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Clothing	35.13236912,44.45099004	Mosque/Church	154	Unknown
+Mercy Corps	Kirkuk	Daquq	30	Chronic	Clothing	35.13230517,44.45105223	Mosque/Church	38	Unknown
+Mercy Corps	Kirkuk	Daquq	30	Chronic	Clothing	35.13239116,44.4510301	Mosque/Church	148	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13249929,44.4510353	Mosque/Church	144	no
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13244238,44.45091317	Mosque/Church	28	Unknown
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Clothing	35.38646417,44.39652946	Renting	274	no
+Mercy Corps	Kirkuk	Kirkuk	56	Chronic	Clothing	35.38634359,44.39665862	Renting	305	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Clothing	35.42336881,44.34206452	Renting	146	Unknown
+ACTED	Dahuk	Dahuk	55	Chronic	Clothing	36.85455195,43.02929688	School	157	no
+ACTED	Dahuk	Dahuk	40	Chronic	Clothing	36.8657578,42.99227066	School	543	no
+ACTED	Dahuk	Dahuk	40	Chronic	Clothing	36.84468134,43.01337931	School	204	no
+ACTED	Dahuk	Dahuk	37	Chronic	Clothing	36.86705075,42.94913974	School	183	no
+ACTED	Dahuk	Dahuk	40	Chronic	Clothing	36.86764038,42.9342264	School	400	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Clothing	35.38642574,44.39666349	Renting	300	no
+ACTED	Dahuk	Zakho	45	Chronic	Clothing	37.14907677,42.92597878	None Open Air	593	Unknown
+ACTED	Dahuk	Zakho	60	Chronic	Clothing	37.13277498,42.89528836	None Open Air	1000	no
+Mercy Corps	Kirkuk	Daquq	41	Chronic	Clothing	35.13249292,44.45092038	Mosque/Church	116	no
+Mercy Corps	Kirkuk	Daquq	45	Chronic	Clothing	35.13241036,44.45099465	Mosque/Church	103	Unknown
+NRC	Dahuk	Zakho	56	Chronic	Clothing	37.1775227,43.0150205	Other	900	no
+ACTED	Dahuk	Dahuk	55	Chronic	Clothing	36.86097207,42.94589309	School	181	no
+ACTED	Dahuk	Dahuk	40	Chronic	Clothing	36.85682785,42.970714	Other	410	no
+ACTED	Dahuk	Dahuk	40	Chronic	Clothing	36.8702579,42.9907521	School	600	no
+Mercy Corps	Kirkuk	Daquq	42	Chronic	Clothing	35.13804237,44.44552319	Mosque/Church	132	no
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Clothing	35.13798126,44.44558698	Mosque/Church	95	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13807577,44.44551825	Mosque/Church	125	no
+Mercy Corps	Kirkuk	Daquq	42	Chronic	Clothing	35.13803503,44.44558153	Mosque/Church	116	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13803407,44.44556233	Mosque/Church	121	no
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Clothing	35.13251027,44.45089901	Mosque/Church	122	Unknown
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Clothing	35.13244397,44.45110286	Mosque/Church	135	Unknown
+Mercy Corps	Kirkuk	Daquq	58	Chronic	Clothing	35.13242612,44.45097671	Mosque/Church	123	Unknown
+Mercy Corps	Kirkuk	Daquq	57	Chronic	Clothing	35.13238383,44.45086062	Mosque/Church	101	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13245797,44.45098191	Mosque/Church	102	Unknown
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Clothing	35.13245763,44.45094771	Mosque/Church	118	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13243638,44.45091762	Mosque/Church	124	Unknown
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Clothing	35.13244238,44.45107168	Mosque/Church	91	no
+Mercy Corps	Kirkuk	Daquq	30	Chronic	Clothing	35.13239573,44.45092868	Mosque/Church	119	no
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Clothing	35.13240382,44.45094603	Mosque/Church	122	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.13237528,44.45094335	Mosque/Church	120	Unknown
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Clothing	35.13242134,44.45088769	Mosque/Church	119	Unknown
+NRC	Dahuk	Zakho	55	Chronic	Clothing	37.1744288,43.0023061	School	147	no
+NRC	Dahuk	Zakho	55	Chronic	Clothing	37.1744288,43.0023061	School	332	no
+NRC	Dahuk	Zakho	50	Chronic	Clothing	37.1711267,43.0139047	School	136	no
+NRC	Dahuk	Zakho	50	Chronic	Clothing	37.1744288,43.0023061	School	300	no
+NRC	Dahuk	Zakho	55	Chronic	Clothing	37.1775227,43.0150205	School	210	no
+NRC	Dahuk	Zakho	55	Chronic	Clothing	37.1775227,43.0150205	School	150	no
+NRC	Dahuk	Zakho	55	Chronic	Household_Items	37.1744288,43.0023061	School	350	no
+NRC	Dahuk	Zakho	50	Chronic	Household_Items	37.1209541,43.1633595	School	54	no
+NRC	Dahuk	Zakho	55	Chronic	Household_Items	37.1292799,43.1695741	School	54	no
+NRC	Dahuk	Zakho	55	Chronic	Household_Items	37.0964714,43.0851146	Renting	210	no
+NRC	Dahuk	Zakho	50	Chronic	Household_Items	37.0964714,43.0851146	Other	66	no
+NRC	Dahuk	Zakho	50	Chronic	Household_Items	37.1743352,43.0023331	Other	18	no
+NRC	Dahuk	Zakho	60	Chronic	Household_Items	37.1743352,43.0023331	School	90	no
+NRC	Dahuk	Zakho	45	Chronic	Household_Items	37.1721218,42.931244	School	102	no
+SCI	Kirkuk	Kirkuk	85	Chronic	Household_Items	35.38381062,44.27632039	Renting	1500	no
+SCI	Kirkuk	Hawiga	90	Chronic	Household_Items	35.56874613,45.38310033	Renting	9000	no
+NRC	Dahuk	Zakho	65	Chronic	Household_Items	37.1560988,42.9317604	School	170	no
+NRC	Dahuk	Zakho	55	Chronic	Household_Items	37.1734737,42.883089	School	132	no
+NRC	Dahuk	Zakho	60	Chronic	Household_Items	37.1560988,42.9317604	School	666	no
+NRC	Dahuk	Zakho	35	Chronic	Household_Items	37.0467827,42.8142971	School	114	no
+NRC	Dahuk	Zakho	40	Chronic	Household_Items	37.0467827,42.8142971	Other	114	no
+Mercy Corps	Kirkuk	Kirkuk	63	Chronic	Household_Items	35.38207,44.37757798	Renting	468	Unknown
+Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Household_Items	35.41491302,44.41199474	Renting	482	yes
+Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Household_Items	35.41490614,44.4120763	Renting	434	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Household_Items	35.41494566,44.41204336	Renting	433	no
+Mercy Corps	Kirkuk	Kirkuk	33	Chronic	Household_Items	35.41490091,44.41207102	Renting	425	no
+Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Household_Items	35.47196637,44.36686129	Renting	387	no
+Mercy Corps	Kirkuk	Kirkuk	45	Chronic	Household_Items	35.46544709,44.37896208	Mosque/Church	96	no
+NRC	Dahuk	Zakho	60	Chronic	Household_Items	37.1743352,43.0023331	Other	42	no
+NRC	Dahuk	Zakho	60	Chronic	Household_Items	37.1721218,42.931244	Other	54	no
+NRC	Dahuk	Zakho	45	Chronic	Household_Items	37.1721218,42.931244	Other	72	no
+NRC	Dahuk	Zakho	35	Chronic	Household_Items	37.1734737,42.883089	School	616	no
+Mercy Corps	Kirkuk	Kirkuk	53	Chronic	Household_Items	35.41210353,44.31605531	None Open Air	350	yes
+ACTED	Dahuk	Zakho	55	Chronic	Household_Items	37.1633644,42.71189609	School	2800	no
+ACTED	Dahuk	Zakho	45	Chronic	Household_Items	37.13869587,42.71672046	School	3570	no
+ACTED	Dahuk	Dahuk	50	Flu	Household_Items	36.86555131,42.98712367	Other	880	no
+NRC	Dahuk	Zakho	35	Chronic	Household_Items	37.1654706,42.9541646	School	3846	no
+NRC	Dahuk	Zakho	35	Chronic	Household_Items	37.2224098,43.0998217	School	540	no
+NRC	Dahuk	Zakho	45	Chronic	Household_Items	37.2310346,43.150292	School	1200	no
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Sanitation	35.13240743,44.45102314	Mosque/Church	1117	Unknown
+Mercy Corps	Kirkuk	Daquq	25	Chronic	Sanitation	35.13241476,44.45097202	Mosque/Church	1217	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Sanitation	35.14165413,44.44913722	Other	381	Unknown
+Mercy Corps	Kirkuk	Daquq	25	Chronic	Sanitation	35.13239804,44.45100244	Mosque/Church	435	Unknown
+Mercy Corps	Kirkuk	Kirkuk	56	Chronic	Sanitation	35.40981678,44.31106498	None Open Air	572	no
+Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Sanitation	35.42959304,44.39927629	Renting	885	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Sanitation	35.40589002,44.35403095	School	650	no
+NRC	Dahuk	Zakho	40	Chronic	Sanitation	37.2286284,43.120153	School	62	no
+ACTED	Dahuk	Dahuk	50	Diarrhea	Sanitation	36.87090634,42.97313897	School	150	no
+ACTED	Dahuk	Dahuk	60	Other	Medical_Assistance	36.8737168,42.98128081	School	127	no
+ACTED	Dahuk	Dahuk	60	Diarrhea	Medical_Assistance	36.87086603,42.97333737	School	303	no
+ACTED	Dahuk	Dahuk	65	Flu	Medical_Assistance	36.85488584,42.96570967	School	368	no
+ACTED	Dahuk	Dahuk	45	Diarrhea	Medical_Assistance	36.84359307,42.97713965	School	500	no
+NRC	Dahuk	Zakho	57	Chronic	Medical_Assistance	37.0930774,42.4320897	Camp	1506	no
+Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Medical_Assistance	35.38516988,44.37366597	School	252	Unknown
+Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Medical_Assistance	35.43633859,44.39761944	School	206	no
+Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Medical_Assistance	35.3901162,44.38405325	School	328	no
+NRC	Dahuk	Zakho	45	Chronic	Medical_Assistance	37.0930774,42.4320897	Camp	1500	no
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Medical_Assistance	35.14103739,44.44961364	Other	536	Unknown
+Mercy Corps	Kirkuk	Kirkuk	50	Chronic	Medical_Assistance	35.41205341,44.31565792	None Open Air	123	no
+Mercy Corps	Kirkuk	Kirkuk	62	Chronic	Medical_Assistance	35.44878395,44.37339298	Other	516	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Medical_Assistance	35.77170251,44.11933263	None Open Air	144	yes
+SCI	Salah_al_Din	Tooz	85	Chronic	Medical_Assistance	34.42974791,44.94115284	Camp	4000	no
+SCI	Diyala	Kifri	65	Chronic	Medical_Assistance	34.42972952,44.94116533	Mosque/Church	2500	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Medical_Assistance	35.4152125,44.34506524	School	825	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Medical_Assistance	35.41545792,44.34530128	School	42	no
+ACTED	Dahuk	Dahuk	53	Diarrhea	Medical_Assistance	36.85307338,42.94213129	School	382	no
+ACTED	Dahuk	Dahuk	59	Flu	Medical_Assistance	36.85296999,42.93582844	School	153	no
+ACTED	Dahuk	Dahuk	56	Flu	Medical_Assistance	36.85309811,43.03273824	School	557	no
+ACTED	Dahuk	Dahuk	55	Diarrhea	Medical_Assistance	36.85396798,43.01696434	School	305	no
+ACTED	Diyala	Kifri	65	Chronic	Medical_Assistance	34.73753602,45.07210953	Renting	693	no
+ACTED	Sulaymaniyah	Kalar	60	Chronic	Shelter_Improvement	34.6206025,45.32762346	Renting	5610	no
+ACTED	Diyala	Khanaqin	65	Chronic	Shelter_Improvement	34.3431162,45.32917656	Camp	1110	Unknown
+ACTED	Diyala	Kifri	60	Chronic	Shelter_Improvement	34.47238517,45.17303798	Camp	240	no
+Mercy Corps	Kirkuk	Daquq	30	Chronic	Shelter_Improvement	35.24120767,44.39465183	Camp	383	Unknown
+Mercy Corps	Kirkuk	Daquq	45	Chronic	Shelter_Improvement	35.14532557,44.4463266	Other	821	Unknown
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Shelter_Improvement	35.1414862,44.44899799	Camp	1193	Unknown
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Shelter_Improvement	35.14143264,44.4489814	Mosque/Church	1165	Unknown
+Mercy Corps	Kirkuk	Daquq	42	Chronic	Shelter_Improvement	35.14157056,44.44911274	Other	388	Unknown
+Mercy Corps	Kirkuk	Daquq	20	Chronic	Shelter_Improvement	35.14154772,44.44915239	Mosque/Church	675	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Shelter_Improvement	35.14150187,44.44897821	Other	1494	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Shelter_Improvement	35.14152761,44.44909455	Other	1022	Unknown
+ACTED	Ninewa	Shikhan	60	Diarrhea	Shelter_Improvement	36.76833733,43.32505745	Other	2650	no
+DRC	Dahuk	Zakho	40	Chronic	Shelter_Improvement	36.8682873,42.9686364	Other	2828	yes
+ACTED	Diyala	Kifri	65	Chronic	Shelter_Improvement	34.46770691,45.16863583	Renting	2310	no
+Mercy Corps	Kirkuk	Kirkuk	63	Chronic	Shelter_Improvement	35.39393605,44.40962853	School	483	no
+ACTED	Sulaymaniyah	Kalar	40	Chronic	Shelter_Improvement	34.62410161,45.3103076	Renting	220	no
+ACTED	Sulaymaniyah	Kalar	60	Chronic	Shelter_Improvement	34.63538497,45.30202878	Renting	1000	no
+ACTED	Sulaymaniyah	Kalar	40	Chronic	Shelter_Improvement	34.64098842,45.30860124	Renting	350	no
+Mercy Corps	Kirkuk	Kirkuk	122	Chronic	Shelter_Improvement	35.41745772,44.3307425	School	1324	no
+Mercy Corps	Kirkuk	Kirkuk	120	Chronic	Shelter_Improvement	35.40473571,44.38227268	None Open Air	1218	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Shelter_Improvement	35.40512593,44.38170087	School	926	no
+Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Shelter_Improvement	35.42107564,44.39848965	Renting	643	no
+ACTED	Diyala	Khanaqin	68	Chronic	Shelter_Improvement	34.34454256,45.33080731	Camp	348	no
+ACTED	Diyala	Kifri	65	Chronic	Shelter_Improvement	34.73754645,45.06931608	Renting	654	no
+ACTED	Dahuk	Zakho	46	Flu	Shelter_Improvement	37.14020323,42.57339712	Other	500	Unknown
+ACTED	Dahuk	Zakho	47	Flu	Shelter_Improvement	37.14041906,42.57341766	Other	800	Unknown
+ACTED	Dahuk	Zakho	50	Chronic	Shelter_Improvement	37.13942908,42.57325312	None Open Air	0	Unknown
+ACTED	Dahuk	Zakho	50	Flu	Shelter_Improvement	37.13945204,42.57330475	None Open Air	0	Unknown
+ACTED	Dahuk	Zakho	50	Flu	Footware	37.13947929,42.57327123	None Open Air	0	Unknown
+ACTED	Dahuk	Zakho	50	Flu	Footware	37.13980731,42.57339201	None Open Air	0	Unknown
+ACTED	Dahuk	Zakho	50	Flu	Water	37.13948415,42.57326896	None Open Air	0	Unknown
+ACTED	Dahuk	Zakho	50	Flu	Water	37.13939718,42.57331347	Other	0	Unknown
+ACTED	Dahuk	Zakho	50	Flu	Water	37.13948201,42.57311583	None Open Air	0	no
+ACTED	Dahuk	Zakho	50	Flu	Water	37.13955338,42.57325295	Other	0	no
+ACTED	Dahuk	Amedi	60	Flu	Water	37.09744098,43.39089612	Other	60	no
+ACTED	Dahuk	Amedi	40	Diarrhea	Water	37.07733929,43.26846628	Camp	930	no
+ACTED	Dahuk	Dahuk	55	Diarrhea	Water	36.69327705,43.59783559	Mosque/Church	2300	no
+ACTED	Ninewa	Mosul	30	Flu	Water	36.86641113,42.97609057	Other	4680	no
+ACTED	Dahuk	Dahuk	52	Flu	Water	36.7055824,43.60123018	Renting	2800	no
+ACTED	Dahuk	Dahuk	52	Flu	Water	36.70601176,43.60026643	Other	2700	no
+ACTED	Dahuk	Dahuk	59	Diarrhea	Water	36.70194692,43.59798957	Other	2800	no
+NRC	Dahuk	Sumel	55	Chronic	Water	36.96101792,42.68156827	School	126	no
+NRC	Dahuk	Sumel	60	Flu	Water	36.96075708,42.68391059	School	238	no
+NRC	Dahuk	Sumel	70	Chronic	Water	36.9608779,42.68170908	Other	1131	no
+NRC	Dahuk	Sumel	55	Chronic	Water	37.06051581,42.6137606	Other	732	no
+Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Water	35.43017739,44.36108428	School	192	no
+Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Water	35.41725422,44.33032858	School	789	no
+Mercy Corps	Kirkuk	Kirkuk	63	Chronic	Water	35.4290045,44.35583401	School	2531	no
+Mercy Corps	Kirkuk	Kirkuk	56	Chronic	Food	35.42221298,44.3584409	School	1571	no
+NRC	Dahuk	Sumel	70	Chronic	Food	36.90767465,42.88745203	Other	2309	no
+Mercy Corps	Kirkuk	Kirkuk	57	Chronic	Food	35.43446928,44.35101094	Mosque/Church	395	no
+NRC	Dahuk	Sumel	60	Chronic	Food	36.9074519,42.88751037	Other	3781	no
+NRC	Dahuk	Sumel	65	Chronic	Food	36.91191141,42.88549796	Other	771	no
+ACTED	Wassit	Namaniya	56	Chronic	Food	32.47193444,45.13188125	Mosque/Church	327	no
+ACTED	Wassit	Namaniya	61	Chronic	Food	32.47628505,45.14577046	Mosque/Church	246	Unknown
+ACTED	Wassit	Namaniya	70	Chronic	Food	32.47001534,45.12853506	Mosque/Church	410	no
+ACTED	Wassit	Namaniya	58	Chronic	Food	32.49296519,45.204508	Mosque/Church	325	no
+ACTED	Wassit	Namaniya	55	Chronic	Food	32.54260612,45.37369194	Mosque/Church	251	no
+NRC	Dahuk	Sumel	60	Chronic	Food	36.82099291,42.80673707	Other	1268	no
+NRC	Dahuk	Sumel	68	Chronic	Food	36.83449942,42.81820972	Other	266	no
+NRC	Dahuk	Sumel	60	Chronic	Food	36.84220264,42.82188702	Other	510	no
+ACTED	Wassit	Namaniya	63	Chronic	Food	32.54234377,45.3738505	Mosque/Church	425	no
+ACTED	Wassit	Namaniya	59	Chronic	Food	32.53392306,45.34879615	Mosque/Church	638	no
+ACTED	Wassit	Namaniya	60	Chronic	Food	32.53117277,45.33931218	Mosque/Church	607	no
+ACTED	Wassit	Namaniya	67	Chronic	Food	32.51142579,45.26988635	Mosque/Church	479	no
+ACTED	Wassit	Namaniya	68	Chronic	Food	32.50483729,45.24570346	Mosque/Church	458	no
+ACTED	Dahuk	Zakho	55	Chronic	Food	37.16470609,42.71196918	School	5000	Unknown
+ACTED	Dahuk	Zakho	60	Chronic	Food	37.16150726,42.71242532	School	221	no
+Mercy Corps	Kirkuk	Kirkuk	62	Chronic	Food	35.43445577,44.36274594	Mosque/Church	1778	no
+Mercy Corps	Kirkuk	Kirkuk	62	Chronic	Food	35.40533982,44.35445929	School	398	no
+ACTED	Wassit	Kut	59	Chronic	Food	32.51073035,45.81794891	Mosque/Church	963	no
+ACTED	Wassit	Kut	60	Chronic	Food	32.48430392,45.84315529	Mosque/Church	1112	no
+ACTED	Wassit	Kut	65	Chronic	Food	32.52558064,45.82341765	Renting	776	no
+ACTED	Wassit	Kut	60	Chronic	Food	32.56337808,45.6690442	Mosque/Church	1490	no
+ACTED	Wassit	Kut	65	Chronic	Food	32.53987615,45.8601893	Mosque/Church	655	no
+ACTED	Wassit	Kut	60	Chronic	Food	32.53268117,45.84426957	Mosque/Church	680	no
+ACTED	Wassit	Kut	57	Chronic	Food	32.47591594,45.82226489	Mosque/Church	879	no
+ACTED	Wassit	Kut	65	Chronic	Food	32.52997875,45.81189004	Mosque/Church	698	no
+ACTED	Wassit	Kut	60	Chronic	Food	32.59454529,45.94274475	Mosque/Church	360	no
+ACTED	Dahuk	Dahuk	52	Chronic	Food	36.86641926,42.98574275	Other	1090	no
+ACTED	Dahuk	Dahuk	65	Chronic	Food	36.88415222,42.95584182	Other	1100	no
+ACTED	Dahuk	Dahuk	58	Diarrhea	Food	36.84514171,43.05863229	Other	450	no
+ACTED	Wassit	Kut	62	Chronic	Food	32.51461787,45.83965346	Mosque/Church	1523	no
+ACTED	Wassit	Kut	60	Chronic	Food	32.54643279,45.82755996	Mosque/Church	490	no
+ACTED	Wassit	Kut	55	Chronic	Food	32.53939476,45.8235691	Mosque/Church	891	no
+ACTED	Dahuk	Dahuk	57	Diarrhea	Food	36.84645034,43.00099933	Other	88	no
+ACTED	Dahuk	Dahuk	65	Diarrhea	Food	36.84320633,43.05726076	Other	110	no
+ACTED	Dahuk	Dahuk	60	Flu	Food	36.82770182,43.10286074	Other	990	no
+ACTED	Dahuk	Dahuk	50	Diarrhea	Food	36.85702738,42.97064485	Other	620	no
+ACTED	Wassit	Kut	60	Chronic	Food	32.51943362,45.81135513	Mosque/Church	624	no
+ACTED	Wassit	Kut	62	Chronic	Food	32.52639044,45.82308177	Renting	612	no
+Mercy Corps	Kirkuk	Kirkuk	50	Chronic	Food	35.3889448,44.17630309	None Open Air	1242	yes
+Mercy Corps	Kirkuk	Kirkuk	63	Chronic	Food	35.39356892,44.26589914	None Open Air	452	no
+DRC	Ninewa	Mosul	30	Diarrhea	Food	36.86659658,42.97593006	Other	2550	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	23	Other	Food	35.5640393,45.4186215	Mosque/Church	404	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	25	Flu	Food	35.5641206,45.4184014	Mosque/Church	399	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	40	Flu	Food	35.56366383,45.41693126	School	232	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	25	Flu	Food	35.5640717,45.4184134	Mosque/Church	411	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	50	Other	Food	35.5641089,45.4183041	Mosque/Church	461	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Flu	Food	35.5642225,45.4182012	None Open Air	1790	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	30	Chronic	Food	35.55874051,45.39041826	Other	78	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	50	Other	Food	35.5642104,45.4183406	School	498	no
+Mercy Corps	Sulaymaniyah	Darbandihkan	40	Diarrhea	Food	35.5642438,45.4183758	Mosque/Church	2967	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	40	Flu	Food	35.5643061,45.4184544	Mosque/Church	964	no
+Mercy Corps	Sulaymaniyah	Darbandihkan	30	Chronic	Food	35.5642393,45.4182596	School	1100	no
+Mercy Corps	Sulaymaniyah	Rania	30	Other	Food	35.55559286,45.41315623	Camp	1490	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Diarrhea	Food	35.5572868,45.41593851	Renting	1236	no
+Mercy Corps	Sulaymaniyah	Halabja	30	Diarrhea	Food	35.5582479,45.41467955	Renting	1624	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	50	Flu	Food	35.55976743,45.41032413	Camp	725	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	50	Other	Food	35.55993954,45.41440207	Camp	138	no
+Mercy Corps	Sulaymaniyah	Chamchamal	35	Other	Food	35.5583301,45.4449872	Other	2960	yes
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	30	Other	Food	35.5583301,45.4449872	Renting	273	yes
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	30	Other	Food	35.5583301,45.4449872	Other	2200	yes
+Mercy Corps	Sulaymaniyah	Halabja	30	Chronic	Food	35.5583301,45.4449872	Renting	1430	no
+Mercy Corps	Sulaymaniyah	Sulaymaniya	35	Chronic	Food	35.5583301,45.4449872	Renting	542	no
+Mercy Corps	Sulaymaniyah	Penjwin	25	Flu	Food	35.5583301,45.4449872	Other	432	no
+Mercy Corps	Sulaymaniyah	Halabja	30	Diarrhea	Food	35.5583301,45.4449872	Other	954	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	25	Chronic	Food	35.53507076,45.43951006	Other	540	no
+DRC	Dahuk	Zakho	35	Flu	Food	37.05554903,42.44695092	Camp	7800	no
+DRC	Ninewa	Telafar	25	Diarrhea	Food	36.95979802,42.27019804	Other	4680	Unknown
+DRC	Ninewa	Telafar	30	Diarrhea	Food	36.93092127,42.35944955	Other	3504	no
+DRC	Ninewa	Telafar	30	Diarrhea	Food	36.84227586,42.38573343	Other	2910	no
+ACTED	Dahuk	Zakho	45	Diarrhea	Clothing	37.15021416,42.66007153	Other	2700	no
+ACTED	Dahuk	Dahuk	40	Chronic	Clothing	36.88942444,42.9154439	Other	1500	no
+ACTED	Dahuk	Dahuk	45	Chronic	Clothing	36.86219185,42.98388708	Other	229	no
+ACTED	Dahuk	Dahuk	30	Chronic	Clothing	36.86566979,42.98723758	Other	198	no
+Mercy Corps	Kirkuk	Kirkuk	57	Chronic	Clothing	35.44249906,44.39583541	School	1239	no
+NRC	Dahuk	Zakho	20	Chronic	Clothing	37.0864728,42.40067082	None Open Air	163	no
+NRC	Baghdad	Resafa	65	Chronic	Clothing	33.30963354,44.43603749	School	180	no
+NRC	Baghdad	Karkh	50	Chronic	Clothing	33.31532463,44.32098718	School	420	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Clothing	35.41968837,44.31523211	Renting	492	no
+ACTED	Dahuk	Zakho	45	Chronic	Clothing	37.14467275,42.69051729	Other	2079	no
+ACTED	Wassit	Hai	60	Chronic	Clothing	32.17919495,46.03426624	Mosque/Church	588	no
+ACTED	Wassit	Hai	60	Chronic	Clothing	32.18004928,46.02928737	Mosque/Church	290	no
+ACTED	Wassit	Hai	65	Chronic	Clothing	32.17472419,46.04049632	Mosque/Church	485	no
+ACTED	Wassit	Hai	60	Chronic	Clothing	32.16281929,46.04171364	Mosque/Church	410	no
+ACTED	Wassit	Hai	60	Chronic	Clothing	32.17009334,46.04543409	Mosque/Church	520	no
+ACTED	Wassit	Hai	60	Chronic	Clothing	32.26677404,45.93300084	Mosque/Church	277	no
+NRC	Baghdad	Resafa	40	Chronic	Clothing	33.26214965,44.48324096	School	1250	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Other	Clothing	35.58449044,45.27384464	Renting	280	no
+NRC	Baghdad	Karkh	65	Chronic	Clothing	33.33908307,44.38311278	Mosque/Church	480	no
+NRC	Baghdad	Resafa	20	Chronic	Clothing	33.31185964,44.49026623	School	65	no
+NRC	Baghdad	Resafa	55	Chronic	Clothing	33.31266874,44.48887512	School	75	no
+NRC	Baghdad	Resafa	70	Chronic	Clothing	33.30429698,44.4868597	School	240	Unknown
+NRC	Baghdad	Resafa	60	Chronic	Clothing	33.29955049,44.49416111	School	75	no
+ACTED	Dahuk	Dahuk	53	Chronic	Clothing	36.87280895,42.92708435	Other	1350	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Other	Clothing	35.58615921,45.30544581	Other	876	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	25	Chronic	Clothing	35.5861609,45.26528181	Renting	1050	no
+Mercy Corps	Kirkuk	Kirkuk	63	Chronic	Clothing	35.41774634,44.33042404	School	1722	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Clothing	35.38842551,44.17620355	None Open Air	1142	yes
+Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Clothing	35.44291736,44.39889924	Renting	1725	no
+NRC	Baghdad	Kadhimia	55	Chronic	Clothing	33.3724929,44.28149507	Renting	800	no
+ACTED	Dahuk	Zakho	47	Chronic	Clothing	37.14163809,42.6613139	Other	3200	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	40	Flu	Clothing	35.59649036,45.22937405	Renting	2628	no
+NRC	Baghdad	Kadhimia	50	Chronic	Clothing	33.34946236,44.32964199	Renting	700	no
+NRC	Dahuk	Dahuk	60	Chronic	Clothing	36.91252371,42.88663991	Other	616	no
+NRC	Baghdad	Thawra2	60	Chronic	Clothing	33.39316459,44.52381668	Renting	650	no
+NRC	Baghdad	Karkh	50	Chronic	Clothing	33.31595016,44.33087161	Renting	800	no
+ACTED	Dahuk	Zakho	61	Chronic	Clothing	37.17922837,42.7285868	Other	1905	no
+Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Clothing	35.41391944,44.43518867	Renting	771	no
+NRC	Najaf	Najaf	55	Chronic	Clothing	32.07510888,44.37824783	Mosque/Church	1100	no
+NRC	Baghdad	Karkh	65	Chronic	Clothing	33.31933868,44.36206333	Renting	1176	no
+ACTED	Dahuk	Dahuk	63	Chronic	Clothing	36.84396586,43.00520495	Other	3150	no
+NRC	Dahuk	Zakho	60	Chronic	Clothing	37.07444385,42.38007884	None Open Air	216	no
+NRC	Najaf	Manathera	20	Chronic	Clothing	31.97673666,44.45535184	Renting	1200	no
+NRC	Najaf	Najaf	60	Chronic	Clothing	31.82796858,44.49575183	Mosque/Church	960	no
+NRC	Najaf	Najaf	55	Chronic	Clothing	32.10475674,44.3235174	Mosque/Church	1090	Unknown
+NRC	Baghdad	Karkh	70	Chronic	Clothing	33.23319508,44.34105943	Renting	200	Unknown
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Clothing	35.10133345,44.47308867	None Open Air	227	Unknown
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.28100465,44.35786072	None Open Air	759	Unknown
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	40	Flu	Clothing	35.59222598,45.41329323	Renting	108	no
+Mercy Corps	Kirkuk	Daquq	55	Chronic	Clothing	35.07441161,44.50439324	None Open Air	826	Unknown
+ACTED	Thi_Qar	Rifai	45	Chronic	Clothing	31.53469261,46.1184684	Renting	362	no
+ACTED	Thi_Qar	Rifai	60	Chronic	Clothing	31.72241153,46.11214063	Mosque/Church	678	no
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.14280413,44.45250439	Other	289	Unknown
+ACTED	Dahuk	Dahuk	55	Chronic	Clothing	36.8777277,42.92695452	Renting	2900	no
+ACTED	Dahuk	Dahuk	48	Chronic	Clothing	36.83904832,43.08197077	Renting	2676	no
+ACTED	Dahuk	Dahuk	60	Flu	Clothing	36.84939561,43.06651505	Renting	2952	no
+ACTED	Dahuk	Dahuk	58	Chronic	Clothing	36.83964348,43.06067512	Renting	2980	no
+ACTED	Missan	Ali_Al_Gharbi	65	Chronic	Clothing	32.46012381,46.69005137	Renting	200	no
+ACTED	Missan	Ali_Al_Gharbi	55	Chronic	Clothing	32.12239196,46.73415307	Mosque/Church	174	no
+ACTED	Missan	Amara	40	Chronic	Clothing	31.88489365,47.16710602	Camp	460	no
+ACTED	Missan	Amara	65	Chronic	Clothing	31.83973659,47.10372001	Renting	109	no
+ACTED	Qadissiya	Diwaniya	65	Chronic	Clothing	31.98090403,44.97398377	Other	950	no
+ACTED	Qadissiya	Diwaniya	60	Chronic	Clothing	32.00510135,44.85379735	Mosque/Church	350	no
+ACTED	Muthanna	Samawa	70	Chronic	Clothing	31.29253317,45.2864092	Renting	980	no
+ACTED	Muthanna	Rumaitha	60	Diarrhea	Clothing	31.50966353,45.21212199	Renting	180	no
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Clothing	35.14534141,44.44581094	Other	706	Unknown
+Mercy Corps	Kirkuk	Daquq	50	Diarrhea	Clothing	35.14277068,44.45252937	Other	611	no
+ACTED	Babylon	Hashimiya	60	Chronic	Clothing	32.30156195,44.68576579	Mosque/Church	923	no
+ACTED	Babylon	Hashimiya	65	Chronic	Household_Items	32.29810256,44.68407167	Mosque/Church	755	no
+Mercy Corps	Kirkuk	Daquq	45	Chronic	Household_Items	35.14157513,44.44914903	Other	312	Unknown
+NRC	Najaf	Najaf	60	Chronic	Household_Items	31.82789498,44.49578827	Mosque/Church	750	no
+NRC	Dahuk	Amedi	60	Chronic	Household_Items	37.05269285,43.66447491	Other	314	no
+NRC	Dahuk	Amedi	70	Chronic	Household_Items	37.02621454,43.80141425	Other	275	no
+NRC	Dahuk	Amedi	60	Chronic	Household_Items	37.06089613,43.64438013	Other	422	no
+NRC	Dahuk	Amedi	65	Chronic	Household_Items	37.02627636,43.80140034	Other	413	no
+Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Household_Items	35.42834841,44.35764451	Renting	1945	no
+ACTED	Dahuk	Dahuk	60	Flu	Household_Items	36.73712333,43.87967113	Renting	3200	Unknown
+ACTED	Dahuk	Amedi	40	Flu	Household_Items	37.09336763,43.48804909	Renting	2989	Unknown
+ACTED	Dahuk	Dahuk	40	Flu	Household_Items	36.68863599,43.79974365	Camp	650	Unknown
+ACTED	Dahuk	Dahuk	55	Flu	Household_Items	36.73243999,43.88025359	Renting	3000	Unknown
+ACTED	Dahuk	Dahuk	80	Flu	Household_Items	36.68928584,43.79962002	Camp	20	Unknown
+Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Household_Items	35.42901996,44.35635908	School	2312	no
+Mercy Corps	Kirkuk	Daquq	70	Chronic	Household_Items	35.14159479,44.44913772	Other	806	Unknown
+NRC	Dahuk	Amedi	70	Chronic	Household_Items	37.06086445,43.64432842	Other	471	no
+NRC	Dahuk	Amedi	60	Chronic	Household_Items	37.02622033,43.80141442	Other	323	no
+NRC	Dahuk	Amedi	65	Chronic	Household_Items	37.23036921,43.44977983	Other	370	no
+Mercy Corps	Kirkuk	Kirkuk	52	Chronic	Household_Items	35.41498127,44.43569055	Mosque/Church	1290	no
+NRC	Dahuk	Dahuk	65	Chronic	Household_Items	36.84696541,43.01375105	Other	1363	no
+Mercy Corps	Kirkuk	Kirkuk	65	Chronic	Household_Items	35.38592344,44.37615729	Renting	1960	no
+NRC	Dahuk	Amedi	60	Chronic	Household_Items	37.2303876,43.44981956	Other	246	no
+NRC	Dahuk	Amedi	55	Chronic	Household_Items	37.10074546,43.47670049	Other	479	no
+NRC	Dahuk	Amedi	65	Chronic	Household_Items	37.06091005,43.64425843	Other	335	no
+NRC	Dahuk	Dahuk	60	Chronic	Household_Items	36.83876539,43.08164229	Other	1450	no
+acted	Dahuk	Dahuk	35	Chronic	Household_Items	36.77196715,43.31414128	Other	450	no
+Mercy Corps	Kirkuk	Kirkuk	62	Chronic	Household_Items	35.42920523,44.35612556	Renting	787	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Chronic	Household_Items	35.43350146,45.59462179	Camp	50	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	25	Chronic	Household_Items	35.5640691,45.4182765	Other	102	no
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Household_Items	35.25304958,44.3946183	Other	653	Unknown
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Household_Items	35.00970885,44.54087857	None Open Air	900	Unknown
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Household_Items	35.14163288,44.44905826	Other	470	Unknown
+acted	Dahuk	Dahuk	45	Chronic	Household_Items	36.86207932,42.98387828	Other	340	no
+NRC	Dahuk	Dahuk	75	Chronic	Household_Items	36.83903013,43.08119805	Other	1340	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	30	Flu	Household_Items	35.43338346,45.59457754	Camp	1050	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	40	Chronic	Household_Items	35.43334472,45.59461098	Camp	540	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	35	Chronic	Household_Items	35.4333785,45.5945763	Camp	1410	no
+Mercy Corps	Sulaymaniyah	Sulaymaniyah	30	Chronic	Household_Items	35.43296564,45.5961712	Camp	1008	no
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Household_Items	35.11823623,44.45132154	None Open Air	74	Unknown
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Household_Items	35.30942237,44.43758276	Other	1130	Unknown
+Mercy Corps	Sulaymaniyah	Chamchamal	55	Chronic	Household_Items	35.56371975,45.42742627	Camp	4051	no
+Mercy Corps	Sulaymaniyah	Halabja	55	Chronic	Household_Items	35.56377403,45.42757127	Renting	6127	Unknown
+Mercy Corps	Diyala	Balad Ruz 	57	Diarrhea	Household_Items	33.693333,45.0720978	Other	324	Unknown
+Mercy Corps	Diyala	Balad Ruz 	43	Chronic	Household_Items	33.693333,45.0720978	Renting	700	yes
+Mercy Corps	Diyala	Baquba	43	Chronic	Household_Items	33.693333,45.0720978	Renting	280	yes
+Mercy Corps	Diyala	Balad Ruz 	33	Chronic	Household_Items	33.693333,45.0720978	Renting	790	yes
+Mercy Corps	Diyala	Balad Ruz 	41	Chronic	Household_Items	33.6911014,45.06742	Renting	817	yes
+Mercy Corps	Diyala	Baladrooz	21	Chronic	Household_Items	33.7471625,45.5527925	Renting	480	Unknown
+Mercy Corps	Diyala	Balad Ruz 	43	Chronic	Household_Items	33.693333,45.0720978	Renting	410	Unknown
+Mercy Corps	Diyala	Balad Ruz 	70	Chronic	Household_Items	33.693333,45.0720978	Renting	811	yes
+ACTED	Dahuk	Akre	70	Flu	Household_Items	36.72791573,44.01632013	Renting	1230	no
+ACTED	Dahuk	Dahuk	60	Flu	Household_Items	36.8416986,42.93162986	Other	1230	no
+ACTED	Dahuk	Dahuk	60	Flu	Household_Items	36.83906324,43.03867548	Other	455	no
+ACTED	Dahuk	Dahuk	45	Flu	Household_Items	36.84695154,43.03825504	Other	730	no
+ACTED	Dahuk	Amedi	44	Flu	Household_Items	37.1030939,43.3557047	Renting	2019	Unknown
+ACTED	Dahuk	Akre	40	Chronic	Household_Items	36.65333318,43.80614902	Other	6750	yes
+ACTED	Dahuk	Akre	70	Flu	Household_Items	36.68866386,43.79988053	Camp	100	Unknown
+ACTED	Dahuk	Akre	50	Flu	Household_Items	36.6891273,43.79960644	Camp	102	no
+ACTED	Dahuk	Akre	50	Flu	Household_Items	36.6885927,43.79975681	Camp	338	Unknown
+ACTED	Dahuk	Akre	50	Chronic	Household_Items	36.68863851,43.7996336	Camp	75	no
+ACTED	Dahuk	Akre	50	Flu	Household_Items	36.68873813,43.7995766	Camp	198	no
+ACTED	Dahuk	Akre	50	Chronic	Household_Items	36.68863947,43.79962949	Camp	439	no
+ACTED	Dahuk	Akre	50	Chronic	Household_Items	36.688536,43.79936571	Camp	200	no
+ACTED	Dahuk	Akre	50	Flu	Household_Items	36.68853671,43.79939832	Camp	42	no
+ACTED	Dahuk	Amedi	40	Chronic	Household_Items	37.10049669,43.36826557	Other	1770	no
+ACTED	Dahuk	Dahuk	60	Chronic	Household_Items	36.88193383,43.11897017	Other	350	no
+DRC	Ninewa	Telafar	35	Chronic	Household_Items	36.93316736,42.36285797	Other	1452	no
+DRC	Kerbala	Ain_Al_Tamur	40	Diarrhea	Household_Items	32.47387596,43.73104835	Renting	500	no
+ACTED	Dahuk	Akre	70	Chronic	Household_Items	36.68864203,43.79951516	Camp	15	no
+ACTED	Dahuk	Akre	57	Flu	Household_Items	36.68860045,43.79965254	Camp	112	no
+ACTED	Dahuk	Akre	55	Chronic	Household_Items	36.68842456,43.79984013	Camp	400	no
+ACTED	Dahuk	Akre	60	Chronic	Household_Items	36.68848038,43.79978841	Camp	430	no
+ACTED	Dahuk	Akre	55	Chronic	Household_Items	36.68852166,43.80001623	Camp	355	no
+ACTED	Dahuk	Akre	55	Chronic	Household_Items	36.68846949,43.80000617	Camp	320	no
+ACTED	Dahuk	Akre	56	Chronic	Household_Items	36.68864307,43.79987407	Camp	450	no
+ACTED	Dahuk	Akre	52	Chronic	Household_Items	36.68864622,43.7997802	Camp	390	no
+ACTED	Dahuk	Akre	56	Flu	Household_Items	36.68860355,43.79969713	Camp	1350	no
+ACTED	Dahuk	Akre	52	Chronic	Household_Items	36.68854153,43.79959881	Camp	1120	no
+ACTED	Dahuk	Akre	60	Chronic	Household_Items	36.68848323,43.79957761	Camp	1670	no
+ACTED	Dahuk	Akre	56	Chronic	Household_Items	36.68836299,43.79931609	Camp	450	no
+ACTED	Dahuk	Akre	51	Flu	Household_Items	36.6883578,43.79960015	Camp	690	no
+ACTED	Dahuk	Akre	53	Chronic	Household_Items	36.6883145,43.79951214	Camp	415	no
+ACTED	Dahuk	Akre	60	Chronic	Household_Items	36.68843914,43.79950619	Camp	337	no
+ACTED	Dahuk	Akre	56	Chronic	Household_Items	36.65866369,43.80453609	Other	2560	no
+ACTED	Dahuk	Akre	58	Chronic	Household_Items	36.68879764,43.79948566	Camp	615	no
+ACTED	Dahuk	Amedi	60	Chronic	Household_Items	37.04429716,43.33644317	Renting	2435	no
+ACTED	Dahuk	Amedi	56	Chronic	Household_Items	37.09895253,43.38158341	Renting	2150	no
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Household_Items	35.14286226,44.45273607	Other	609	Unknown
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Household_Items	35.1346463,44.445952	Renting	680	yes
+Mercy Corps	Sulaymaniyah	Sulaymaniya	30	Flu	Household_Items	35.58062962,45.41048257	Renting	1236	no
+Mercy Corps	Sulaymaniyah	Sulaymaniya	25	Flu	Household_Items	35.56071848,45.44627264	Hotel	238	Unknown
+Mercy Corps	Sulaymaniyah	Sulaymaniya	35	Flu	Household_Items	35.5340214,45.44958451	Other	238	no
+Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Household_Items	35.42788794,44.35591547	Mosque/Church	3741	no
+Mercy Corps	Diyala	Baladrooz	57	Diarrhea	Household_Items	33.5008098,45.3347826	Other	324	Unknown
+Mercy Corps	Diyala	Baladrooz	43	Chronic	Household_Items	33.5008098,45.3347826	Renting	700	yes
+Mercy Corps	Diyala	Baquba	43	Chronic	Household_Items	35.5641981,45.418318	Renting	280	yes
+Mercy Corps	Diyala	Baladrooz	33	Chronic	Household_Items	35.5641805,45.4182416	Renting	790	yes
+Mercy Corps	Diyala	Baladrooz	21	Chronic	Household_Items	33.5008098,45.3347826	Renting	480	Unknown
+Mercy Corps	Diyala	Baladrooz	43	Chronic	Household_Items	35.5641763,45.4182119	Renting	410	Unknown
+Mercy Corps	Diyala	Baladrooz	70	Chronic	Household_Items	33.5008098,45.3347826	Renting	342	yes
+ACTED	Dahuk	Akre	70	Flu	Household_Items	36.72791573,44.01632013	Renting	1230	no
+ACTED	Dahuk	Dahuk	60	Flu	Household_Items	36.8416986,42.93162986	Other	1230	no
+ACTED	Dahuk	Dahuk	60	Flu	Household_Items	36.83906324,43.03867548	Other	455	no
+ACTED	Dahuk	Dahuk	45	Flu	Household_Items	36.84695154,43.03825504	Other	730	no
+ACTED	Dahuk	Amedi	44	Flu	Household_Items	37.1030939,43.3557047	Renting	2019	Unknown
+ACTED	Dahuk	Akre	40	Chronic	Household_Items	36.65333318,43.80614902	Other	6750	yes
+ACTED	Dahuk	Akre	70	Flu	Household_Items	36.68866386,43.79988053	Camp	100	Unknown
+ACTED	Dahuk	Akre	65	Flu	Household_Items	36.79325664,43.98418156	Mosque/Church	3400	Unknown
+ACTED	Dahuk	Akre	50	Chronic	Sanitation	36.68862434,43.79976578	Camp	53	no
+ACTED	Dahuk	Akre	50	Chronic	Sanitation	36.68861013,43.79976762	Camp	44	no
+ACTED	Dahuk	Akre	50	Flu	Sanitation	36.6891273,43.79960644	Camp	102	no
+ACTED	Dahuk	Akre	50	Flu	Sanitation	36.6885927,43.79975681	Camp	338	Unknown
+ACTED	Dahuk	Akre	50	Chronic	Sanitation	36.68863851,43.7996336	Camp	75	no
+ACTED	Dahuk	Akre	50	Flu	Sanitation	36.68873813,43.7995766	Camp	198	no
+ACTED	Dahuk	Akre	50	Chronic	Medical_Assistance	36.68863947,43.79962949	Camp	439	no
+ACTED	Dahuk	Akre	50	Chronic	Medical_Assistance	36.688536,43.79936571	Camp	200	no
+ACTED	Dahuk	Akre	50	Flu	Medical_Assistance	36.68853671,43.79939832	Camp	42	no
+ACTED	Dahuk	Amedi	40	Chronic	Medical_Assistance	37.10049669,43.36826557	Other	1770	no
+ACTED	Dahuk	Dahuk	60	Chronic	Medical_Assistance	36.88193383,43.11897017	Other	350	no
+DRC	Ninewa	Telafar	35	Chronic	Medical_Assistance	36.93316736,42.36285797	Other	1452	no
+DRC	Kerbala	Ain_Al_Tamur	40	Diarrhea	Medical_Assistance	32.47387596,43.73104835	Renting	500	no
+ACTED	Dahuk	Akre	70	Chronic	Medical_Assistance	36.68864203,43.79951516	Camp	15	no
+ACTED	Dahuk	Akre	57	Flu	Medical_Assistance	36.68860045,43.79965254	Camp	112	no
+ACTED	Dahuk	Akre	55	Chronic	Medical_Assistance	36.68842456,43.79984013	Camp	400	no
+ACTED	Dahuk	Akre	60	Chronic	Medical_Assistance	36.68848038,43.79978841	Camp	430	no
+ACTED	Dahuk	Akre	55	Chronic	Medical_Assistance	36.68852166,43.80001623	Camp	355	no
+ACTED	Dahuk	Akre	55	Chronic	Medical_Assistance	36.68846949,43.80000617	Camp	320	no
+ACTED	Dahuk	Akre	56	Chronic	Medical_Assistance	36.68864307,43.79987407	Camp	450	no
+ACTED	Dahuk	Akre	52	Chronic	Medical_Assistance	36.68864622,43.7997802	Camp	390	no
+ACTED	Dahuk	Akre	56	Flu	Medical_Assistance	36.68860355,43.79969713	Camp	1350	no
+ACTED	Dahuk	Akre	52	Chronic	Medical_Assistance	36.68854153,43.79959881	Camp	1120	no
+ACTED	Dahuk	Akre	60	Chronic	Medical_Assistance	36.68848323,43.79957761	Camp	1670	no
+ACTED	Dahuk	Akre	56	Chronic	Medical_Assistance	36.68836299,43.79931609	Camp	450	no
+ACTED	Dahuk	Akre	51	Flu	Medical_Assistance	36.6883578,43.79960015	Camp	690	no
+ACTED	Dahuk	Akre	53	Chronic	Medical_Assistance	36.6883145,43.79951214	Camp	415	no
+ACTED	Dahuk	Akre	60	Chronic	Medical_Assistance	36.68843914,43.79950619	Camp	337	no
+ACTED	Dahuk	Akre	56	Chronic	Medical_Assistance	36.65866369,43.80453609	Other	2560	no
+ACTED	Dahuk	Akre	58	Chronic	Medical_Assistance	36.68879764,43.79948566	Camp	615	no
+ACTED	Dahuk	Amedi	60	Chronic	Medical_Assistance	37.04429716,43.33644317	Renting	2435	no
+ACTED	Dahuk	Amedi	56	Chronic	Medical_Assistance	37.09895253,43.38158341	Renting	2150	no
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Medical_Assistance	35.14286226,44.45273607	Other	609	Unknown
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Medical_Assistance	35.1346463,44.445952	Renting	680	yes
+Mercy Corps	Sulaymaniyah	Sulaymaniya	30	Flu	Medical_Assistance	35.58062962,45.41048257	Renting	1236	no
+Mercy Corps	Sulaymaniyah	Sulaymaniya	25	Flu	Medical_Assistance	35.56071848,45.44627264	Hotel	238	Unknown
+Mercy Corps	Sulaymaniyah	Sulaymaniya	35	Flu	Medical_Assistance	35.5340214,45.44958451	Other	238	no
+Mercy Corps	Kirkuk	Kirkuk	60	Chronic	Medical_Assistance	35.42788794,44.35591547	Mosque/Church	3741	no
+ACTED	Dahuk	Dahuk	39	Chronic	Medical_Assistance	37.0358557,43.09644003	Other	705	no
+ACTED	Dahuk	Zakho	60	Chronic	Medical_Assistance	37.14751787,42.75263507	Other	3100	no
+Mercy Corps	Kirkuk	Kirkuk	55	Flu	Medical_Assistance	35.39630468,44.34070573	Other	861	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Medical_Assistance	35.42942853,44.35612286	School	3595	no
+Mercy Corps	Diyala	Baladrooz	22	Chronic	Medical_Assistance	33.74245905,45.54447703	Renting	113	Unknown
+Mercy Corps	Diyala	Baladrooz	33	Chronic	Medical_Assistance	33.69849995,45.08904473	Renting	538	Unknown
+DRC	Ninewa	Tilkaif	70	Chronic	Medical_Assistance	36.79375257,42.17633328	None Open Air	1564	Unknown
+NRC	Dahuk	Zakho	60	Chronic	Medical_Assistance	36.86483131,42.93039839	Other	584	no
+NRC	Dahuk	Zakho	65	Chronic	Medical_Assistance	36.86483349,42.93041364	None Open Air	1676	no
+NRC	Dahuk	Zakho	60	Chronic	Medical_Assistance	36.86478068,42.93034508	School	579	no
+NRC	Dahuk	Zakho	60	Chronic	Medical_Assistance	36.86480889,42.93028439	None Open Air	228	no
+NRC	Dahuk	Zakho	70	Chronic	Medical_Assistance	36.86484711,42.93017275	None Open Air	1459	no
+NRC	Dahuk	Sumel	70	Chronic	Medical_Assistance	36.86489602,42.93026956	None Open Air	1623	no
+NRC	Dahuk	Sumel	60	Chronic	Medical_Assistance	36.86511273,42.93020887	None Open Air	1324	no
+NRC	Dahuk	Zakho	60	Chronic	Medical_Assistance	36.865173,42.93019018	None Open Air	154	no
+NRC	Dahuk	Zakho	60	Chronic	Medical_Assistance	36.86489975,42.93010343	School	139	no
+NRC	Dahuk	Zakho	70	Chronic	Medical_Assistance	36.86518293,42.92986698	None Open Air	1288	no
+NRC	Dahuk	Zakho	75	Chronic	Shelter_Improvement	36.86484095,42.93016361	School	907	no
+NRC	Dahuk	Zakho	60	Chronic	Shelter_Improvement	36.86509152,42.93046217	School	22550	no
+Mercy Corps	Kirkuk	Daquq	40	Chronic	Shelter_Improvement	35.14276457,44.45263398	Renting	897	Unknown
+Mercy Corps	Kirkuk	Daquq	60	Chronic	Shelter_Improvement	35.11688464,44.45199561	None Open Air	62	Unknown
+ACTED	Dahuk	Dahuk	48	Chronic	Shelter_Improvement	37.03599358,43.09288778	Other	790	no
+ACTED	Dahuk	Dahuk	60	Chronic	Shelter_Improvement	37.0106175,43.04795064	Mosque/Church	2500	no
+Mercy Corps	Kirkuk	Kirkuk	50	Chronic	Shelter_Improvement	35.30241719,44.31877993	Renting	1963	Unknown
+Mercy Corps	Sulaymaniyah	Sulaymaniya	40	Chronic	Shelter_Improvement	35.43360228,45.59691096	Camp	1290	no
+Mercy Corps	Kirkuk	Daquq	50	Chronic	Shelter_Improvement	35.1165637,44.45231723	None Open Air	17	Unknown
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Shelter_Improvement	35.49525525,44.33406343	Renting	2010	no
+Mercy Corps	Diyala	Khalis	24	Chronic	Shelter_Improvement	33.77985585,44.5986344	Renting	1312	Unknown
+Mercy Corps	Diyala	Khalis	70	Chronic	Shelter_Improvement	33.78061367,44.59813007	Renting	1543	Unknown
+Mercy Corps	Diyala	Khalis	30	Chronic	Shelter_Improvement	33.78071068,44.59793045	Renting	1255	Unknown
+Mercy Corps	Kirkuk	Kirkuk	54	Chronic	Shelter_Improvement	35.38638267,44.2802576	Renting	1454	no
+Mercy Corps	Kirkuk	Kirkuk	52	Chronic	Shelter_Improvement	35.35961667,44.3305318	Renting	1263	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Shelter_Improvement	35.42899799,44.35533695	Renting	1744	no
+Mercy Corps	Kirkuk	Kirkuk	55	Chronic	Shelter_Improvement	35.42939098,44.35608555	Renting	5651	no
+ACTED	Diyala	Khanaqin	85	Chronic	Shelter_Improvement	34.34453582,45.33060954	Camp	408	yes
+ACTED	Diyala	Khanaqin	90	Chronic	Shelter_Improvement	34.34461173,45.33047317	Camp	430	no
+ACTED	Diyala	Khanaqin	45	Chronic	Shelter_Improvement	34.35059112,45.34261215	Camp	348	no
+ACTED	Diyala	Khanaqin	55	Chronic	Shelter_Improvement	34.26137503,45.27530293	None Open Air	660	Unknown
+ACTED	Diyala	Khanaqin	51	Chronic	Shelter_Improvement	34.3204587,45.3983444	Mosque/Church	48	Unknown
+SCI	Kirkuk	Daquq	68	Chronic	Shelter_Improvement	35.23743389,44.3895496	Other	376	no
+SCI	Kirkuk	Kirkuk	71	Chronic	Shelter_Improvement	35.41300907,44.33338221	Other	238	no
+SCI	Sulaymaniyah	Chamchamal	55	Chronic	Shelter_Improvement	35.53947552,44.84153383	Camp	21100	yes
+SCI	Sulaymaniyah	Chamchamal	75	Chronic	Shelter_Improvement	35.53971469,44.84130484	Renting	18075	no
+SCI	Sulaymaniyah	Halabja	55	Chronic	Shelter_Improvement	35.31711599,45.66451008	Renting	6127	no
+SCI	Sulaymaniyah	Sulaymaniyah	125	Chronic	Shelter_Improvement	35.36017906,45.86518499	Renting	3335	Unknown
+SCI	Sulaymaniyah	Sulaymaniyah	135	Flu	Shelter_Improvement	35.36038513,45.8651917	Renting	2726	no
+SCI	Sulaymaniyah	Sulaymaniyah	137	Chronic	Shelter_Improvement	35.59002552,45.25989122	Renting	3950	yes
+SCI	Sulaymaniyah	Chamchamal	55	Chronic	Shelter_Improvement	35.53956177,44.84150969	Camp	4051	no
