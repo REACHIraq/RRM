@@ -55,7 +55,7 @@
                <img src="images/ccccm-siteasessment2.png" style="width: 100%"></a>
          </div>
 
-        <div class="col-xs-12"></br>Last update: 16-2-2015</br></br>The Rapid Response Mechanism (RRM) was developed to provide essential humanitarian assistance to the ongoing displacements of families in Iraq by providing of essential, water, hygiene, food and nutrition, basic items and shelter assistance to girls, boys, families and vulnerable individuals. All data displayed on this page is from a complimentary assessment the partners conducted in tandem to aid distribution.</div>
+        <div class="col-xs-12"></br>Last update: 22-2-2015</br></br>The Rapid Response Mechanism (RRM) was developed to provide essential humanitarian assistance to the ongoing displacements of families in Iraq by providing of essential, water, hygiene, food and nutrition, basic items and shelter assistance to girls, boys, families and vulnerable individuals. All data displayed on this page is from a complimentary assessment the partners conducted in tandem to aid distribution.</div>
 
             <div class="socialmedia" data-step="6" data-intro="Feel Free to share if you like it!" data-position="left">
                 <table>
@@ -367,6 +367,7 @@ function drawMarkerSelect(data) {
         .colorDomain([0,0])
         .colorAccessor(function(d, i){return 1;})
         .xAxis().ticks(4).tickFormat(d3.format("s"));
+		
 
   var governorates = xf.dimension(function(d) { return d.governorate; });
   var governoratesByIndividual = governorates.group().reduceSum(function (d) { return d.population; });
